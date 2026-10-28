@@ -1,0 +1,287 @@
+{
+ "id": "conditionals",
+ "title": "Les conditionnels : zero, first, second",
+ "level": "B1",
+ "topic": "Grammaire",
+ "summary": "Si + présent, si + prétérit : réalité, possibilité, hypothèse. Et la règle d'or : pas de will après if.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Zero conditional : vérités générales"
+  },
+  {
+   "type": "p",
+   "text": "*If + présent, présent.* *If you heat ice, it melts.* Se traduit par « quand » ou « si » équivalents."
+  },
+  {
+   "type": "h",
+   "text": "First conditional : possibilité réelle"
+  },
+  {
+   "type": "p",
+   "text": "*If + présent, will + verbe.* *If it rains, we will stay at home.*"
+  },
+  {
+   "type": "h",
+   "text": "Second conditional : hypothèse irréelle"
+  },
+  {
+   "type": "p",
+   "text": "*If + prétérit, would + verbe.* *If I had more time, I would learn Spanish.* (je n'en ai pas, donc c'est irréel)"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Type",
+    "if…",
+    "résultat",
+    "sens"
+   ],
+   "rows": [
+    [
+     "zero",
+     "présent",
+     "présent",
+     "toujours vrai"
+    ],
+    [
+     "first",
+     "présent",
+     "will + verbe",
+     "possible, probable"
+    ],
+    [
+     "second",
+     "prétérit",
+     "would + verbe",
+     "irréel / improbable"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Avec to be au second conditionnel, on emploie **were** pour toutes les personnes : *If I were you, I would call him.*"
+  },
+  {
+   "type": "h",
+   "text": "Unless et as long as"
+  },
+  {
+   "type": "list",
+   "items": [
+    "*unless* = if … not : *Unless you hurry, you'll miss the train.*",
+    "*as long as / provided that* = à condition que : *You can use it as long as you return it.*"
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "If you press this button, the machine stops.",
+   "fr": "Si tu appuies ici, la machine s'arrête."
+  },
+  {
+   "type": "ex",
+   "en": "If I find the file, I'll send it.",
+   "fr": "Si je trouve le fichier, je l'enverrai."
+  },
+  {
+   "type": "ex",
+   "en": "If I won the lottery, I would travel.",
+   "fr": "Si je gagnais au loto, je voyagerais."
+  },
+  {
+   "type": "ex",
+   "en": "I wouldn't do that if I were you.",
+   "fr": "À ta place, je ne ferais pas ça."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : jamais de *will* ni de *would* directement après *if*. *If it **rains**, …* (pas « if it will rain »)."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "If it rains, we ___ at home.",
+   "options": [
+    "stay",
+    "will stay",
+    "would stay"
+   ],
+   "answer": 1,
+   "explain": "First conditional."
+  },
+  {
+   "type": "qcm",
+   "q": "If I ___ rich, I would buy a boat.",
+   "options": [
+    "am",
+    "were",
+    "will be"
+   ],
+   "answer": 1,
+   "explain": "Second conditional : were."
+  },
+  {
+   "type": "qcm",
+   "q": "If you heat ice, it ___.",
+   "options": [
+    "melts",
+    "will melt",
+    "would melt"
+   ],
+   "answer": 0,
+   "explain": "Vérité générale."
+  },
+  {
+   "type": "qcm",
+   "q": "If I ___ more time, I would travel.",
+   "options": [
+    "have",
+    "had",
+    "will have"
+   ],
+   "answer": 1,
+   "explain": "Second conditional : if + prétérit."
+  },
+  {
+   "type": "qcm",
+   "q": "___ you hurry, you'll miss the train.",
+   "options": [
+    "If",
+    "Unless",
+    "When"
+   ],
+   "answer": 1,
+   "explain": "unless = si … ne … pas."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "If it will rain, we stay.",
+    "If it rains, we'll stay.",
+    "If it would rain, we'll stay."
+   ],
+   "answer": 1,
+   "explain": "Pas de will après if."
+  },
+  {
+   "type": "qcm",
+   "q": "If I were you, I ___ call him.",
+   "options": [
+    "will",
+    "would",
+    "am going to"
+   ],
+   "answer": 1,
+   "explain": "Conseil hypothétique."
+  },
+  {
+   "type": "fill",
+   "q": "If she ___ (come), we'll start the meeting.",
+   "answers": [
+    "comes"
+   ],
+   "explain": "First conditional : présent."
+  },
+  {
+   "type": "fill",
+   "q": "If I ___ (win) the lottery, I would travel.",
+   "answers": [
+    "won"
+   ],
+   "explain": "Second : prétérit."
+  },
+  {
+   "type": "fill",
+   "q": "If you ___ (not / hurry), you will be late.",
+   "answers": [
+    "don't hurry",
+    "do not hurry"
+   ],
+   "explain": "Négation au présent."
+  },
+  {
+   "type": "fill",
+   "q": "If I ___ you, I'd ask for help. (to be)",
+   "answers": [
+    "were"
+   ],
+   "explain": "Were pour toutes les personnes."
+  },
+  {
+   "type": "fill",
+   "q": "If it ___ tomorrow, we won't go. (rain)",
+   "answers": [
+    "rains"
+   ],
+   "explain": "Présent après if."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (be) happy if you came.",
+   "answers": [
+    "would be",
+    "'d be"
+   ],
+   "explain": "would be."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "If",
+    "it",
+    "rains",
+    "we",
+    "will",
+    "stay",
+    "at",
+    "home"
+   ],
+   "answers": [
+    "If it rains we will stay at home"
+   ],
+   "explain": "first conditional."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "If",
+    "I",
+    "had",
+    "more",
+    "time",
+    "I",
+    "would",
+    "learn",
+    "Spanish"
+   ],
+   "answers": [
+    "If I had more time I would learn Spanish"
+   ],
+   "explain": "second conditional."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "would",
+    "not",
+    "do",
+    "that",
+    "if",
+    "I",
+    "were",
+    "you"
+   ],
+   "answers": [
+    "I would not do that if I were you",
+    "I wouldn't do that if I were you"
+   ],
+   "explain": "conseil."
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "id": "countable-uncountable",
+ "title": "Dénombrable ou indénombrable ?",
+ "level": "A2",
+ "topic": "Grammaire",
+ "summary": "some, any, much, many, a lot of, few, little : les quantités sans se tromper.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Deux familles de noms"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Dénombrables** : on peut les compter, ils ont un pluriel (*a laptop, two laptops*).",
+    "**Indénombrables** : masse, matière, notion. Pas de pluriel ni de « a » (*water, information, advice, music, news, furniture, software, money*)."
+   ]
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *information, advice, news, furniture, software, luggage* sont **indénombrables** en anglais (pas de -s). *a piece of advice*, *two pieces of information*."
+  },
+  {
+   "type": "h",
+   "text": "Quantités"
+  },
+  {
+   "type": "table",
+   "head": [
+    "",
+    "Dénombrable",
+    "Indénombrable"
+   ],
+   "rows": [
+    [
+     "beaucoup (question/négation)",
+     "how many / not many",
+     "how much / not much"
+    ],
+    [
+     "beaucoup (affirmatif)",
+     "a lot of / lots of",
+     "a lot of / lots of"
+    ],
+    [
+     "un peu / quelques",
+     "a few",
+     "a little"
+    ],
+    [
+     "peu (insuffisant)",
+     "few",
+     "little"
+    ],
+    [
+     "some / any",
+     "some (+), any (−/?)",
+     "some (+), any (−/?)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "*a few / a little* sont positifs (il y en a un peu). *few / little* sont négatifs (presque pas)."
+  },
+  {
+   "type": "h",
+   "text": "some ou any ?"
+  },
+  {
+   "type": "p",
+   "text": "*some* dans les phrases affirmatives, *any* dans les négations et les questions. Exception : *some* dans une offre : *Would you like some tea?*"
+  },
+  {
+   "type": "ex",
+   "en": "I have a lot of emails to read.",
+   "fr": "J'ai beaucoup de mails à lire."
+  },
+  {
+   "type": "ex",
+   "en": "There isn't much time.",
+   "fr": "Il n'y a pas beaucoup de temps."
+  },
+  {
+   "type": "ex",
+   "en": "Do you have any questions?",
+   "fr": "Avez-vous des questions ?"
+  },
+  {
+   "type": "ex",
+   "en": "Can I have a little water?",
+   "fr": "Puis-je avoir un peu d'eau ?"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "I need some ___.",
+   "options": [
+    "advices",
+    "advice",
+    "an advice"
+   ],
+   "answer": 1,
+   "explain": "advice est indénombrable."
+  },
+  {
+   "type": "qcm",
+   "q": "How ___ time do we have?",
+   "options": [
+    "many",
+    "much",
+    "few"
+   ],
+   "answer": 1,
+   "explain": "time est indénombrable."
+  },
+  {
+   "type": "qcm",
+   "q": "There aren't ___ chairs.",
+   "options": [
+    "some",
+    "any",
+    "much"
+   ],
+   "answer": 1,
+   "explain": "Négation → any."
+  },
+  {
+   "type": "qcm",
+   "q": "She has ___ friends here. (très peu)",
+   "options": [
+    "a few",
+    "few",
+    "a little"
+   ],
+   "answer": 1,
+   "explain": "few = presque pas."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "Information are useful.",
+    "Information is useful.",
+    "Informations is useful."
+   ],
+   "answer": 1,
+   "explain": "indénombrable singulier."
+  },
+  {
+   "type": "qcm",
+   "q": "Would you like ___ coffee?",
+   "options": [
+    "some",
+    "any",
+    "many"
+   ],
+   "answer": 0,
+   "explain": "Offre → some."
+  },
+  {
+   "type": "qcm",
+   "q": "I have ___ money left. (un peu)",
+   "options": [
+    "a few",
+    "a little",
+    "many"
+   ],
+   "answer": 1,
+   "explain": "indénombrable → a little."
+  },
+  {
+   "type": "fill",
+   "q": "How ___ servers do you have?",
+   "answers": [
+    "many"
+   ],
+   "explain": "serveurs = dénombrable."
+  },
+  {
+   "type": "fill",
+   "q": "There isn't ___ milk.",
+   "answers": [
+    "much",
+    "any"
+   ],
+   "explain": "Négation indénombrable."
+  },
+  {
+   "type": "fill",
+   "q": "Une information, c'est a ___ of information.",
+   "answers": [
+    "piece"
+   ],
+   "explain": "a piece of information."
+  },
+  {
+   "type": "fill",
+   "q": "We have ___ lot of work.",
+   "answers": [
+    "a"
+   ],
+   "explain": "a lot of."
+  },
+  {
+   "type": "fill",
+   "q": "Do you have ___ questions? (any/some)",
+   "answers": [
+    "any"
+   ],
+   "explain": "Question → any."
+  },
+  {
+   "type": "fill",
+   "q": "She gave me ___ good news. (some / a)",
+   "answers": [
+    "some"
+   ],
+   "explain": "news est indénombrable : some."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "How",
+    "much",
+    "time",
+    "do",
+    "we",
+    "have"
+   ],
+   "answers": [
+    "How much time do we have"
+   ],
+   "explain": "time indénombrable → how much."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "There",
+    "is",
+    "not",
+    "much",
+    "information"
+   ],
+   "answers": [
+    "There is not much information",
+    "There isn't much information"
+   ],
+   "explain": "indénombrable + singulier."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "need",
+    "some",
+    "advice"
+   ],
+   "answers": [
+    "I need some advice"
+   ],
+   "explain": "advice sans a."
+  }
+ ]
+}

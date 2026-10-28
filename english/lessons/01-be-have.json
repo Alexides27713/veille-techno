@@ -1,0 +1,326 @@
+{
+ "id": "be-have",
+ "title": "Être et avoir : to be / to have",
+ "level": "A1",
+ "topic": "Bases",
+ "summary": "Les deux verbes indispensables : formes, contractions, négation, questions, et les pièges des francophones (l'âge, la faim, le froid).",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Le verbe to be (être)"
+  },
+  {
+   "type": "p",
+   "text": "C'est le verbe le plus utilisé de l'anglais. Il sert à dire **qui on est**, **où on est**, **comment on va**, mais aussi à former d'autres temps (*I am working*)."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sujet",
+    "Forme",
+    "Forme courte",
+    "Négatif court"
+   ],
+   "rows": [
+    [
+     "I",
+     "am",
+     "I'm",
+     "I'm not"
+    ],
+    [
+     "you",
+     "are",
+     "you're",
+     "you aren't"
+    ],
+    [
+     "he / she / it",
+     "is",
+     "he's / she's / it's",
+     "he isn't"
+    ],
+    [
+     "we",
+     "are",
+     "we're",
+     "we aren't"
+    ],
+    [
+     "they",
+     "are",
+     "they're",
+     "they aren't"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "À l'oral, on utilise presque toujours la **forme courte**. À l'écrit formel (mails, rapports), on écrit plus souvent la forme complète."
+  },
+  {
+   "type": "h",
+   "text": "Poser une question"
+  },
+  {
+   "type": "p",
+   "text": "On **inverse** le sujet et le verbe : **Are you** ready ? **Is she** at work ? **Am I** late ?"
+  },
+  {
+   "type": "p",
+   "text": "Pour répondre brièvement, on reprend le verbe : *Are you tired? — Yes, I am. / No, I'm not.* On ne dit jamais « Yes, I'm » : la réponse courte ne se contracte pas."
+  },
+  {
+   "type": "h",
+   "text": "Le verbe to have (avoir)"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sujet",
+    "Forme",
+    "Négatif",
+    "Question"
+   ],
+   "rows": [
+    [
+     "I / you / we / they",
+     "have",
+     "don't have",
+     "Do you have…?"
+    ],
+    [
+     "he / she / it",
+     "has",
+     "doesn't have",
+     "Does she have…?"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Au sens de « posséder », l'anglais américain utilise **do/does** pour la négation et la question. L'anglais britannique accepte aussi *I haven't got* / *Have you got…?*."
+  },
+  {
+   "type": "h",
+   "text": "Exemples"
+  },
+  {
+   "type": "ex",
+   "en": "I'm a system administrator.",
+   "fr": "Je suis administrateur système."
+  },
+  {
+   "type": "ex",
+   "en": "She has two brothers.",
+   "fr": "Elle a deux frères."
+  },
+  {
+   "type": "ex",
+   "en": "Are you at the hospital today?",
+   "fr": "Es-tu à l'hôpital aujourd'hui ?"
+  },
+  {
+   "type": "ex",
+   "en": "He isn't in the office.",
+   "fr": "Il n'est pas au bureau."
+  },
+  {
+   "type": "ex",
+   "en": "Do you have a minute?",
+   "fr": "Tu as une minute ?"
+  },
+  {
+   "type": "ex",
+   "en": "We don't have enough time.",
+   "fr": "Nous n'avons pas assez de temps."
+  },
+  {
+   "type": "h",
+   "text": "Les pièges des francophones"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**L'âge** : *I am 25* (to be), jamais « I have 25 years ».",
+    "**La faim, la soif, le froid, le chaud, la peur** : en anglais on est affamé : *I'm hungry, I'm thirsty, I'm cold, I'm hot, I'm afraid*.",
+    "**Avoir raison / tort** : *You're right / You're wrong*.",
+    "**Avoir besoin de** : *I need* (verbe direct, pas de « have need »)."
+   ]
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « Il y a » se dit *there is* (singulier) ou *there are* (pluriel), et non « it has ». *There are three servers in the room.*"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "She ___ a new laptop.",
+   "options": [
+    "have",
+    "has",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "À la 3e personne du singulier, to have devient « has »."
+  },
+  {
+   "type": "qcm",
+   "q": "They ___ at work.",
+   "options": [
+    "is",
+    "are",
+    "am"
+   ],
+   "answer": 1,
+   "explain": "« They » va avec « are »."
+  },
+  {
+   "type": "qcm",
+   "q": "How old are you?  — I ___ 30.",
+   "options": [
+    "have",
+    "am",
+    "has"
+   ],
+   "answer": 1,
+   "explain": "L'âge se dit avec to be : I am 30."
+  },
+  {
+   "type": "qcm",
+   "q": "It's winter and I ___ cold.",
+   "options": [
+    "have",
+    "am",
+    "has"
+   ],
+   "answer": 1,
+   "explain": "En anglais, on « est » froid : I'm cold."
+  },
+  {
+   "type": "qcm",
+   "q": "Which sentence is correct?",
+   "options": [
+    "He don't have a car.",
+    "He doesn't have a car.",
+    "He hasn't a cars."
+   ],
+   "answer": 1,
+   "explain": "Négation de have (possession) avec le 3e sing. : doesn't have."
+  },
+  {
+   "type": "qcm",
+   "q": "Are you ready?  — Yes, ___.",
+   "options": [
+    "I'm",
+    "I am",
+    "I have"
+   ],
+   "answer": 1,
+   "explain": "Dans une réponse courte affirmative, on ne contracte pas : Yes, I am."
+  },
+  {
+   "type": "qcm",
+   "q": "___ three computers in the lab.",
+   "options": [
+    "It has",
+    "There is",
+    "There are"
+   ],
+   "answer": 2,
+   "explain": "Pluriel → there are."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ 24 years old. (to be)",
+   "answers": [
+    "am"
+   ],
+   "explain": "I am (I'm) : l'âge se dit avec to be."
+  },
+  {
+   "type": "fill",
+   "q": "___ you ready? (to be)",
+   "answers": [
+    "are",
+    "Are"
+   ],
+   "explain": "Question : on inverse sujet et verbe → Are you ready ?"
+  },
+  {
+   "type": "fill",
+   "q": "My sister ___ two cats. (to have)",
+   "answers": [
+    "has"
+   ],
+   "explain": "3e personne du singulier : has."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ the answer. (to have — négatif, forme courte)",
+   "answers": [
+    "don't have",
+    "haven't"
+   ],
+   "explain": "We don't have the answer (ou haven't got en anglais britannique)."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ hungry. (to be — négatif, forme courte)",
+   "answers": [
+    "isn't",
+    "is not"
+   ],
+   "explain": "Négation de be à la 3e personne : isn't."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "is",
+    "not",
+    "at",
+    "home"
+   ],
+   "answers": [
+    "She is not at home",
+    "She isn't at home"
+   ],
+   "explain": "Sujet + is + not + complément."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Do",
+    "you",
+    "have",
+    "a",
+    "minute"
+   ],
+   "answers": [
+    "Do you have a minute"
+   ],
+   "explain": "Question avec have (possession) : Do + sujet + have."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "There",
+    "are",
+    "two",
+    "servers",
+    "in",
+    "the",
+    "room"
+   ],
+   "answers": [
+    "There are two servers in the room"
+   ],
+   "explain": "There are + pluriel + lieu."
+  }
+ ]
+}

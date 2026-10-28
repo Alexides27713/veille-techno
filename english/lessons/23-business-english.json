@@ -1,0 +1,303 @@
+{
+ "id": "business-english",
+ "title": "Anglais professionnel : mails et réunions",
+ "level": "B1",
+ "topic": "Anglais pro",
+ "summary": "Écrire un mail clair et poli, ouvrir/conclure, demander, refuser, et participer à une réunion.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Structure d'un mail"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Objet** (*Subject*) : court et précis → *Meeting on Friday – agenda*.",
+    "**Salutation** : *Dear Mr Smith,* / *Hi Anna,*.",
+    "**Raison** : *I am writing to…* / *I'm getting in touch about…*",
+    "**Corps** : un paragraphe par idée.",
+    "**Conclusion** : *Please let me know if you have any questions.*",
+    "**Formule finale** : *Best regards,* / *Kind regards,* / *Best,*."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Formules utiles"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Situation",
+    "Formule"
+   ],
+   "rows": [
+    [
+     "Demander poliment",
+     "Could you please send me…?"
+    ],
+    [
+     "Joindre un fichier",
+     "Please find attached…"
+    ],
+    [
+     "Remercier",
+     "Thank you for your quick reply."
+    ],
+    [
+     "S'excuser",
+     "I apologise for the delay."
+    ],
+    [
+     "Relancer",
+     "Just a quick reminder about…"
+    ],
+    [
+     "Refuser poliment",
+     "Unfortunately, I won't be able to…"
+    ],
+    [
+     "Proposer un rendez-vous",
+     "Would Tuesday at 10 suit you?"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "En réunion"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Action",
+    "Formule"
+   ],
+   "rows": [
+    [
+     "Prendre la parole",
+     "If I may, I'd like to add…"
+    ],
+    [
+     "Être d'accord",
+     "I totally agree. / That's a good point."
+    ],
+    [
+     "Pas d'accord (poli)",
+     "I see your point, but…"
+    ],
+    [
+     "Demander de répéter",
+     "Sorry, could you repeat that?"
+    ],
+    [
+     "Clarifier",
+     "Just to be clear, do you mean…?"
+    ],
+    [
+     "Conclure",
+     "To sum up… / Let's recap."
+    ]
+   ]
+  },
+  {
+   "type": "tip",
+   "text": "**Style** : en anglais pro, on préfère les formes **polies** (*Could you…?*, *I would appreciate…*) et on évite les ordres directs."
+  },
+  {
+   "type": "ex",
+   "en": "Please find attached the report.",
+   "fr": "Veuillez trouver le rapport ci-joint."
+  },
+  {
+   "type": "ex",
+   "en": "I'm writing to confirm our meeting.",
+   "fr": "Je vous écris pour confirmer notre réunion."
+  },
+  {
+   "type": "ex",
+   "en": "Could you please send me the file?",
+   "fr": "Pourriez-vous m'envoyer le fichier ?"
+  },
+  {
+   "type": "ex",
+   "en": "I look forward to hearing from you.",
+   "fr": "J'attends votre réponse avec impatience."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "'Veuillez trouver ci-joint' →",
+   "options": [
+    "Please find attached",
+    "Please look joined",
+    "Please attached find"
+   ],
+   "answer": 0,
+   "explain": "Please find attached."
+  },
+  {
+   "type": "qcm",
+   "q": "A polite request:",
+   "options": [
+    "Send me the file.",
+    "Could you please send me the file?",
+    "You send file."
+   ],
+   "answer": 1,
+   "explain": "Could you please…"
+  },
+  {
+   "type": "qcm",
+   "q": "To apologise for a delay:",
+   "options": [
+    "Sorry me",
+    "I apologise for the delay",
+    "I regret you"
+   ],
+   "answer": 1,
+   "explain": "I apologise for the delay."
+  },
+  {
+   "type": "qcm",
+   "q": "Formal ending:",
+   "options": [
+    "See you!",
+    "Kind regards,",
+    "Cheers dude"
+   ],
+   "answer": 1,
+   "explain": "Kind regards."
+  },
+  {
+   "type": "qcm",
+   "q": "Polite disagreement:",
+   "options": [
+    "You are wrong.",
+    "I see your point, but…",
+    "No way."
+   ],
+   "answer": 1,
+   "explain": "I see your point, but…"
+  },
+  {
+   "type": "qcm",
+   "q": "'Pour résumer' →",
+   "options": [
+    "To sum up",
+    "To add up to",
+    "Sum for"
+   ],
+   "answer": 0,
+   "explain": "To sum up."
+  },
+  {
+   "type": "qcm",
+   "q": "'I look forward to' is followed by…",
+   "options": [
+    "verb base",
+    "verb -ing",
+    "to + verb"
+   ],
+   "answer": 1,
+   "explain": "to est une préposition → -ing."
+  },
+  {
+   "type": "fill",
+   "q": "I am ___ to confirm our meeting. (writing)",
+   "answers": [
+    "writing"
+   ],
+   "explain": "I am writing to…"
+  },
+  {
+   "type": "fill",
+   "q": "Please ___ attached the report. (find)",
+   "answers": [
+    "find"
+   ],
+   "explain": "Please find attached."
+  },
+  {
+   "type": "fill",
+   "q": "Thank you for your quick ___ . (réponse)",
+   "answers": [
+    "reply",
+    "response"
+   ],
+   "explain": "reply / response."
+  },
+  {
+   "type": "fill",
+   "q": "I look forward to ___ from you. (hear)",
+   "answers": [
+    "hearing"
+   ],
+   "explain": "look forward to + -ing."
+  },
+  {
+   "type": "fill",
+   "q": "Just a quick ___ about the deadline. (rappel)",
+   "answers": [
+    "reminder"
+   ],
+   "explain": "reminder."
+  },
+  {
+   "type": "fill",
+   "q": "Would Tuesday at 10 ___ you? (convenir)",
+   "answers": [
+    "suit"
+   ],
+   "explain": "suit you."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Could",
+    "you",
+    "please",
+    "send",
+    "me",
+    "the",
+    "file"
+   ],
+   "answers": [
+    "Could you please send me the file"
+   ],
+   "explain": "Demande polie."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "look",
+    "forward",
+    "to",
+    "hearing",
+    "from",
+    "you"
+   ],
+   "answers": [
+    "I look forward to hearing from you"
+   ],
+   "explain": "look forward to + -ing."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Please",
+    "find",
+    "attached",
+    "the",
+    "report"
+   ],
+   "answers": [
+    "Please find attached the report"
+   ],
+   "explain": "Formule de pièce jointe."
+  }
+ ]
+}

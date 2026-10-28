@@ -1,0 +1,310 @@
+{
+ "id": "pronunciation-spelling",
+ "title": "Orthographe et prononciation pièges",
+ "level": "A2",
+ "topic": "Prononciation",
+ "summary": "Pourquoi l'anglais ne se prononce pas comme il s'écrit : lettres muettes, voyelles, mots courants à connaître.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Lettres muettes"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Mot",
+    "Prononciation",
+    "Lettre muette"
+   ],
+   "rows": [
+    [
+     "know",
+     "/nəʊ/",
+     "k"
+    ],
+    [
+     "write",
+     "/raɪt/",
+     "w"
+    ],
+    [
+     "knife",
+     "/naɪf/",
+     "k"
+    ],
+    [
+     "island",
+     "/ˈaɪlənd/",
+     "s"
+    ],
+    [
+     "hour",
+     "/ˈaʊər/",
+     "h"
+    ],
+    [
+     "Wednesday",
+     "/ˈwenzdeɪ/",
+     "d"
+    ],
+    [
+     "comfortable",
+     "/ˈkʌmftəbl/",
+     "or"
+    ],
+    [
+     "debt",
+     "/det/",
+     "b"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Voyelles qui changent"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**ea** : *read* /riːd/ (présent) ≠ *read* /red/ (passé).",
+    "**ou / ough** : *though* /ðəʊ/, *through* /θruː/, *tough* /tʌf/, *thought* /θɔːt/.",
+    "**i** : *machine* /məˈʃiːn/ mais *ship* /ʃɪp/."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Accent tonique : un seul par mot"
+  },
+  {
+   "type": "p",
+   "text": "L'anglais accentue une syllabe fortement. *PHOtograph* / *phoTOgrapher*, *COMputer* / *comPUting*. Mal accentué, un mot peut devenir incompréhensible."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Beaucoup de **noms** ont l'accent sur la 1re syllabe, les **verbes** sur la 2e : *a REcord* / *to reCORD*."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Quelques mots du quotidien"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Mot",
+    "Prononciation"
+   ],
+   "rows": [
+    [
+     "vegetable",
+     "/ˈvedʒtəbl/"
+    ],
+    [
+     "February",
+     "/ˈfebruəri/"
+    ],
+    [
+     "schedule",
+     "/ˈʃedjuːl/ UK, /ˈskedʒuːl/ US"
+    ],
+    [
+     "clothes",
+     "/kləʊðz/"
+    ],
+    [
+     "sword",
+     "/sɔːd/"
+    ],
+    [
+     "receipt",
+     "/rɪˈsiːt/"
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "I know your friend.",
+   "fr": "Je connais ton ami. (k muet)"
+  },
+  {
+   "type": "ex",
+   "en": "I read the book yesterday. (/red/)",
+   "fr": "J'ai lu le livre hier."
+  },
+  {
+   "type": "ex",
+   "en": "This is a record. / I want to record it.",
+   "fr": "C'est un enregistrement. / Je veux l'enregistrer."
+  },
+  {
+   "type": "tip",
+   "text": "Dans le doute, tape le mot dans un dictionnaire en ligne (Cambridge, Oxford) : clique sur l'icône audio."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "In 'know', which letter is silent?",
+   "options": [
+    "k",
+    "n",
+    "w"
+   ],
+   "answer": 0,
+   "explain": "k est muet."
+  },
+  {
+   "type": "qcm",
+   "q": "'Wednesday' is pronounced…",
+   "options": [
+    "Wed-nes-day",
+    "Wenz-day",
+    "Wed-in-sday"
+   ],
+   "answer": 1,
+   "explain": "/ˈwenzdeɪ/."
+  },
+  {
+   "type": "qcm",
+   "q": "'Island' : the silent letter is…",
+   "options": [
+    "i",
+    "s",
+    "l"
+   ],
+   "answer": 1,
+   "explain": "s muet."
+  },
+  {
+   "type": "qcm",
+   "q": "'Hour' starts with…",
+   "options": [
+    "h sound",
+    "vowel sound",
+    "w sound"
+   ],
+   "answer": 1,
+   "explain": "h muet."
+  },
+  {
+   "type": "qcm",
+   "q": "'Receipt' : silent letter ?",
+   "options": [
+    "p",
+    "c",
+    "t"
+   ],
+   "answer": 0,
+   "explain": "p muet."
+  },
+  {
+   "type": "qcm",
+   "q": "'Though' sounds like…",
+   "options": [
+    "tough",
+    "thaw",
+    "doe"
+   ],
+   "answer": 2,
+   "explain": "/ðəʊ/."
+  },
+  {
+   "type": "qcm",
+   "q": "Verbs often have stress on the…",
+   "options": [
+    "1st syllable",
+    "2nd syllable",
+    "last syllable only"
+   ],
+   "answer": 1,
+   "explain": "to reCORD."
+  },
+  {
+   "type": "fill",
+   "q": "In 'write', the silent letter is ___",
+   "answers": [
+    "w"
+   ],
+   "explain": "w muet."
+  },
+  {
+   "type": "fill",
+   "q": "In 'debt', the silent letter is ___",
+   "answers": [
+    "b"
+   ],
+   "explain": "b muet."
+  },
+  {
+   "type": "fill",
+   "q": "'Knife' commence par un ___ muet.",
+   "answers": [
+    "k"
+   ],
+   "explain": "k muet."
+  },
+  {
+   "type": "fill",
+   "q": "'Read' (passé) se prononce comme la couleur ___",
+   "answers": [
+    "red"
+   ],
+   "explain": "/red/."
+  },
+  {
+   "type": "fill",
+   "q": "'Receipt' se prononce /rɪˈ___t/",
+   "answers": [
+    "si:",
+    "siː",
+    "sit"
+   ],
+   "explain": "/rɪˈsiːt/."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "know",
+    "the",
+    "answer"
+   ],
+   "answers": [
+    "I know the answer"
+   ],
+   "explain": "k muet."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "read",
+    "the",
+    "book",
+    "yesterday"
+   ],
+   "answers": [
+    "I read the book yesterday"
+   ],
+   "explain": "read /red/ au passé."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "What",
+    "is",
+    "your",
+    "schedule",
+    "today"
+   ],
+   "answers": [
+    "What is your schedule today"
+   ],
+   "explain": "schedule prononciation."
+  }
+ ]
+}

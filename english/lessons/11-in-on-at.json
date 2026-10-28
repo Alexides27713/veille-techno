@@ -1,0 +1,284 @@
+{
+ "id": "in-on-at",
+ "title": "Prépositions : in, on, at",
+ "level": "A2",
+ "topic": "Grammaire",
+ "summary": "Le trio de la place et du temps, avec une règle simple et les exceptions courantes.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Le temps"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Préposition",
+    "Utilisation",
+    "Exemples"
+   ],
+   "rows": [
+    [
+     "**at**",
+     "heure précise, moment",
+     "at 5 p.m., at night, at the weekend (UK), at Christmas"
+    ],
+    [
+     "**on**",
+     "jours et dates",
+     "on Monday, on May 3rd, on Friday morning"
+    ],
+    [
+     "**in**",
+     "mois, saisons, années, périodes",
+     "in June, in winter, in 2024, in the morning"
+    ]
+   ]
+  },
+  {
+   "type": "tip",
+   "text": "Le matin, l'après-midi, le soir : **in** the morning/afternoon/evening, mais **at** night."
+  },
+  {
+   "type": "h",
+   "text": "Le lieu : l'image d'un point, d'une surface, d'un volume"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Préposition",
+    "Image",
+    "Exemples"
+   ],
+   "rows": [
+    [
+     "**at**",
+     "un point précis",
+     "at the door, at the station, at work, at home"
+    ],
+    [
+     "**on**",
+     "une surface / un étage",
+     "on the table, on the second floor, on the screen"
+    ],
+    [
+     "**in**",
+     "un espace fermé / une zone",
+     "in the office, in Paris, in France, in a car"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Autres emplois utiles"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**in** + durée : *I'll be back in two days* (dans deux jours).",
+    "**for** = pendant, **during** + nom : *during the meeting*.",
+    "**by** = avant / au plus tard : *by Friday*. **until** = jusqu'à.",
+    "**on** a bus/train/plane, mais **in** a car/taxi."
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "The meeting is at 10 a.m. on Tuesday.",
+   "fr": "La réunion est à 10 h mardi."
+  },
+  {
+   "type": "ex",
+   "en": "I was born in March, in 1992.",
+   "fr": "Je suis né en mars 1992."
+  },
+  {
+   "type": "ex",
+   "en": "She's at the station, waiting for the train.",
+   "fr": "Elle est à la gare."
+  },
+  {
+   "type": "ex",
+   "en": "Put the file on my desk.",
+   "fr": "Mets le fichier sur mon bureau."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « à Paris » → *in Paris* (une ville est une zone). *At* s'utilise pour un point précis : *at the airport.*"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "The meeting is ___ 9 a.m.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 2,
+   "explain": "Heure précise → at."
+  },
+  {
+   "type": "qcm",
+   "q": "I'll see you ___ Monday.",
+   "options": [
+    "at",
+    "in",
+    "on"
+   ],
+   "answer": 2,
+   "explain": "Jour → on."
+  },
+  {
+   "type": "qcm",
+   "q": "She was born ___ 1995.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 1,
+   "explain": "Année → in."
+  },
+  {
+   "type": "qcm",
+   "q": "We live ___ Lyon.",
+   "options": [
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": 2,
+   "explain": "Ville → in."
+  },
+  {
+   "type": "qcm",
+   "q": "He is ___ the bus stop.",
+   "options": [
+    "at",
+    "in",
+    "on"
+   ],
+   "answer": 0,
+   "explain": "Point précis → at."
+  },
+  {
+   "type": "qcm",
+   "q": "The keys are ___ the table.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 0,
+   "explain": "Surface → on."
+  },
+  {
+   "type": "qcm",
+   "q": "I'm going to bed ___ night.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 2,
+   "explain": "at night."
+  },
+  {
+   "type": "fill",
+   "q": "The deadline is ___ Friday. (on / by) (by = au plus tard)",
+   "answers": [
+    "by"
+   ],
+   "explain": "by = au plus tard."
+  },
+  {
+   "type": "fill",
+   "q": "It's cold ___ winter.",
+   "answers": [
+    "in"
+   ],
+   "explain": "Saison → in."
+  },
+  {
+   "type": "fill",
+   "q": "I'm ___ work now.",
+   "answers": [
+    "at"
+   ],
+   "explain": "at work."
+  },
+  {
+   "type": "fill",
+   "q": "The concert is ___ July 14th.",
+   "answers": [
+    "on"
+   ],
+   "explain": "Date précise → on."
+  },
+  {
+   "type": "fill",
+   "q": "See you ___ the morning.",
+   "answers": [
+    "in"
+   ],
+   "explain": "in the morning."
+  },
+  {
+   "type": "fill",
+   "q": "I'll be there ___ two hours. (dans)",
+   "answers": [
+    "in"
+   ],
+   "explain": "in + durée = dans."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "meeting",
+    "is",
+    "at",
+    "ten",
+    "on",
+    "Tuesday"
+   ],
+   "answers": [
+    "The meeting is at ten on Tuesday"
+   ],
+   "explain": "at + heure, on + jour."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "lives",
+    "in",
+    "a",
+    "small",
+    "town"
+   ],
+   "answers": [
+    "She lives in a small town"
+   ],
+   "explain": "Zone → in."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "work",
+    "on",
+    "the",
+    "second",
+    "floor"
+   ],
+   "answers": [
+    "I work on the second floor"
+   ],
+   "explain": "Étage → on."
+  }
+ ]
+}

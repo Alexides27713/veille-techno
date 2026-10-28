@@ -1,0 +1,293 @@
+{
+ "id": "reported-speech",
+ "title": "Le discours rapporté",
+ "level": "B1",
+ "topic": "Grammaire",
+ "summary": "Rapporter ce que quelqu'un a dit : concordance des temps, changements de pronoms et d'indicateurs de temps.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Principe"
+  },
+  {
+   "type": "p",
+   "text": "Quand le verbe d'introduction est au passé (*said, told, asked*), on **recule d'un temps** :"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Paroles directes",
+    "Discours rapporté"
+   ],
+   "rows": [
+    [
+     "présent simple : « I work »",
+     "prétérit : he said he worked"
+    ],
+    [
+     "présent continu : « I am working »",
+     "prétérit continu : he said he was working"
+    ],
+    [
+     "prétérit : « I worked »",
+     "past perfect : he said he had worked"
+    ],
+    [
+     "present perfect : « I have worked »",
+     "past perfect : he said he had worked"
+    ],
+    [
+     "will",
+     "would"
+    ],
+    [
+     "can",
+     "could"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Changements d'indicateurs"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Direct",
+    "Rapporté"
+   ],
+   "rows": [
+    [
+     "now",
+     "then"
+    ],
+    [
+     "today",
+     "that day"
+    ],
+    [
+     "tomorrow",
+     "the next day"
+    ],
+    [
+     "yesterday",
+     "the day before"
+    ],
+    [
+     "here",
+     "there"
+    ],
+    [
+     "this",
+     "that"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "say ou tell ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "*say* + (to + personne) : *He said (to me) that he was tired.*",
+    "*tell* + personne : *He told me that he was tired.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Les questions rapportées"
+  },
+  {
+   "type": "p",
+   "text": "L'ordre redevient **affirmatif**, sans do/does/did : *She asked me where I lived.* Pour oui/non : *if / whether* : *He asked if I was ready.*"
+  },
+  {
+   "type": "ex",
+   "en": "\"I'm tired,\" he said. → He said he was tired.",
+   "fr": "Il a dit qu'il était fatigué."
+  },
+  {
+   "type": "ex",
+   "en": "She told me she had finished.",
+   "fr": "Elle m'a dit qu'elle avait fini."
+  },
+  {
+   "type": "ex",
+   "en": "He asked me where I worked.",
+   "fr": "Il m'a demandé où je travaillais."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *He told that…* est faux. On dit *He told **me** that…* ou *He **said** that…*"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "\"I am busy,\" she said. → She said she ___ busy.",
+   "options": [
+    "is",
+    "was",
+    "were"
+   ],
+   "answer": 1,
+   "explain": "présent → prétérit."
+  },
+  {
+   "type": "qcm",
+   "q": "\"I will call,\" he said. → He said he ___ call.",
+   "options": [
+    "will",
+    "would",
+    "wills"
+   ],
+   "answer": 1,
+   "explain": "will → would."
+  },
+  {
+   "type": "qcm",
+   "q": "She ___ me she was tired.",
+   "options": [
+    "said",
+    "told",
+    "say"
+   ],
+   "answer": 1,
+   "explain": "told + personne."
+  },
+  {
+   "type": "qcm",
+   "q": "\"I have finished,\" he said. → He said he ___ finished.",
+   "options": [
+    "has",
+    "had",
+    "have"
+   ],
+   "answer": 1,
+   "explain": "present perfect → past perfect."
+  },
+  {
+   "type": "qcm",
+   "q": "'Where do you live?' → She asked me where ___.",
+   "options": [
+    "do I live",
+    "I lived",
+    "did I live"
+   ],
+   "answer": 1,
+   "explain": "Ordre affirmatif."
+  },
+  {
+   "type": "qcm",
+   "q": "'Tomorrow' becomes…",
+   "options": [
+    "the next day",
+    "yesterday",
+    "today"
+   ],
+   "answer": 0,
+   "explain": "tomorrow → the next day."
+  },
+  {
+   "type": "qcm",
+   "q": "He asked ___ I was ready.",
+   "options": [
+    "that",
+    "if",
+    "what"
+   ],
+   "answer": 1,
+   "explain": "oui/non → if."
+  },
+  {
+   "type": "fill",
+   "q": "He said he ___ (work) late. (« I work late »)",
+   "answers": [
+    "worked"
+   ],
+   "explain": "présent → prétérit."
+  },
+  {
+   "type": "fill",
+   "q": "She told ___ she was leaving. (me)",
+   "answers": [
+    "me"
+   ],
+   "explain": "told + personne."
+  },
+  {
+   "type": "fill",
+   "q": "They said they ___ (can) help. (« we can »)",
+   "answers": [
+    "could"
+   ],
+   "explain": "can → could."
+  },
+  {
+   "type": "fill",
+   "q": "\"I saw it yesterday.\" → He said he had seen it the day ___.",
+   "answers": [
+    "before"
+   ],
+   "explain": "yesterday → the day before."
+  },
+  {
+   "type": "fill",
+   "q": "She asked me ___ I liked coffee. (oui/non)",
+   "answers": [
+    "if",
+    "whether"
+   ],
+   "explain": "if / whether."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "He",
+    "said",
+    "that",
+    "he",
+    "was",
+    "tired"
+   ],
+   "answers": [
+    "He said that he was tired"
+   ],
+   "explain": "say + that + prétérit."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "asked",
+    "me",
+    "where",
+    "I",
+    "worked"
+   ],
+   "answers": [
+    "She asked me where I worked"
+   ],
+   "explain": "Question rapportée sans inversion."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "They",
+    "told",
+    "me",
+    "they",
+    "would",
+    "call"
+   ],
+   "answers": [
+    "They told me they would call"
+   ],
+   "explain": "will → would."
+  }
+ ]
+}

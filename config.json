@@ -1,0 +1,72 @@
+{
+  "site_title": "Ma Veille",
+  "max_articles_per_feed": 6,
+  "translate_to": "fr",
+  "categories": [
+    {
+      "name": "Astronomie",
+      "icon": "🔭",
+      "color": "#8b9bff",
+      "feeds": [
+        {"name": "Futura-Espace", "url": "https://www.futura-sciences.com/rss/espace/actualites.xml", "summarize": true},
+        {"name": "Universe Today", "url": "https://www.universetoday.com/feed", "summarize": true},
+        {"name": "NASA Breaking News", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "summarize": true}
+      ]
+    },
+    {
+      "name": "Photographie",
+      "icon": "📷",
+      "color": "#5aa9ff",
+      "filters": {
+        "include_any": [
+          "photo", "appareil", "camera", "caméra", "objectif", "lens", "boîtier", "boitier",
+          "lightroom", "photoshop", "capture one", "retouche", "retouch", "tuto", "tutorial",
+          "how to", "composition", "portrait", "paysage", "landscape", "street", "macro",
+          "hybride", "mirrorless", "reflex", "exposition", "exposure", "focal", "autofocus",
+          "capteur", "sensor", "trépied", "tripod", "filtre", "lumix", "fujifilm", "nikon",
+          "canon", "leica", "hasselblad", "pentax", "sigma", "tamron", "zeiss", "cliché",
+          "animalier", "wildlife", "astrophoto", "lumière", "lighting"
+        ],
+        "exclude_any": [
+          "ipad", "mac", "macos", "macbook", "imac", "apple watch", "airpods", "vision pro",
+          "figurine", "warhammer", "wargame", "miniature painting", "peinture de figurines",
+          "football", "foot", "soccer", "ligue 1", "ligue des champions", "premier league",
+          "mercato", "ballon d'or", "nfl"
+        ]
+      },
+      "feeds": [
+        {"name": "Digital Photography School", "url": "https://feeds.feedburner.com/DigitalPhotographySchool", "summarize": true},
+        {"name": "Photography Life", "url": "https://photographylife.com/feed", "summarize": true},
+        {"name": "Fstoppers", "url": "https://feeds.feedburner.com/fstoppers/articles", "summarize": true},
+        {"name": "DIYPhotography", "url": "https://feeds.feedburner.com/Diyphotographynet", "summarize": true},
+        {"name": "Phototrend", "url": "https://www.phototrend.fr/feed/", "summarize": true},
+        {"name": "PhotoActus (actualités)", "type": "html", "url": "https://www.photoactus.com/actualites", "link_contains": "/post/", "summarize": true},
+        {"name": "PhotoActus (matériel)", "type": "html", "url": "https://www.photoactus.com/materiel", "link_contains": "/post/", "summarize": true}
+      ]
+    },
+    {
+      "name": "Inspiration",
+      "icon": "🧵",
+      "color": "#ff9f6b",
+      "feeds": [
+        {"name": "Colossal (art & artisanat)", "url": "https://www.thisiscolossal.com/feed/", "summarize": true},
+        {"name": "Make:", "url": "https://makezine.com/feed/", "summarize": true},
+        {"name": "Mr X Stitch (broderie)", "url": "https://mrxstitch.com/feed/", "summarize": true},
+        {"name": "The Ceramic School (poterie)", "url": "https://ceramic.school/feed/", "summarize": true},
+        {"name": "CFile (céramique)", "url": "https://cfileonline.org/feed/", "summarize": true}
+      ]
+    },
+    {
+      "name": "Informatique & Sécurité",
+      "icon": "💻",
+      "color": "#5fd4a0",
+      "feeds": [
+        {"name": "CERT-FR (avis)", "url": "https://www.cert.ssi.gouv.fr/avis/feed/", "summarize": false},
+        {"name": "Le Monde Informatique — Sécurité", "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml", "summarize": true},
+        {"name": "Le Monde Informatique — Réseaux", "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/reseaux/rss.xml", "summarize": true},
+        {"name": "Le Monde Informatique — OS", "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/os/rss.xml", "summarize": true},
+        {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "summarize": true}
+      ]
+    }
+  ]
+}

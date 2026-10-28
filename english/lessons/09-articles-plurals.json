@@ -1,0 +1,317 @@
+{
+ "id": "articles-plurals",
+ "title": "Articles et pluriels",
+ "level": "A1",
+ "topic": "Grammaire",
+ "summary": "a, an, the ou rien du tout ? Et les pluriels réguliers ou irréguliers qu'on utilise tous les jours.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "L'article indéfini : a / an"
+  },
+  {
+   "type": "p",
+   "text": "**a** devant un **son consonne**, **an** devant un **son voyelle**. C'est le *son* qui compte, pas la lettre."
+  },
+  {
+   "type": "list",
+   "items": [
+    "*a laptop, a university* (son « you »), *a European*",
+    "*an engineer, an hour* (le h est muet), *an MBA*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "L'article défini : the"
+  },
+  {
+   "type": "p",
+   "text": "*the* s'emploie quand on parle d'une chose **précise, connue** des deux interlocuteurs, ou **unique** : *the sun, the Internet, the CEO*."
+  },
+  {
+   "type": "h",
+   "text": "Pas d'article"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pour les **généralités** au pluriel et les mots indénombrables : *I like music. Dogs are loyal.*",
+    "Avec la plupart des **noms de pays, villes, langues** : *France, Paris, English*.",
+    "Pour les **repas, sports, matières** : *have breakfast, play football, study history*.",
+    "Dans certaines expressions : *go to work, go to school, go home, at night*."
+   ]
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « J'aime *le* café » → *I like coffee* (pas de the). Le français met l'article là où l'anglais n'en met pas."
+  },
+  {
+   "type": "h",
+   "text": "Le pluriel"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Règle",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "la plupart : + s",
+     "server → servers"
+    ],
+    [
+     "-s, -x, -ch, -sh, -z : + es",
+     "box → boxes, watch → watches"
+    ],
+    [
+     "consonne + y : -ies",
+     "city → cities"
+    ],
+    [
+     "-f / -fe : -ves",
+     "knife → knives, life → lives"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Pluriels irréguliers à connaître"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Singulier",
+    "Pluriel"
+   ],
+   "rows": [
+    [
+     "man",
+     "men"
+    ],
+    [
+     "woman",
+     "women"
+    ],
+    [
+     "child",
+     "children"
+    ],
+    [
+     "person",
+     "people"
+    ],
+    [
+     "foot",
+     "feet"
+    ],
+    [
+     "tooth",
+     "teeth"
+    ],
+    [
+     "mouse",
+     "mice"
+    ],
+    [
+     "sheep",
+     "sheep"
+    ],
+    [
+     "fish",
+     "fish"
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "I need a new keyboard.",
+   "fr": "J'ai besoin d'un nouveau clavier."
+  },
+  {
+   "type": "ex",
+   "en": "She is an engineer.",
+   "fr": "Elle est ingénieure."
+  },
+  {
+   "type": "ex",
+   "en": "The people in this office are friendly.",
+   "fr": "Les gens de ce bureau sont sympas. (people = pluriel)"
+  },
+  {
+   "type": "ex",
+   "en": "Cities are crowded.",
+   "fr": "Les villes sont bondées."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "She is ___ engineer.",
+   "options": [
+    "a",
+    "an",
+    "the"
+   ],
+   "answer": 1,
+   "explain": "Engineer commence par un son voyelle → an."
+  },
+  {
+   "type": "qcm",
+   "q": "I work at ___ university.",
+   "options": [
+    "a",
+    "an",
+    "the"
+   ],
+   "answer": 0,
+   "explain": "University commence par le son « you » → a."
+  },
+  {
+   "type": "qcm",
+   "q": "I like ___ coffee.",
+   "options": [
+    "the",
+    "a",
+    "(rien)"
+   ],
+   "answer": 2,
+   "explain": "Généralité → pas d'article."
+  },
+  {
+   "type": "qcm",
+   "q": "The plural of 'child' is…",
+   "options": [
+    "childs",
+    "children",
+    "childen"
+   ],
+   "answer": 1,
+   "explain": "Pluriel irrégulier : children."
+  },
+  {
+   "type": "qcm",
+   "q": "The plural of 'city' is…",
+   "options": [
+    "citys",
+    "cities",
+    "cityes"
+   ],
+   "answer": 1,
+   "explain": "consonne + y → ies."
+  },
+  {
+   "type": "qcm",
+   "q": "The plural of 'box' is…",
+   "options": [
+    "boxs",
+    "boxes",
+    "boxies"
+   ],
+   "answer": 1,
+   "explain": "-x → +es."
+  },
+  {
+   "type": "qcm",
+   "q": "These ___ are friendly.",
+   "options": [
+    "person",
+    "peoples",
+    "people"
+   ],
+   "answer": 2,
+   "explain": "people est déjà un pluriel."
+  },
+  {
+   "type": "fill",
+   "q": "He has ___ hour to finish. (a / an)",
+   "answers": [
+    "an"
+   ],
+   "explain": "Le h est muet → an hour."
+  },
+  {
+   "type": "fill",
+   "q": "The plural of 'man' is ___.",
+   "answers": [
+    "men"
+   ],
+   "explain": "man → men."
+  },
+  {
+   "type": "fill",
+   "q": "I play ___ football. (the / rien : écris 'rien' ou 'the')",
+   "answers": [
+    "rien"
+   ],
+   "explain": "Sport → pas d'article."
+  },
+  {
+   "type": "fill",
+   "q": "The plural of 'knife' is ___.",
+   "answers": [
+    "knives"
+   ],
+   "explain": "-fe → -ves."
+  },
+  {
+   "type": "fill",
+   "q": "The plural of 'mouse' is ___.",
+   "answers": [
+    "mice"
+   ],
+   "explain": "mouse → mice."
+  },
+  {
+   "type": "fill",
+   "q": "This is ___ book I told you about. (a / the)",
+   "answers": [
+    "the"
+   ],
+   "explain": "Livre précis → the."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "is",
+    "an",
+    "engineer"
+   ],
+   "answers": [
+    "She is an engineer"
+   ],
+   "explain": "an devant un son voyelle."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "like",
+    "music"
+   ],
+   "answers": [
+    "I like music"
+   ],
+   "explain": "Généralité sans article."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "children",
+    "are",
+    "in",
+    "the",
+    "garden"
+   ],
+   "answers": [
+    "The children are in the garden"
+   ],
+   "explain": "Pluriel irrégulier + the (précis)."
+  }
+ ]
+}

@@ -1,0 +1,298 @@
+{
+ "id": "present-perfect",
+ "title": "Le present perfect",
+ "level": "B1",
+ "topic": "Temps verbaux",
+ "summary": "have + participe passé : expérience, résultat présent, durée avec for/since. Et surtout la différence avec le prétérit.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Formation"
+  },
+  {
+   "type": "p",
+   "text": "**have / has + participe passé**. Régulier : verbe + ed (*worked*). Irrégulier : à apprendre (*been, gone, seen, done, written, taken…*)."
+  },
+  {
+   "type": "table",
+   "head": [
+    "",
+    "Forme",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "Affirmative",
+     "have/has + pp",
+     "I have finished."
+    ],
+    [
+     "Négative",
+     "haven't/hasn't + pp",
+     "She hasn't called."
+    ],
+    [
+     "Question",
+     "Have/Has + sujet + pp",
+     "Have you seen it?"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Trois emplois principaux"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Expérience** de vie (sans date) : *I have visited Japan.*",
+    "**Résultat présent** d'une action récente : *I've lost my keys* (je ne les ai toujours pas).",
+    "**Situation qui dure** jusqu'à maintenant avec *for* / *since* : *I have lived here for ten years.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "for ou since ?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "",
+    "Sens",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "for",
+     "une durée",
+     "for three years, for two hours"
+    ],
+    [
+     "since",
+     "un point de départ",
+     "since 2020, since Monday, since I was a child"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Les mots-clés"
+  },
+  {
+   "type": "p",
+   "text": "*ever, never, already, yet, just, recently, so far, how long*. *Yet* s'emploie en négation et en question à la fin de la phrase : *Have you finished yet?*"
+  },
+  {
+   "type": "h",
+   "text": "Present perfect ou prétérit ?"
+  },
+  {
+   "type": "p",
+   "text": "Si l'action est **datée** (*yesterday, last week, in 2019, ago*), on utilise **toujours le prétérit**. Sans date, ou si le lien avec le présent compte, on utilise le present perfect."
+  },
+  {
+   "type": "ex",
+   "en": "I have lived here since 2018.",
+   "fr": "J'habite ici depuis 2018."
+  },
+  {
+   "type": "ex",
+   "en": "I lived in Nice in 2015.",
+   "fr": "J'ai habité à Nice en 2015. (date précise → prétérit)"
+  },
+  {
+   "type": "ex",
+   "en": "Have you ever tried sushi?",
+   "fr": "As-tu déjà goûté des sushis ?"
+  },
+  {
+   "type": "ex",
+   "en": "She has just left.",
+   "fr": "Elle vient de partir."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : le français dit « J'habite ici depuis 2018 » au présent. L'anglais veut le present perfect : *I **have lived** here since 2018*, jamais « I live here since »."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "I ___ here for five years.",
+   "options": [
+    "live",
+    "have lived",
+    "lived"
+   ],
+   "answer": 1,
+   "explain": "Durée jusqu'à maintenant → present perfect + for."
+  },
+  {
+   "type": "qcm",
+   "q": "She has worked here ___ 2020.",
+   "options": [
+    "for",
+    "since",
+    "from"
+   ],
+   "answer": 1,
+   "explain": "since + point de départ."
+  },
+  {
+   "type": "qcm",
+   "q": "We ___ the project yesterday.",
+   "options": [
+    "have finished",
+    "finished",
+    "finish"
+   ],
+   "answer": 1,
+   "explain": "yesterday = date précise → prétérit."
+  },
+  {
+   "type": "qcm",
+   "q": "___ you ever been to London?",
+   "options": [
+    "Did",
+    "Have",
+    "Do"
+   ],
+   "answer": 1,
+   "explain": "Expérience de vie : Have you ever been…?"
+  },
+  {
+   "type": "qcm",
+   "q": "He ___ his password. He can't log in.",
+   "options": [
+    "forgot",
+    "has forgotten",
+    "forgets"
+   ],
+   "answer": 1,
+   "explain": "Résultat présent → has forgotten."
+  },
+  {
+   "type": "qcm",
+   "q": "They haven't called ___.",
+   "options": [
+    "already",
+    "yet",
+    "ever"
+   ],
+   "answer": 1,
+   "explain": "yet dans une négation, en fin de phrase."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "I have seen him last week.",
+    "I saw him last week.",
+    "I see him last week."
+   ],
+   "answer": 1,
+   "explain": "last week → prétérit."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (be) in this company for 3 years.",
+   "answers": [
+    "have been"
+   ],
+   "explain": "be → been : have been."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (not / see) the news yet.",
+   "answers": [
+    "hasn't seen",
+    "has not seen"
+   ],
+   "explain": "Négation 3e personne : hasn't seen."
+  },
+  {
+   "type": "fill",
+   "q": "We've lived here ___ ten years. (for / since)",
+   "answers": [
+    "for"
+   ],
+   "explain": "Durée → for."
+  },
+  {
+   "type": "fill",
+   "q": "They've been friends ___ they were kids. (for / since)",
+   "answers": [
+    "since"
+   ],
+   "explain": "Point de départ → since."
+  },
+  {
+   "type": "fill",
+   "q": "Have you ever ___ (eat) sushi?",
+   "answers": [
+    "eaten"
+   ],
+   "explain": "eat → eaten."
+  },
+  {
+   "type": "fill",
+   "q": "He has ___ left. (vient de)",
+   "answers": [
+    "just"
+   ],
+   "explain": "just = vient de."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "have",
+    "lived",
+    "here",
+    "for",
+    "ten",
+    "years"
+   ],
+   "answers": [
+    "I have lived here for ten years",
+    "I've lived here for ten years"
+   ],
+   "explain": "have + pp + for + durée."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "has",
+    "not",
+    "finished",
+    "the",
+    "report",
+    "yet"
+   ],
+   "answers": [
+    "She has not finished the report yet",
+    "She hasn't finished the report yet"
+   ],
+   "explain": "yet en fin de phrase."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Have",
+    "you",
+    "ever",
+    "been",
+    "to",
+    "Japan"
+   ],
+   "answers": [
+    "Have you ever been to Japan"
+   ],
+   "explain": "Question d'expérience."
+  }
+ ]
+}

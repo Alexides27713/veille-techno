@@ -1,0 +1,45 @@
+name: Veille quotidienne
+on:
+  schedule:
+    - cron: "0 5 * * *"   # tous les jours vers 6-7 h (heure de Paris)
+  workflow_dispatch:       # bouton « Run workflow » pour lancer à la main
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: veille
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Générer le site
+        run: |
+          [ -f config.json ] || cp config.example.json config.json
+          python fetch_and_summarize.py
+      - name: Sauvegarder l'historique
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add -f data/history.json
+          git diff --cached --quiet || git commit -m "Mise à jour de l'historique"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

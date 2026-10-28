@@ -1,0 +1,324 @@
+{
+ "id": "past-simple",
+ "title": "Le prétérit (past simple)",
+ "level": "A2",
+ "topic": "Temps verbaux",
+ "summary": "Raconter ce qui est fini : verbes réguliers, irréguliers à connaître, did pour la négation et la question.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Quand l'utiliser ?"
+  },
+  {
+   "type": "p",
+   "text": "Pour une action **terminée** à un moment **précis du passé**, mentionné ou sous-entendu : *yesterday, last week, in 2019, two days ago.*"
+  },
+  {
+   "type": "h",
+   "text": "Verbes réguliers : + ed"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Règle",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "la plupart : + ed",
+     "work → worked"
+    ],
+    [
+     "-e : + d",
+     "live → lived"
+    ],
+    [
+     "consonne + y → ied",
+     "study → studied"
+    ],
+    [
+     "CVC : on double",
+     "stop → stopped"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "La prononciation de **-ed** : /t/ après un son sourd (*worked*), /d/ après un son voisé (*played*), /ɪd/ après t ou d (*wanted*)."
+  },
+  {
+   "type": "h",
+   "text": "Verbes irréguliers fréquents"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Base",
+    "Passé",
+    "Base",
+    "Passé"
+   ],
+   "rows": [
+    [
+     "be",
+     "was / were",
+     "go",
+     "went"
+    ],
+    [
+     "have",
+     "had",
+     "see",
+     "saw"
+    ],
+    [
+     "do",
+     "did",
+     "take",
+     "took"
+    ],
+    [
+     "make",
+     "made",
+     "buy",
+     "bought"
+    ],
+    [
+     "get",
+     "got",
+     "write",
+     "wrote"
+    ],
+    [
+     "know",
+     "knew",
+     "think",
+     "thought"
+    ],
+    [
+     "come",
+     "came",
+     "send",
+     "sent"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Négation et question"
+  },
+  {
+   "type": "p",
+   "text": "On utilise **did** (pour toutes les personnes). Le verbe repasse à l'infinitif : *I **didn't go***, ***Did** you **go**?*"
+  },
+  {
+   "type": "p",
+   "text": "Avec **to be**, pas de did : *I wasn't there. Were you there?*"
+  },
+  {
+   "type": "h",
+   "text": "Exemples"
+  },
+  {
+   "type": "ex",
+   "en": "I sent the file yesterday.",
+   "fr": "J'ai envoyé le fichier hier."
+  },
+  {
+   "type": "ex",
+   "en": "She didn't come to the meeting.",
+   "fr": "Elle n'est pas venue à la réunion."
+  },
+  {
+   "type": "ex",
+   "en": "Did you see the update?",
+   "fr": "As-tu vu la mise à jour ?"
+  },
+  {
+   "type": "ex",
+   "en": "We moved to Lyon in 2018.",
+   "fr": "Nous avons déménagé à Lyon en 2018."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « Je suis allé » se traduit par *I went* (past simple) quand le moment est précis. L'anglais n'a pas de passé composé équivalent pour ça."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "I ___ to Paris last year.",
+   "options": [
+    "go",
+    "went",
+    "gone"
+   ],
+   "answer": 1,
+   "explain": "go → went."
+  },
+  {
+   "type": "qcm",
+   "q": "She ___ a new laptop two days ago.",
+   "options": [
+    "buyed",
+    "bought",
+    "buys"
+   ],
+   "answer": 1,
+   "explain": "buy → bought."
+  },
+  {
+   "type": "qcm",
+   "q": "___ you see the email?",
+   "options": [
+    "Do",
+    "Did",
+    "Were"
+   ],
+   "answer": 1,
+   "explain": "Question au prétérit : Did + sujet + verbe nu."
+  },
+  {
+   "type": "qcm",
+   "q": "We ___ the meeting. (ne pas rater)",
+   "options": [
+    "didn't miss",
+    "didn't missed",
+    "not missed"
+   ],
+   "answer": 0,
+   "explain": "Après didn't, le verbe reste à la base."
+  },
+  {
+   "type": "qcm",
+   "q": "He ___ at home last night.",
+   "options": [
+    "was",
+    "were",
+    "did"
+   ],
+   "answer": 0,
+   "explain": "be : he → was."
+  },
+  {
+   "type": "qcm",
+   "q": "They ___ the project in March.",
+   "options": [
+    "finish",
+    "finished",
+    "finishing"
+   ],
+   "answer": 1,
+   "explain": "Régulier + ed."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "Did she went?",
+    "Did she go?",
+    "Does she went?"
+   ],
+   "answer": 1,
+   "explain": "Did + base verbale."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (write) the report yesterday.",
+   "answers": [
+    "wrote"
+   ],
+   "explain": "write → wrote."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (not / know) the answer.",
+   "answers": [
+    "didn't know",
+    "did not know"
+   ],
+   "explain": "Négation : didn't know."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (study) hard last month.",
+   "answers": [
+    "studied"
+   ],
+   "explain": "consonne + y → ied."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (take) a train this morning.",
+   "answers": [
+    "took"
+   ],
+   "explain": "take → took."
+  },
+  {
+   "type": "fill",
+   "q": "___ they come to the party? (did / do)",
+   "answers": [
+    "did",
+    "Did"
+   ],
+   "explain": "Question au prétérit : Did they come ?"
+  },
+  {
+   "type": "fill",
+   "q": "The server ___ (stop) at midnight.",
+   "answers": [
+    "stopped"
+   ],
+   "explain": "CVC : on double le p."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "did",
+    "not",
+    "see",
+    "the",
+    "update"
+   ],
+   "answers": [
+    "I did not see the update",
+    "I didn't see the update"
+   ],
+   "explain": "did not + base."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "sent",
+    "the",
+    "file",
+    "yesterday"
+   ],
+   "answers": [
+    "She sent the file yesterday"
+   ],
+   "explain": "send → sent, complément de temps à la fin."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Did",
+    "you",
+    "go",
+    "to",
+    "the",
+    "meeting"
+   ],
+   "answers": [
+    "Did you go to the meeting"
+   ],
+   "explain": "Did + sujet + base."
+  }
+ ]
+}

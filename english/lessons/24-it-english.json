@@ -1,0 +1,328 @@
+{
+ "id": "it-english",
+ "title": "Anglais informatique et sécurité",
+ "level": "B1",
+ "topic": "Anglais pro",
+ "summary": "Le vocabulaire des équipes IT : serveurs, incidents, sécurité. Pour comprendre la documentation et échanger avec des collègues.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Infrastructure"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Anglais",
+    "Français"
+   ],
+   "rows": [
+    [
+     "server",
+     "serveur"
+    ],
+    [
+     "network",
+     "réseau"
+    ],
+    [
+     "cloud",
+     "cloud / informatique en nuage"
+    ],
+    [
+     "storage",
+     "stockage"
+    ],
+    [
+     "bandwidth",
+     "bande passante"
+    ],
+    [
+     "uptime / downtime",
+     "disponibilité / indisponibilité"
+    ],
+    [
+     "deploy",
+     "déployer"
+    ],
+    [
+     "rollback",
+     "retour arrière"
+    ],
+    [
+     "patch",
+     "correctif"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Sécurité"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Anglais",
+    "Français"
+   ],
+   "rows": [
+    [
+     "vulnerability",
+     "faille"
+    ],
+    [
+     "breach",
+     "violation de données"
+    ],
+    [
+     "phishing",
+     "hameçonnage"
+    ],
+    [
+     "ransomware",
+     "rançongiciel"
+    ],
+    [
+     "firewall",
+     "pare-feu"
+    ],
+    [
+     "authentication",
+     "authentification"
+    ],
+    [
+     "encryption",
+     "chiffrement"
+    ],
+    [
+     "zero-day",
+     "faille inconnue de l'éditeur"
+    ],
+    [
+     "exploit",
+     "exploiter / code d'exploitation"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Incidents et support"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**bug / issue / ticket** : problème signalé",
+    "**to troubleshoot** : dépanner",
+    "**to escalate** : remonter au niveau supérieur",
+    "**root cause** : cause racine",
+    "**workaround** : solution de contournement",
+    "**outage** : panne"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Exemples en contexte"
+  },
+  {
+   "type": "ex",
+   "en": "The server went down at 3 a.m.",
+   "fr": "Le serveur est tombé à 3 h du matin."
+  },
+  {
+   "type": "ex",
+   "en": "We applied a security patch.",
+   "fr": "Nous avons appliqué un correctif de sécurité."
+  },
+  {
+   "type": "ex",
+   "en": "Users reported a login issue.",
+   "fr": "Des utilisateurs ont signalé un problème de connexion."
+  },
+  {
+   "type": "ex",
+   "en": "The root cause was a misconfigured firewall.",
+   "fr": "La cause racine était un pare-feu mal configuré."
+  },
+  {
+   "type": "ex",
+   "en": "Please escalate this ticket to level 2.",
+   "fr": "Merci de remonter ce ticket au niveau 2."
+  },
+  {
+   "type": "tip",
+   "text": "**Conseil** : lis la documentation officielle en anglais. Tu apprendras plus vite qu'avec n'importe quel manuel."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "'Faille' in English:",
+   "options": [
+    "vulnerability",
+    "breach of file",
+    "gap"
+   ],
+   "answer": 0,
+   "explain": "vulnerability."
+  },
+  {
+   "type": "qcm",
+   "q": "'Correctif' in English:",
+   "options": [
+    "patch",
+    "correct",
+    "fix-file"
+   ],
+   "answer": 0,
+   "explain": "patch."
+  },
+  {
+   "type": "qcm",
+   "q": "'Pare-feu' in English:",
+   "options": [
+    "firewall",
+    "fireguard",
+    "wallfire"
+   ],
+   "answer": 0,
+   "explain": "firewall."
+  },
+  {
+   "type": "qcm",
+   "q": "'Hameçonnage' in English:",
+   "options": [
+    "phishing",
+    "fishing",
+    "hooking"
+   ],
+   "answer": 0,
+   "explain": "phishing."
+  },
+  {
+   "type": "qcm",
+   "q": "'Panne' in English:",
+   "options": [
+    "outage",
+    "output",
+    "downlog"
+   ],
+   "answer": 0,
+   "explain": "outage."
+  },
+  {
+   "type": "qcm",
+   "q": "'Solution de contournement' in English:",
+   "options": [
+    "workaround",
+    "bypass solution",
+    "around-fix"
+   ],
+   "answer": 0,
+   "explain": "workaround."
+  },
+  {
+   "type": "qcm",
+   "q": "'To escalate a ticket' means…",
+   "options": [
+    "fermer",
+    "remonter",
+    "supprimer"
+   ],
+   "answer": 1,
+   "explain": "remonter au niveau supérieur."
+  },
+  {
+   "type": "fill",
+   "q": "Un 'chiffrement' = ___",
+   "answers": [
+    "encryption"
+   ],
+   "explain": "encryption."
+  },
+  {
+   "type": "fill",
+   "q": "'Bande passante' = ___",
+   "answers": [
+    "bandwidth"
+   ],
+   "explain": "bandwidth."
+  },
+  {
+   "type": "fill",
+   "q": "'Dépanner' (verbe) = to ___",
+   "answers": [
+    "troubleshoot"
+   ],
+   "explain": "troubleshoot."
+  },
+  {
+   "type": "fill",
+   "q": "'Authentification' = ___",
+   "answers": [
+    "authentication"
+   ],
+   "explain": "authentication."
+  },
+  {
+   "type": "fill",
+   "q": "'Cause racine' = ___ cause",
+   "answers": [
+    "root"
+   ],
+   "explain": "root cause."
+  },
+  {
+   "type": "fill",
+   "q": "'Déployer' = to ___",
+   "answers": [
+    "deploy"
+   ],
+   "explain": "deploy."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "We",
+    "applied",
+    "a",
+    "security",
+    "patch"
+   ],
+   "answers": [
+    "We applied a security patch"
+   ],
+   "explain": "Passé simple."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "server",
+    "went",
+    "down",
+    "at",
+    "three"
+   ],
+   "answers": [
+    "The server went down at three"
+   ],
+   "explain": "went down = est tombé."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Users",
+    "reported",
+    "a",
+    "login",
+    "issue"
+   ],
+   "answers": [
+    "Users reported a login issue"
+   ],
+   "explain": "report = signaler."
+  }
+ ]
+}

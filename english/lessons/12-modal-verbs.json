@@ -1,0 +1,297 @@
+{
+ "id": "modal-verbs",
+ "title": "Les verbes modaux",
+ "level": "A2",
+ "topic": "Grammaire",
+ "summary": "can, could, must, have to, should, may, might : capacité, obligation, conseil, probabilité.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Règles communes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pas de -s à la 3e personne : *she can* (jamais « cans »).",
+    "Suivis du **verbe nu** : *I can swim*, pas « I can to swim ».",
+    "Négation et question sans do : *can't*, *Can you…?*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Les sens principaux"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Modal",
+    "Sens",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "can / can't",
+     "capacité, permission",
+     "I can speak English. Can I sit here?"
+    ],
+    [
+     "could",
+     "capacité passée, demande polie",
+     "Could you help me?"
+    ],
+    [
+     "must",
+     "obligation forte / déduction",
+     "You must wear a helmet. He must be tired."
+    ],
+    [
+     "mustn't",
+     "interdiction",
+     "You mustn't smoke here."
+    ],
+    [
+     "have to",
+     "obligation extérieure",
+     "I have to work tomorrow."
+    ],
+    [
+     "don't have to",
+     "pas obligé",
+     "You don't have to come."
+    ],
+    [
+     "should",
+     "conseil",
+     "You should sleep more."
+    ],
+    [
+     "may / might",
+     "possibilité",
+     "It might rain. She may be late."
+    ]
+   ]
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *must not* (interdit) ≠ *don't have to* (pas nécessaire). *You mustn't park here* ≠ *You don't have to park here.*"
+  },
+  {
+   "type": "h",
+   "text": "Demandes et permissions polies"
+  },
+  {
+   "type": "p",
+   "text": "*Could you…?*, *Would you…?*, *Would you mind…?* sont plus polis que *Can you…?*. Au bureau : *Could you send me the report?*"
+  },
+  {
+   "type": "h",
+   "text": "Déductions"
+  },
+  {
+   "type": "p",
+   "text": "*must be* (je suis presque sûr), *might / may be* (possible), *can't be* (impossible) : *She must be at work. He can't be serious.*"
+  },
+  {
+   "type": "ex",
+   "en": "You should back up your files.",
+   "fr": "Tu devrais sauvegarder tes fichiers."
+  },
+  {
+   "type": "ex",
+   "en": "I can't open this file.",
+   "fr": "Je n'arrive pas à ouvrir ce fichier."
+  },
+  {
+   "type": "ex",
+   "en": "Could I use your phone?",
+   "fr": "Puis-je utiliser ton téléphone ?"
+  },
+  {
+   "type": "ex",
+   "en": "We have to finish by noon.",
+   "fr": "Nous devons finir avant midi."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "She ___ speak three languages.",
+   "options": [
+    "cans",
+    "can",
+    "can to"
+   ],
+   "answer": 1,
+   "explain": "Pas de -s, pas de to."
+  },
+  {
+   "type": "qcm",
+   "q": "You ___ park here. It's forbidden.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "shouldn't to"
+   ],
+   "answer": 0,
+   "explain": "Interdiction → mustn't."
+  },
+  {
+   "type": "qcm",
+   "q": "You ___ come. It's optional.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "can't"
+   ],
+   "answer": 1,
+   "explain": "Pas obligé → don't have to."
+  },
+  {
+   "type": "qcm",
+   "q": "It's late. You ___ go to bed.",
+   "options": [
+    "should",
+    "could to",
+    "must to"
+   ],
+   "answer": 0,
+   "explain": "Conseil → should."
+  },
+  {
+   "type": "qcm",
+   "q": "___ you help me, please? (poli)",
+   "options": [
+    "Can",
+    "Could",
+    "Do"
+   ],
+   "answer": 1,
+   "explain": "Could est plus poli."
+  },
+  {
+   "type": "qcm",
+   "q": "He has a Ferrari. He ___ be rich.",
+   "options": [
+    "must",
+    "should",
+    "can"
+   ],
+   "answer": 0,
+   "explain": "Déduction forte → must."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "She musts leave.",
+    "She must leave.",
+    "She must to leave."
+   ],
+   "answer": 1,
+   "explain": "Modal + verbe nu."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (pouvoir, négatif) open the file. (écris la forme courte)",
+   "answers": [
+    "can't"
+   ],
+   "explain": "can't = cannot."
+  },
+  {
+   "type": "fill",
+   "q": "You ___ wear a seatbelt. (obligation)",
+   "answers": [
+    "must",
+    "have to"
+   ],
+   "explain": "must / have to."
+  },
+  {
+   "type": "fill",
+   "q": "It ___ rain tomorrow. (possible)",
+   "answers": [
+    "might",
+    "may"
+   ],
+   "explain": "Probabilité faible : might / may."
+  },
+  {
+   "type": "fill",
+   "q": "___ you open the window, please? (poli)",
+   "answers": [
+    "could",
+    "Could",
+    "would",
+    "Would"
+   ],
+   "explain": "Demande polie."
+  },
+  {
+   "type": "fill",
+   "q": "You ___ drive without a license. (interdit)",
+   "answers": [
+    "mustn't",
+    "must not",
+    "can't"
+   ],
+   "explain": "Interdiction."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ be at home. (impossible, déduction)",
+   "answers": [
+    "can't"
+   ],
+   "explain": "can't be = ce n'est pas possible."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "You",
+    "should",
+    "back",
+    "up",
+    "your",
+    "files"
+   ],
+   "answers": [
+    "You should back up your files"
+   ],
+   "explain": "should + verbe nu."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Could",
+    "you",
+    "send",
+    "me",
+    "the",
+    "report"
+   ],
+   "answers": [
+    "Could you send me the report"
+   ],
+   "explain": "Demande polie."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "You",
+    "must",
+    "not",
+    "park",
+    "here"
+   ],
+   "answers": [
+    "You must not park here",
+    "You mustn't park here"
+   ],
+   "explain": "Interdiction."
+  }
+ ]
+}

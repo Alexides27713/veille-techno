@@ -1,0 +1,329 @@
+{
+ "id": "comparatives-superlatives",
+ "title": "Comparer : plus, moins, le plus",
+ "level": "A2",
+ "topic": "Grammaire",
+ "summary": "Comparatifs et superlatifs réguliers et irréguliers, as…as, et the more… the more.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Le comparatif"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Type d'adjectif",
+    "Règle",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "1 syllabe",
+     "+ er",
+     "fast → faster"
+    ],
+    [
+     "1 syllabe CVC",
+     "double + er",
+     "big → bigger"
+    ],
+    [
+     "finit par y",
+     "y → ier",
+     "easy → easier"
+    ],
+    [
+     "2+ syllabes",
+     "more + adj",
+     "expensive → more expensive"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Après un comparatif, on utilise **than** : *This laptop is faster than mine.*"
+  },
+  {
+   "type": "h",
+   "text": "Le superlatif"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Type",
+    "Règle",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "court",
+     "the + est",
+     "the fastest"
+    ],
+    [
+     "finit par y",
+     "the + iest",
+     "the easiest"
+    ],
+    [
+     "long",
+     "the most + adj",
+     "the most expensive"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Irréguliers à connaître"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Adjectif",
+    "Comparatif",
+    "Superlatif"
+   ],
+   "rows": [
+    [
+     "good",
+     "better",
+     "the best"
+    ],
+    [
+     "bad",
+     "worse",
+     "the worst"
+    ],
+    [
+     "far",
+     "farther / further",
+     "the farthest / furthest"
+    ],
+    [
+     "little",
+     "less",
+     "the least"
+    ],
+    [
+     "much / many",
+     "more",
+     "the most"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Égalité : as … as"
+  },
+  {
+   "type": "p",
+   "text": "*My phone is **as** fast **as** yours.* Négation : *not as … as* (= moins que) : *This is **not as** good **as** that.*"
+  },
+  {
+   "type": "h",
+   "text": "Plus… plus…"
+  },
+  {
+   "type": "p",
+   "text": "*The more you practise, the better you become.* (Plus tu t'entraînes, meilleur tu deviens.)"
+  },
+  {
+   "type": "ex",
+   "en": "Python is easier than C++.",
+   "fr": "Python est plus facile que C++."
+  },
+  {
+   "type": "ex",
+   "en": "This is the cheapest option.",
+   "fr": "C'est l'option la moins chère."
+  },
+  {
+   "type": "ex",
+   "en": "He is the best developer in the team.",
+   "fr": "C'est le meilleur développeur de l'équipe."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : jamais « more bigger » ni « the most easiest ». Un seul marqueur : soit -er/-est, soit more/most."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "My laptop is ___ than yours.",
+   "options": [
+    "fast",
+    "faster",
+    "more fast"
+   ],
+   "answer": 1,
+   "explain": "Court → -er."
+  },
+  {
+   "type": "qcm",
+   "q": "This is the ___ restaurant in town.",
+   "options": [
+    "expensivest",
+    "most expensive",
+    "more expensive"
+   ],
+   "answer": 1,
+   "explain": "Long → the most."
+  },
+  {
+   "type": "qcm",
+   "q": "Good → better → ___",
+   "options": [
+    "the goodest",
+    "the best",
+    "the most good"
+   ],
+   "answer": 1,
+   "explain": "Irrégulier."
+  },
+  {
+   "type": "qcm",
+   "q": "Cars are ___ than bikes.",
+   "options": [
+    "more dangerous",
+    "dangerouser",
+    "most dangerous"
+   ],
+   "answer": 0,
+   "explain": "Adj. long → more."
+  },
+  {
+   "type": "qcm",
+   "q": "He is not ___ tall as his brother.",
+   "options": [
+    "so than",
+    "as",
+    "more"
+   ],
+   "answer": 1,
+   "explain": "not as … as."
+  },
+  {
+   "type": "qcm",
+   "q": "The ___ you practise, the better.",
+   "options": [
+    "more",
+    "most",
+    "much"
+   ],
+   "answer": 0,
+   "explain": "The more… the better."
+  },
+  {
+   "type": "qcm",
+   "q": "Which one is correct?",
+   "options": [
+    "more easier",
+    "easier",
+    "most easier"
+   ],
+   "answer": 1,
+   "explain": "Un seul marqueur."
+  },
+  {
+   "type": "fill",
+   "q": "big → ___ (comparatif)",
+   "answers": [
+    "bigger"
+   ],
+   "explain": "CVC : on double."
+  },
+  {
+   "type": "fill",
+   "q": "easy → the ___ (superlatif)",
+   "answers": [
+    "easiest"
+   ],
+   "explain": "y → iest."
+  },
+  {
+   "type": "fill",
+   "q": "bad → ___ (comparatif)",
+   "answers": [
+    "worse"
+   ],
+   "explain": "bad → worse."
+  },
+  {
+   "type": "fill",
+   "q": "This is the ___ (good) movie I've seen.",
+   "answers": [
+    "best"
+   ],
+   "explain": "Superlatif irrégulier."
+  },
+  {
+   "type": "fill",
+   "q": "She is ___ (old) than me.",
+   "answers": [
+    "older"
+   ],
+   "explain": "old → older."
+  },
+  {
+   "type": "fill",
+   "q": "It is ___ (expensive) than I thought.",
+   "answers": [
+    "more expensive"
+   ],
+   "explain": "Long adj → more + adj."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "This",
+    "laptop",
+    "is",
+    "faster",
+    "than",
+    "mine"
+   ],
+   "answers": [
+    "This laptop is faster than mine"
+   ],
+   "explain": "Comparatif + than."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "He",
+    "is",
+    "the",
+    "best",
+    "developer",
+    "in",
+    "the",
+    "team"
+   ],
+   "answers": [
+    "He is the best developer in the team"
+   ],
+   "explain": "Superlatif + in."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "is",
+    "not",
+    "as",
+    "tall",
+    "as",
+    "her",
+    "brother"
+   ],
+   "answers": [
+    "She is not as tall as her brother"
+   ],
+   "explain": "not as … as."
+  }
+ ]
+}

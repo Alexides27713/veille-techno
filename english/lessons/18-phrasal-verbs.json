@@ -1,0 +1,353 @@
+{
+ "id": "phrasal-verbs",
+ "title": "Phrasal verbs essentiels",
+ "level": "B1",
+ "topic": "Vocabulaire",
+ "summary": "verbe + particule : 30 verbes ultra-fréquents, groupés par thème, avec le piège de la séparation.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Qu'est-ce qu'un phrasal verb ?"
+  },
+  {
+   "type": "p",
+   "text": "Un verbe + une particule (*up, down, out, off, in, on…*) qui **change le sens** : *give* = donner, *give up* = abandonner, *give in* = céder."
+  },
+  {
+   "type": "h",
+   "text": "Séparables ou non ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Séparable : *turn **off** the light* ou *turn the light **off***. Avec un pronom, **obligatoirement au milieu** : *turn **it** off.*",
+    "Inséparable : *look after the kids* → *look after **them***."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Au travail"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Phrasal verb",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "set up",
+     "installer, configurer"
+    ],
+    [
+     "carry out",
+     "mener à bien"
+    ],
+    [
+     "point out",
+     "signaler"
+    ],
+    [
+     "find out",
+     "découvrir"
+    ],
+    [
+     "sort out",
+     "régler"
+    ],
+    [
+     "back up",
+     "sauvegarder"
+    ],
+    [
+     "log in / out",
+     "se connecter / déconnecter"
+    ],
+    [
+     "hand in",
+     "rendre"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Au quotidien"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Phrasal verb",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "get up",
+     "se lever"
+    ],
+    [
+     "give up",
+     "abandonner"
+    ],
+    [
+     "look for",
+     "chercher"
+    ],
+    [
+     "look after",
+     "s'occuper de"
+    ],
+    [
+     "pick up",
+     "ramasser, récupérer"
+    ],
+    [
+     "turn on / off",
+     "allumer / éteindre"
+    ],
+    [
+     "take off",
+     "enlever, décoller"
+    ],
+    [
+     "run out of",
+     "ne plus avoir de"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Pour communiquer"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Phrasal verb",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "call back",
+     "rappeler"
+    ],
+    [
+     "catch up",
+     "rattraper"
+    ],
+    [
+     "hold on",
+     "patienter"
+    ],
+    [
+     "sign up",
+     "s'inscrire"
+    ],
+    [
+     "fill in",
+     "remplir"
+    ],
+    [
+     "check in",
+     "enregistrer (hôtel)"
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "Please back up your files.",
+   "fr": "Sauvegarde tes fichiers s'il te plaît."
+  },
+  {
+   "type": "ex",
+   "en": "I'm looking for my keys.",
+   "fr": "Je cherche mes clés."
+  },
+  {
+   "type": "ex",
+   "en": "We ran out of coffee.",
+   "fr": "On n'a plus de café."
+  },
+  {
+   "type": "ex",
+   "en": "Could you turn it off?",
+   "fr": "Peux-tu l'éteindre ?"
+  },
+  {
+   "type": "tip",
+   "text": "**Astuce** : apprends-les en phrases entières, pas en listes. Une particule change tout : *look up* (chercher dans un livre) ≠ *look after* (s'occuper de)."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "Please ___ your files before the update.",
+   "options": [
+    "back out",
+    "back up",
+    "back in"
+   ],
+   "answer": 1,
+   "explain": "back up = sauvegarder."
+  },
+  {
+   "type": "qcm",
+   "q": "I can't ___ my keys.",
+   "options": [
+    "look after",
+    "look for",
+    "look up"
+   ],
+   "answer": 1,
+   "explain": "look for = chercher."
+  },
+  {
+   "type": "qcm",
+   "q": "We ___ coffee this morning.",
+   "options": [
+    "ran out of",
+    "ran into of",
+    "run up"
+   ],
+   "answer": 0,
+   "explain": "run out of = ne plus avoir de."
+  },
+  {
+   "type": "qcm",
+   "q": "Turn ___ off.",
+   "options": [
+    "off it",
+    "it",
+    "it up"
+   ],
+   "answer": 1,
+   "explain": "Avec un pronom : turn it off."
+  },
+  {
+   "type": "qcm",
+   "q": "Don't ___. Keep trying!",
+   "options": [
+    "give in",
+    "give up",
+    "give out"
+   ],
+   "answer": 1,
+   "explain": "give up = abandonner."
+  },
+  {
+   "type": "qcm",
+   "q": "Please ___ the form.",
+   "options": [
+    "fill in",
+    "fill up of",
+    "fill off"
+   ],
+   "answer": 0,
+   "explain": "fill in = remplir."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "Look after them.",
+    "Look them after.",
+    "Look after to them."
+   ],
+   "answer": 0,
+   "explain": "Inséparable."
+  },
+  {
+   "type": "fill",
+   "q": "Please ___ up your files. (sauvegarder)",
+   "answers": [
+    "back"
+   ],
+   "explain": "back up."
+  },
+  {
+   "type": "fill",
+   "q": "I'll ___ you back tomorrow. (rappeler)",
+   "answers": [
+    "call"
+   ],
+   "explain": "call back."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ up at 6 every day. (se lever)",
+   "answers": [
+    "gets"
+   ],
+   "explain": "get up."
+  },
+  {
+   "type": "fill",
+   "q": "We need to ___ out the problem. (régler)",
+   "answers": [
+    "sort"
+   ],
+   "explain": "sort out."
+  },
+  {
+   "type": "fill",
+   "q": "Turn ___ the lights. (éteindre ; off/on)",
+   "answers": [
+    "off"
+   ],
+   "explain": "turn off."
+  },
+  {
+   "type": "fill",
+   "q": "Hold ___ , I'll check. (patienter)",
+   "answers": [
+    "on"
+   ],
+   "explain": "hold on."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Please",
+    "back",
+    "up",
+    "your",
+    "files"
+   ],
+   "answers": [
+    "Please back up your files"
+   ],
+   "explain": "Sauvegarder."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "am",
+    "looking",
+    "for",
+    "my",
+    "keys"
+   ],
+   "answers": [
+    "I am looking for my keys",
+    "I'm looking for my keys"
+   ],
+   "explain": "look for."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Could",
+    "you",
+    "turn",
+    "it",
+    "off"
+   ],
+   "answers": [
+    "Could you turn it off"
+   ],
+   "explain": "Pronom au milieu."
+  }
+ ]
+}

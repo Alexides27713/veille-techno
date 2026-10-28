@@ -1,0 +1,315 @@
+{
+ "id": "questions-negation",
+ "title": "Poser des questions et nier",
+ "level": "A1",
+ "topic": "Grammaire",
+ "summary": "L'ordre des mots d'une question, les mots interrogatifs, et les formes négatives de tous les temps.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "L'ordre d'une question"
+  },
+  {
+   "type": "p",
+   "text": "Schéma général : **mot interrogatif + auxiliaire + sujet + verbe**. L'auxiliaire dépend du temps : *do/does/did, am/is/are, have/has, will, can…*"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Temps",
+    "Question",
+    "Négation"
+   ],
+   "rows": [
+    [
+     "be",
+     "Is she here?",
+     "She isn't here."
+    ],
+    [
+     "présent simple",
+     "Do you work?",
+     "I don't work."
+    ],
+    [
+     "prétérit",
+     "Did he call?",
+     "He didn't call."
+    ],
+    [
+     "present perfect",
+     "Have you finished?",
+     "I haven't finished."
+    ],
+    [
+     "futur",
+     "Will they come?",
+     "They won't come."
+    ],
+    [
+     "modal",
+     "Can you help?",
+     "I can't help."
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Les mots interrogatifs"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Mot",
+    "Sens",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "what",
+     "quoi / quel",
+     "What do you need?"
+    ],
+    [
+     "where",
+     "où",
+     "Where does she live?"
+    ],
+    [
+     "when",
+     "quand",
+     "When did it happen?"
+    ],
+    [
+     "why",
+     "pourquoi",
+     "Why are you late?"
+    ],
+    [
+     "who",
+     "qui",
+     "Who called you?"
+    ],
+    [
+     "how",
+     "comment",
+     "How does it work?"
+    ],
+    [
+     "how many / how much",
+     "combien",
+     "How many servers do you have?"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Sujet de la question : pas d'auxiliaire !"
+  },
+  {
+   "type": "p",
+   "text": "Quand le mot interrogatif **est le sujet** (who, what), on n'utilise pas do/does/did : *Who **wrote** this?* — *What **happened**?*"
+  },
+  {
+   "type": "h",
+   "text": "Les question tags"
+  },
+  {
+   "type": "p",
+   "text": "Petit morceau en fin de phrase pour demander confirmation : phrase positive → tag négatif, et inversement. *You like tea, **don't you**?* — *She isn't here, **is she**?*"
+  },
+  {
+   "type": "ex",
+   "en": "Where do you work?",
+   "fr": "Où travailles-tu ?"
+  },
+  {
+   "type": "ex",
+   "en": "Why didn't you call me?",
+   "fr": "Pourquoi ne m'as-tu pas appelé ?"
+  },
+  {
+   "type": "ex",
+   "en": "Who is coming tonight?",
+   "fr": "Qui vient ce soir ?"
+  },
+  {
+   "type": "ex",
+   "en": "How much does it cost?",
+   "fr": "Combien ça coûte ?"
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *How many* + pluriel dénombrable, *how much* + indénombrable. *How much water? How many bottles?*"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "___ do you live?",
+   "options": [
+    "Where",
+    "Who",
+    "Which"
+   ],
+   "answer": 0,
+   "explain": "Pour un lieu : where."
+  },
+  {
+   "type": "qcm",
+   "q": "___ wrote this report? (qui)",
+   "options": [
+    "Who",
+    "Who did",
+    "What"
+   ],
+   "answer": 0,
+   "explain": "Who est sujet : pas de did."
+  },
+  {
+   "type": "qcm",
+   "q": "She doesn't like coffee, ___?",
+   "options": [
+    "doesn't she",
+    "does she",
+    "is she"
+   ],
+   "answer": 1,
+   "explain": "Phrase négative → tag positif : does she ?"
+  },
+  {
+   "type": "qcm",
+   "q": "___ money do you have?",
+   "options": [
+    "How many",
+    "How much",
+    "How long"
+   ],
+   "answer": 1,
+   "explain": "Argent = indénombrable → how much."
+  },
+  {
+   "type": "qcm",
+   "q": "Which question is correct?",
+   "options": [
+    "Where you live?",
+    "Where do you live?",
+    "Where does you live?"
+   ],
+   "answer": 1,
+   "explain": "mot interrogatif + do + sujet + verbe."
+  },
+  {
+   "type": "qcm",
+   "q": "___ didn't you call me?",
+   "options": [
+    "Why",
+    "Who",
+    "Whose"
+   ],
+   "answer": 0,
+   "explain": "Pour la cause : why."
+  },
+  {
+   "type": "qcm",
+   "q": "They aren't ready, ___?",
+   "options": [
+    "aren't they",
+    "are they",
+    "do they"
+   ],
+   "answer": 1,
+   "explain": "Négatif → tag positif."
+  },
+  {
+   "type": "fill",
+   "q": "___ does she work? (où)",
+   "answers": [
+    "Where",
+    "where"
+   ],
+   "explain": "Lieu → where."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (not / call) me yesterday.",
+   "answers": [
+    "didn't call",
+    "did not call"
+   ],
+   "explain": "Prétérit négatif."
+  },
+  {
+   "type": "fill",
+   "q": "___ many servers do you have?",
+   "answers": [
+    "How",
+    "how"
+   ],
+   "explain": "How many."
+  },
+  {
+   "type": "fill",
+   "q": "You like jazz, ___ you? (don't / do)",
+   "answers": [
+    "don't"
+   ],
+   "explain": "Phrase positive → tag négatif."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (not / finish) yet. (present perfect)",
+   "answers": [
+    "haven't finished",
+    "have not finished"
+   ],
+   "explain": "Present perfect négatif."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Why",
+    "did",
+    "you",
+    "not",
+    "call",
+    "me"
+   ],
+   "answers": [
+    "Why did you not call me",
+    "Why didn't you call me"
+   ],
+   "explain": "Question au prétérit."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "How",
+    "much",
+    "does",
+    "it",
+    "cost"
+   ],
+   "answers": [
+    "How much does it cost"
+   ],
+   "explain": "how much + does + sujet + verbe."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Who",
+    "wrote",
+    "this",
+    "report"
+   ],
+   "answers": [
+    "Who wrote this report"
+   ],
+   "explain": "Who est sujet : pas d'auxiliaire."
+  }
+ ]
+}

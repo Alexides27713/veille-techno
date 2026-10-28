@@ -1,0 +1,300 @@
+{
+ "id": "pronouns-possessives",
+ "title": "Pronoms et possessifs",
+ "level": "A1",
+ "topic": "Bases",
+ "summary": "I / me / my / mine : choisir le bon pronom, comprendre ’s, et éviter l'erreur « his / her » qui piège tous les francophones.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Les quatre séries à connaître"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sujet",
+    "Complément",
+    "Adjectif possessif",
+    "Pronom possessif"
+   ],
+   "rows": [
+    [
+     "I",
+     "me",
+     "my",
+     "mine"
+    ],
+    [
+     "you",
+     "you",
+     "your",
+     "yours"
+    ],
+    [
+     "he",
+     "him",
+     "his",
+     "his"
+    ],
+    [
+     "she",
+     "her",
+     "her",
+     "hers"
+    ],
+    [
+     "it",
+     "it",
+     "its",
+     "—"
+    ],
+    [
+     "we",
+     "us",
+     "our",
+     "ours"
+    ],
+    [
+     "they",
+     "them",
+     "their",
+     "theirs"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Le **sujet** fait l'action (*I call*). Le **complément** la reçoit (*call me*). L'**adjectif possessif** précède un nom (*my phone*). Le **pronom possessif** remplace tout le groupe (*This phone is mine*)."
+  },
+  {
+   "type": "h",
+   "text": "Le piège his / her"
+  },
+  {
+   "type": "p",
+   "text": "En français, le possessif s'accorde avec **la chose possédée** (son livre, sa voiture). En anglais, il s'accorde avec **le possesseur** : *his* si c'est un homme, *her* si c'est une femme, quelle que soit la chose."
+  },
+  {
+   "type": "ex",
+   "en": "Paul loves his car.",
+   "fr": "Paul aime sa voiture."
+  },
+  {
+   "type": "ex",
+   "en": "Marie loves her car.",
+   "fr": "Marie aime sa voiture."
+  },
+  {
+   "type": "ex",
+   "en": "The company changed its logo.",
+   "fr": "L'entreprise a changé son logo."
+  },
+  {
+   "type": "h",
+   "text": "Le génitif saxon ’s"
+  },
+  {
+   "type": "p",
+   "text": "Pour dire « à quelqu'un », on ajoute **’s** au possesseur : *Tom's laptop*, *my boss's office*. Pluriel en -s : on met seulement l'apostrophe : *the engineers' desks*."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Tom's** = appartient à Tom (génitif).",
+    "**Tom's tired** = Tom is tired (contraction).",
+    "**Its** (possessif) n'a pas d'apostrophe ; **it's** = it is / it has."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Exemples"
+  },
+  {
+   "type": "ex",
+   "en": "Can you help me?",
+   "fr": "Peux-tu m'aider ?"
+  },
+  {
+   "type": "ex",
+   "en": "This is not my bag. Mine is blue.",
+   "fr": "Ce n'est pas mon sac. Le mien est bleu."
+  },
+  {
+   "type": "ex",
+   "en": "They sent us their report.",
+   "fr": "Ils nous ont envoyé leur rapport."
+  },
+  {
+   "type": "ex",
+   "en": "Is this pen yours or hers?",
+   "fr": "Ce stylo est à toi ou à elle ?"
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « un ami à moi » se dit *a friend of mine* (pas « a my friend »)."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "Sophie forgot ___ keys.",
+   "options": [
+    "his",
+    "her",
+    "their"
+   ],
+   "answer": 1,
+   "explain": "Le possesseur est féminin (Sophie) → her."
+  },
+  {
+   "type": "qcm",
+   "q": "Tom lost ___ phone.",
+   "options": [
+    "her",
+    "his",
+    "its"
+   ],
+   "answer": 1,
+   "explain": "Le possesseur est masculin → his."
+  },
+  {
+   "type": "qcm",
+   "q": "Call ___ tomorrow, please. (moi)",
+   "options": [
+    "I",
+    "me",
+    "my"
+   ],
+   "answer": 1,
+   "explain": "Après un verbe, on utilise le pronom complément : me."
+  },
+  {
+   "type": "qcm",
+   "q": "This book is not yours, it's ___.",
+   "options": [
+    "my",
+    "me",
+    "mine"
+   ],
+   "answer": 2,
+   "explain": "Pas de nom derrière → pronom possessif : mine."
+  },
+  {
+   "type": "qcm",
+   "q": "The cat is licking ___ paw.",
+   "options": [
+    "it's",
+    "its",
+    "his"
+   ],
+   "answer": 1,
+   "explain": "Possessif de it : its (sans apostrophe)."
+  },
+  {
+   "type": "qcm",
+   "q": "The ___ meeting room is on the left. (les ingénieurs)",
+   "options": [
+    "engineers",
+    "engineer's",
+    "engineers'"
+   ],
+   "answer": 2,
+   "explain": "Pluriel en -s : on ajoute seulement l'apostrophe."
+  },
+  {
+   "type": "qcm",
+   "q": "A: Whose laptop is this?  B: It's ___.",
+   "options": [
+    "Mary",
+    "Mary's",
+    "Marys"
+   ],
+   "answer": 1,
+   "explain": "Whose → possession : Mary's."
+  },
+  {
+   "type": "fill",
+   "q": "We love ___ new office. (notre)",
+   "answers": [
+    "our"
+   ],
+   "explain": "we → our."
+  },
+  {
+   "type": "fill",
+   "q": "They forgot ___ passwords. (leurs)",
+   "answers": [
+    "their"
+   ],
+   "explain": "they → their."
+  },
+  {
+   "type": "fill",
+   "q": "Give it to ___. (à elle)",
+   "answers": [
+    "her"
+   ],
+   "explain": "Complément de she : her."
+  },
+  {
+   "type": "fill",
+   "q": "This desk is ___. (à nous)",
+   "answers": [
+    "ours"
+   ],
+   "explain": "Pas de nom derrière → ours."
+  },
+  {
+   "type": "fill",
+   "q": "Is this your pen? — No, it's ___ (à lui).",
+   "answers": [
+    "his"
+   ],
+   "explain": "Pronom possessif masculin : his."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "This",
+    "laptop",
+    "is",
+    "mine"
+   ],
+   "answers": [
+    "This laptop is mine"
+   ],
+   "explain": "Pronom possessif en fin de phrase."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Anna",
+    "lost",
+    "her",
+    "phone",
+    "yesterday"
+   ],
+   "answers": [
+    "Anna lost her phone yesterday"
+   ],
+   "explain": "Anna est une femme → her."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "They",
+    "sent",
+    "us",
+    "their",
+    "report"
+   ],
+   "answers": [
+    "They sent us their report"
+   ],
+   "explain": "Sujet + verbe + complément (us) + possessif + nom."
+  }
+ ]
+}

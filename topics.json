@@ -1,0 +1,118 @@
+{
+  "Informatique & Sécurité": {
+    "fallback": "Actu tech",
+    "feeds": {
+      "CERT-FR (avis)": "Sécurité",
+      "Le Monde Informatique — Sécurité": "Sécurité",
+      "Le Monde Informatique — Réseaux": "Réseaux & Infra",
+      "Le Monde Informatique — OS": "Software",
+      "The Hacker News": {"default": "Sécurité"}
+    },
+    "topics": [
+      {"name": "Sécurité", "icon": "🛡️",
+       "keywords": ["vulnérab", "vulnerab", "faille", "exploit", "ransomware", "rançongiciel", "malware", "malveillant", "phishing", "hameçonnage", "cyberattaque", "cyberattack", "cybercrim", "cybersécurité", "cybersecurity", "attaque", "attack", "breach", "fuite de données", "data leak", "zero-day", "0-day", "backdoor", "trojan", "botnet", "ddos", "chiffrement", "encryption", "authentification", "authentication", "mot de passe", "password", "antivirus", "sécurité", "security", "anssi", "cert-fr", "hacker", "pirate", "spyware", "avis de sécurité", "correctif de sécurité", "security patch", "élévation de privilèges", "privilege escalation", "exécution de code", "remote code execution", "injection", "credential", "identifiants volés", "surveillance"],
+       "exact": ["cve", "apt", "mfa", "2fa", "rce", "xss", "soc", "siem", "edr"]},
+      {"name": "Actu tech", "icon": "📡",
+       "keywords": ["intelligence artificielle", "artificial intelligence", "chatgpt", "openai", "anthropic", "claude", "gemini", "copilot", "mistral", "modèle de langage", "language model", "machine learning", "apprentissage automatique", "agent ia", "ai agent", "startup", "start-up", "rachat", "acquisition", "levée de fonds", "funding", "lancement", "launch", "innovation", "régulation", "regulation", "souveraineté", "sovereign", "numérique", "digital", "tendance", "trend", "stratégie", "strategy", "gafam", "big tech", "quantique", "quantum", "blockchain", "robot"],
+       "exact": ["ia", "ai", "llm", "gpt"]},
+      {"name": "Hardware", "icon": "🖥️",
+       "keywords": ["processeur", "processor", "carte graphique", "graphics card", "puce", "chip", "semi-conducteur", "semiconductor", "nvidia", "amd", "disque dur", "mémoire vive", "stockage", "storage", "ordinateur portable", "laptop", "smartphone", "imprimante", "printer", "carte mère", "motherboard", "raspberry", "composant", "périphérique", "écran", "clavier", "keyboard", "batterie", "battery", "refroidissement", "cooling", "supercalculateur", "supercomputer", "wafer", "tsmc"],
+       "exact": ["cpu", "gpu", "ram", "ssd", "hdd", "usb", "pc", "arm", "nvme", "npu", "monitor", "intel"]},
+      {"name": "Software", "icon": "💿",
+       "keywords": ["système d'exploitation", "operating system", "windows", "linux", "ubuntu", "debian", "android", "macos", "logiciel", "software", "application", "mise à jour", "update", "version", "release", "open source", "open-source", "navigateur", "browser", "chrome", "firefox", "microsoft 365", "outlook", "exchange", "active directory", "powershell", "python", "javascript", "développeur", "developer", "github", "programmation", "programming", "framework", "bibliothèque logicielle", "saas", "licence", "license"],
+       "exact": ["os", "ios", "api", "sdk", "gui", "cli", "edge", "office"]},
+      {"name": "Réseaux & Infra", "icon": "🌐",
+       "keywords": ["réseau", "network", "wi-fi", "wifi", "fibre", "routeur", "router", "pare-feu", "firewall", "dns", "bgp", "cisco", "fortinet", "fortigate", "juniper", "datacenter", "data center", "cloud", "aws", "azure", "virtualisation", "virtualization", "vmware", "proxmox", "hyper-v", "kubernetes", "docker", "conteneur", "container", "sd-wan", "bande passante", "bandwidth", "latence", "latency", "télécom", "telecom", "infrastructure", "supervision", "monitoring", "sauvegarde", "backup", "haute disponibilité"],
+       "exact": ["5g", "4g", "lan", "wan", "vlan", "vpn", "switch", "iot", "nas", "san"]}
+    ]
+  },
+
+  "Astronomie": {
+    "fallback": "Astrophysique & cosmologie",
+    "feeds": {
+      "NASA Breaking News": {"default": "Exploration spatiale"}
+    },
+    "topics": [
+      {"name": "Exploration spatiale", "icon": "🚀",
+       "keywords": ["fusée", "rocket", "lancement", "launch", "mission", "sonde", "probe", "satellite", "nasa", "esa", "cnes", "spacex", "starship", "artemis", "rover", "station spatiale", "space station", "astronaute", "astronaut", "orbite", "orbit", "ariane", "vega", "télescope spatial", "space telescope", "atterrissage", "landing", "lanceur", "launcher", "blue origin", "isro", "cosmonaute", "taikonaute"],
+       "exact": ["iss", "jaxa", "roscosmos"]},
+      {"name": "Observer le ciel", "icon": "🔭",
+       "keywords": ["éclipse", "eclipse", "comète", "comet", "étoile filante", "météore", "meteor", "perséides", "géminides", "quadrantides", "aurore", "aurora", "conjonction", "conjunction", "opposition", "éphéméride", "ephemeris", "à observer", "visible à l'œil nu", "naked eye", "jumelles", "binoculars", "pleine lune", "full moon", "nouvelle lune", "new moon", "sky this", "how to see", "how to watch", "comment observer", "astrophotograph", "voie lactée", "milky way", "ciel du mois", "occultation", "lune de sang", "blood moon", "supermoon", "superlune"],
+       "exact": []},
+      {"name": "Astrophysique & cosmologie", "icon": "🌌",
+       "keywords": ["trou noir", "black hole", "galaxie", "galaxy", "universe", "big bang", "cosmolog", "matière noire", "dark matter", "énergie noire", "dark energy", "supernova", "nébuleuse", "nebula", "pulsar", "quasar", "ondes gravitationnelles", "gravitational wave", "redshift", "décalage vers le rouge", "james webb", "jwst", "hubble", "rubin", "betelgeuse", "étoile à neutrons", "neutron star", "astrophys", "âges sombres", "dark ages", "fond diffus", "magnétar", "magnetar", "naine blanche", "white dwarf", "amas", "cluster", "étoile"],
+       "exact": ["cmb", "agn", "frb", "univers", "star"]},
+      {"name": "Système solaire & exoplanètes", "icon": "🪐",
+       "keywords": ["planète", "planet", "exoplanète", "exoplanet", "jupiter", "saturne", "saturn", "vénus", "venus", "mercure", "mercury", "uranus", "neptune", "pluton", "pluto", "astéroïde", "asteroid", "moon", "soleil", "solaire", "solar", "système solaire", "solar system", "kuiper", "planète naine", "dwarf planet", "titan", "europa", "encelade", "enceladus", "zone habitable", "habitable", "éruption solaire", "solar flare", "tempête solaire", "solar storm"],
+       "exact": ["lune", "mars", "transit"]}
+    ]
+  },
+
+  "Photographie": {
+    "fallback": "Inspiration & tendances",
+    "feeds": {
+      "Digital Photography School": {"default": "Tutoriels & conseils"},
+      "Photography Life": {"default": "Tutoriels & conseils"},
+      "DIYPhotography": {"default": "Tutoriels & conseils"}
+    },
+    "topics": [
+      {"name": "Tutoriels & conseils", "icon": "🎓",
+       "keywords": ["tuto", "tutorial", "how to", "comment ", "guide", "conseils", "tips", "astuce", "technique", "apprendre", "learn", "débuter", "beginner", "étape par étape", "step by step", "step-by-step", "erreurs", "mistakes", "secrets", "réussir", "improve", "améliorer", "composition", "triangle d'exposition", "exposure triangle", "correction d'exposition", "mesure de lumière", "profondeur de champ", "depth of field", "vitesse d'obturation", "shutter speed", "balance des blancs", "white balance", "règle des tiers", "rule of thirds", "pose longue", "long exposure", "mise au point", "autofocus tips", "lumière naturelle", "natural light", "photographier", "how i", "why you", "things to"],
+       "exact": ["iso"]},
+      {"name": "Matériel", "icon": "📷",
+       "keywords": ["appareil photo", "camera", "caméra", "boîtier", "boitier", "objectif", "lens", "hybride", "mirrorless", "reflex", "dslr", "capteur", "sensor", "plein format", "full frame", "full-frame", "aps-c", "sony", "canon", "nikon", "fujifilm", "panasonic", "lumix", "olympus", "om system", "leica", "hasselblad", "pentax", "sigma", "tamron", "zeiss", "tokina", "viltrox", "godox", "trépied", "tripod", "filtre", "prise en main", "hands-on", "comparatif", "comparison", "annonce", "announces", "firmware", "accessoire", "carte mémoire", "memory card", "drone", "gopro", "smartphone", "sortie du"],
+       "exact": ["test", "review", "release"]},
+      {"name": "Post-production", "icon": "🎨",
+       "keywords": ["lightroom", "photoshop", "capture one", "retouche", "retouch", "post-production", "postproduction", "post-traitement", "post-processing", "editing", "edit your", "preset", "luminar", "affinity", "gimp", "darktable", "denoise", "dxo", "topaz", "masque", "masking", "calque", "layer", "color grading", "étalonnage", "développement raw", "raw processing", "ia générative", "generative fill"],
+       "exact": ["raw", "lut"]},
+      {"name": "Inspiration & tendances", "icon": "✨",
+       "keywords": ["inspiration", "portfolio", "exposition photo", "exposition de", "exhibition", "festival", "concours", "contest", "award", "prix ", "photographe", "photographer", "série", "series", "projet", "project", "tendance", "trend", "histoire de la photo", "history", "interview", "livre photo", "photobook", "magnum", "world press", "photo de l'année", "photo of the year", "winner", "gagnant", "argentique", "film photography", "street photography", "documentaire", "documentary", "reportage", "legend", "légende", "rétrospective", "retrospective"],
+       "exact": []}
+    ]
+  },
+
+  "Inspiration": {
+    "fallback": "Art & artisanat",
+    "feeds": {
+      "Mr X Stitch (broderie)": "Broderie & couture",
+      "The Ceramic School (poterie)": "Poterie & céramique",
+      "CFile (céramique)": "Poterie & céramique",
+      "Make:": {"default": "DIY & fabrication"},
+      "Colossal (art & artisanat)": {"default": "Art & artisanat"}
+    },
+    "topics": [
+      {"name": "Broderie & couture", "icon": "🧵",
+       "keywords": ["broderie", "embroider", "stitch", "point de croix", "cross stitch", "couture", "sewing", "sew ", "tricot", "knit", "crochet", "tissu", "textile", "aiguille", "needle", "quilt", "patchwork", "fil ", "thread", "machine à coudre", "visible mending", "raccommodage", "boutis", "tapisserie", "tufting", "macramé", "macrame", "weaving", "tissage", "yarn", "laine"],
+       "exact": ["fabric"]},
+      {"name": "Poterie & céramique", "icon": "🏺",
+       "keywords": ["poterie", "pottery", "potter", "céramique", "ceramic", "argile", "clay", "tour de potier", "wheel throwing", "émail", "glaze", "cuisson", "kiln", "grès", "stoneware", "porcelaine", "porcelain", "raku", "faïence", "earthenware", "terre cuite", "terracotta"],
+       "exact": []},
+      {"name": "Cuir", "icon": "👜",
+       "keywords": ["cuir", "leather", "maroquinerie", "leatherwork", "saddle stitch", "point sellier", "tannage", "tanning", "portefeuille", "wallet", "ceinture", "belt", "sellerie", "harness"],
+       "exact": []},
+      {"name": "Jardinage", "icon": "🌱",
+       "keywords": ["jardin", "garden", "potager", "vegetable", "plante", "plant", "semis", "seed", "fleur", "flower", "arbre", "tree", "taille des", "pruning", "compost", "rosier", "arrosage", "watering", "permaculture", "tondeuse", "lawn", "plantation", "balcon", "balcony", "serre", "greenhouse", "bulbe", "bulb", "tomate", "tomato", "légume"],
+       "exact": ["rose"]},
+      {"name": "Vitrail & verre", "icon": "🪟",
+       "keywords": ["vitrail", "stained glass", "stained-glass", "verre", "glass", "soufflage", "glassblowing", "fusing", "tiffany", "mosaïque", "mosaic", "verrerie", "glassware", "verrier"],
+       "exact": []},
+      {"name": "DIY & fabrication", "icon": "🔧",
+       "keywords": ["diy", "maker", "bricolage", "fabrication", "3d print", "impression 3d", "arduino", "raspberry", "électronique", "electronics", "woodworking", "menuiserie", "wood", "outil", "tool", "atelier", "workshop", "upcycl", "récup", "fait main", "handmade", "laser cut", "soudure", "solder", "cnc", "circuit"],
+       "exact": ["build", "bois"]},
+      {"name": "Art & artisanat", "icon": "🎨",
+       "keywords": ["artiste", "artist", "sculpture", "sculpt", "peinture", "painting", "installation", "illustration", "design", "craft", "artisan", "exposition", "exhibition", "galerie", "gallery", "street art", "mural", "origami"],
+       "exact": ["paper", "papier"]}
+    ]
+  },
+
+  "Anglais": {
+    "topics": [
+      {"name": "Bases", "icon": "🔤"},
+      {"name": "Temps verbaux", "icon": "⏱️"},
+      {"name": "Grammaire", "icon": "📐"},
+      {"name": "Vocabulaire", "icon": "📚"},
+      {"name": "Prononciation", "icon": "🗣️"},
+      {"name": "Anglais pro", "icon": "💼"}
+    ]
+  }
+}

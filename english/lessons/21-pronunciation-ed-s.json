@@ -1,0 +1,266 @@
+{
+ "id": "pronunciation-ed-s",
+ "title": "Prononcer -ed et -s",
+ "level": "A2",
+ "topic": "Prononciation",
+ "summary": "Les trois sons de -ed et de -s : règle simple, qui change tout à l'oral.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "-ed du passé : /t/, /d/ ou /ɪd/"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Son",
+    "Après…",
+    "Exemples"
+   ],
+   "rows": [
+    [
+     "/t/",
+     "son sourd (p, k, f, s, ch, sh)",
+     "worked, stopped, laughed, watched"
+    ],
+    [
+     "/d/",
+     "son voisé (b, g, v, l, m, n, r, voyelle)",
+     "played, called, lived, opened"
+    ],
+    [
+     "/ɪd/",
+     "t ou d",
+     "wanted, needed, decided, started"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "La clé : on **n'ajoute une syllabe** que si le verbe finit par **t** ou **d**."
+  },
+  {
+   "type": "h",
+   "text": "-s : /s/, /z/ ou /ɪz/"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Son",
+    "Après…",
+    "Exemples"
+   ],
+   "rows": [
+    [
+     "/s/",
+     "son sourd (p, t, k, f)",
+     "stops, works, laughs, cats"
+    ],
+    [
+     "/z/",
+     "son voisé / voyelle",
+     "plays, runs, dogs, calls"
+    ],
+    [
+     "/ɪz/",
+     "s, z, sh, ch, x, ge",
+     "watches, uses, boxes, changes"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Sons à travailler"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**th** /θ/ (think) et /ð/ (this) : langue entre les dents.",
+    "**h** aspiré : *house, have* (souffle).",
+    "**ship / sheep** : voyelle courte /ɪ/ vs longue /iː/.",
+    "Le **r** anglais ne roule pas, la langue ne touche pas le palais."
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "She walked home. (/t/)",
+   "fr": "Elle est rentrée à pied."
+  },
+  {
+   "type": "ex",
+   "en": "They played games. (/d/)",
+   "fr": "Ils ont joué."
+  },
+  {
+   "type": "ex",
+   "en": "He wanted help. (/ɪd/)",
+   "fr": "Il voulait de l'aide."
+  },
+  {
+   "type": "tip",
+   "text": "**Astuce** : mets ta main sur la gorge. Si ça vibre à la fin du verbe → /d/ ou /z/. Sinon /t/ ou /s/."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "'Worked' ends with…",
+   "options": [
+    "/t/",
+    "/d/",
+    "/ɪd/"
+   ],
+   "answer": 0,
+   "explain": "Après k (sourd) → /t/."
+  },
+  {
+   "type": "qcm",
+   "q": "'Played' ends with…",
+   "options": [
+    "/t/",
+    "/d/",
+    "/ɪd/"
+   ],
+   "answer": 1,
+   "explain": "Après voyelle → /d/."
+  },
+  {
+   "type": "qcm",
+   "q": "'Wanted' has…",
+   "options": [
+    "1 syllable",
+    "2 syllables",
+    "3 syllables"
+   ],
+   "answer": 1,
+   "explain": "t + ed → /ɪd/ : 2 syllabes."
+  },
+  {
+   "type": "qcm",
+   "q": "'Watches' ends with…",
+   "options": [
+    "/s/",
+    "/z/",
+    "/ɪz/"
+   ],
+   "answer": 2,
+   "explain": "Après ch → /ɪz/."
+  },
+  {
+   "type": "qcm",
+   "q": "'Stops' ends with…",
+   "options": [
+    "/s/",
+    "/z/",
+    "/ɪz/"
+   ],
+   "answer": 0,
+   "explain": "p sourd → /s/."
+  },
+  {
+   "type": "qcm",
+   "q": "'Plays' ends with…",
+   "options": [
+    "/s/",
+    "/z/",
+    "/ɪz/"
+   ],
+   "answer": 1,
+   "explain": "voyelle → /z/."
+  },
+  {
+   "type": "qcm",
+   "q": "Which sound is /θ/ ?",
+   "options": [
+    "this",
+    "think",
+    "that"
+   ],
+   "answer": 1,
+   "explain": "think = /θ/."
+  },
+  {
+   "type": "fill",
+   "q": "Le -ed de 'laughed' se prononce /___/ (t / d / ɪd)",
+   "answers": [
+    "t"
+   ],
+   "explain": "laughed finit par f sourd."
+  },
+  {
+   "type": "fill",
+   "q": "Le -ed de 'decided' se prononce /___/ (t / d / ɪd)",
+   "answers": [
+    "ɪd",
+    "id"
+   ],
+   "explain": "d + ed → syllabe en plus."
+  },
+  {
+   "type": "fill",
+   "q": "Le -s de 'dogs' se prononce /___/ (s / z / ɪz)",
+   "answers": [
+    "z"
+   ],
+   "explain": "g voisé."
+  },
+  {
+   "type": "fill",
+   "q": "Le -s de 'boxes' se prononce /___/ (s / z / ɪz)",
+   "answers": [
+    "ɪz",
+    "iz"
+   ],
+   "explain": "x → /ɪz/."
+  },
+  {
+   "type": "fill",
+   "q": "Le mot à voyelle longue est : ___ (ship / sheep)",
+   "answers": [
+    "sheep"
+   ],
+   "explain": "sheep a la voyelle longue."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "walked",
+    "home",
+    "yesterday"
+   ],
+   "answers": [
+    "She walked home yesterday"
+   ],
+   "explain": "-ed = /t/."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "He",
+    "wanted",
+    "some",
+    "help"
+   ],
+   "answers": [
+    "He wanted some help"
+   ],
+   "explain": "-ed = /ɪd/."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "They",
+    "watched",
+    "a",
+    "movie"
+   ],
+   "answers": [
+    "They watched a movie"
+   ],
+   "explain": "-ed = /t/."
+  }
+ ]
+}

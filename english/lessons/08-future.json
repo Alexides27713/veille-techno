@@ -1,0 +1,275 @@
+{
+ "id": "future",
+ "title": "Parler du futur : will, going to, présent continu",
+ "level": "A2",
+ "topic": "Temps verbaux",
+ "summary": "Trois façons d'exprimer le futur et comment choisir : décision spontanée, intention, rendez-vous arrangé.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "will + verbe"
+  },
+  {
+   "type": "p",
+   "text": "**will** n'a pas de -s et est suivi du verbe nu. Forme courte : *'ll*. Négatif : *won't*."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Décision prise sur le moment** : *The phone is ringing. I'll answer it.*",
+    "**Prédiction / opinion** : *I think it will rain.*",
+    "**Promesse, offre** : *I'll help you.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "be going to + verbe"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Intention déjà décidée** : *I'm going to learn Python.*",
+    "**Prédiction fondée sur un indice visible** : *Look at those clouds! It's going to rain.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Présent continu pour un projet arrangé"
+  },
+  {
+   "type": "p",
+   "text": "Quand le rendez-vous est **fixé** (date, heure, personne) : *I'm meeting the client at 3 p.m.*"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Situation",
+    "Forme",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "Décision spontanée",
+     "will",
+     "I'll take the red one."
+    ],
+    [
+     "Intention",
+     "going to",
+     "I'm going to quit smoking."
+    ],
+    [
+     "Arrangement fixé",
+     "présent continu",
+     "We're having lunch at 1."
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Après when / if / as soon as"
+  },
+  {
+   "type": "p",
+   "text": "Dans une subordonnée de temps ou de condition, on n'emploie **pas** will mais le **présent** : *When I **get** home, I'll call you.* (et non *when I will get*)."
+  },
+  {
+   "type": "h",
+   "text": "Exemples"
+  },
+  {
+   "type": "ex",
+   "en": "I'll send you the file tonight.",
+   "fr": "Je t'enverrai le fichier ce soir."
+  },
+  {
+   "type": "ex",
+   "en": "She's going to start a new job.",
+   "fr": "Elle va commencer un nouveau travail."
+  },
+  {
+   "type": "ex",
+   "en": "I'm flying to Berlin on Friday.",
+   "fr": "Je prends l'avion pour Berlin vendredi."
+  },
+  {
+   "type": "ex",
+   "en": "If it rains, we won't go.",
+   "fr": "S'il pleut, nous n'irons pas."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « Quand tu arriveras, appelle-moi » → *When you **arrive**, call me.* Le français met le futur, l'anglais le présent."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "The phone is ringing. — I ___ answer it.",
+   "options": [
+    "will",
+    "am going to",
+    "am"
+   ],
+   "answer": 0,
+   "explain": "Décision spontanée → I'll answer."
+  },
+  {
+   "type": "qcm",
+   "q": "Look at the clouds! It ___ rain.",
+   "options": [
+    "will",
+    "is going to",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "Indice visible → going to."
+  },
+  {
+   "type": "qcm",
+   "q": "I ___ my dentist at 5 p.m. tomorrow.",
+   "options": [
+    "see",
+    "am seeing",
+    "will to see"
+   ],
+   "answer": 1,
+   "explain": "Rendez-vous fixé → présent continu."
+  },
+  {
+   "type": "qcm",
+   "q": "When she ___, I'll tell her.",
+   "options": [
+    "will arrive",
+    "arrives",
+    "is arriving"
+   ],
+   "answer": 1,
+   "explain": "Après when : présent."
+  },
+  {
+   "type": "qcm",
+   "q": "I think the economy ___ better next year.",
+   "options": [
+    "will be",
+    "is being",
+    "be"
+   ],
+   "answer": 0,
+   "explain": "Opinion / prédiction → will."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "I will to call you.",
+    "I will call you.",
+    "I wills call you."
+   ],
+   "answer": 1,
+   "explain": "will + verbe nu."
+  },
+  {
+   "type": "qcm",
+   "q": "If it ___ tomorrow, we'll stay at home.",
+   "options": [
+    "will rain",
+    "rains",
+    "is raining"
+   ],
+   "answer": 1,
+   "explain": "Condition → présent après if."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (not / forget) your birthday. (promesse, forme courte)",
+   "answers": [
+    "won't forget",
+    "will not forget"
+   ],
+   "explain": "Promesse négative : won't forget."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (go) to Spain next summer. (intention)",
+   "answers": [
+    "are going to go",
+    "'re going to go"
+   ],
+   "explain": "Intention → be going to."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (not / come) to the party. (will, forme courte)",
+   "answers": [
+    "won't come",
+    "will not come"
+   ],
+   "explain": "won't + verbe nu."
+  },
+  {
+   "type": "fill",
+   "q": "As soon as I ___ (finish), I'll call you.",
+   "answers": [
+    "finish"
+   ],
+   "explain": "As soon as + présent."
+  },
+  {
+   "type": "fill",
+   "q": "What ___ you doing tomorrow evening? (arrangement fixé)",
+   "answers": [
+    "are"
+   ],
+   "explain": "Présent continu : What are you doing ?"
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "am",
+    "going",
+    "to",
+    "learn",
+    "Python"
+   ],
+   "answers": [
+    "I am going to learn Python",
+    "I'm going to learn Python"
+   ],
+   "explain": "Intention : be going to."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "When",
+    "you",
+    "arrive",
+    "call",
+    "me"
+   ],
+   "answers": [
+    "When you arrive call me"
+   ],
+   "explain": "Après when : présent."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "will",
+    "not",
+    "come",
+    "tomorrow"
+   ],
+   "answers": [
+    "She will not come tomorrow",
+    "She won't come tomorrow"
+   ],
+   "explain": "will not + base."
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "id": "passive",
+ "title": "La voix passive",
+ "level": "B1",
+ "topic": "Grammaire",
+ "summary": "be + participe passé : quand l'utiliser, comment la former à tous les temps, et le complément d'agent « by ».",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Quand l'employer ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Quand l'**agent est inconnu** ou sans importance : *My laptop was stolen.*",
+    "Quand l'**action** est plus importante que celui qui la fait : *The database is backed up every night.*",
+    "Dans les textes **formels** et **techniques** : *The server was restarted.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Formation"
+  },
+  {
+   "type": "p",
+   "text": "**sujet + be (au temps voulu) + participe passé** (+ by + agent)."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Temps",
+    "Actif",
+    "Passif"
+   ],
+   "rows": [
+    [
+     "présent simple",
+     "They fix bugs.",
+     "Bugs are fixed."
+    ],
+    [
+     "prétérit",
+     "They fixed the bug.",
+     "The bug was fixed."
+    ],
+    [
+     "present perfect",
+     "They have fixed it.",
+     "It has been fixed."
+    ],
+    [
+     "futur",
+     "They will fix it.",
+     "It will be fixed."
+    ],
+    [
+     "modal",
+     "You must fix it.",
+     "It must be fixed."
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Le complément d'agent"
+  },
+  {
+   "type": "p",
+   "text": "On ajoute **by** seulement si l'agent est important : *The vulnerability was discovered **by a researcher**.*"
+  },
+  {
+   "type": "h",
+   "text": "Verbes à deux compléments"
+  },
+  {
+   "type": "p",
+   "text": "*They gave me a badge.* → *I was given a badge.* (plus naturel que *A badge was given to me.*)"
+  },
+  {
+   "type": "ex",
+   "en": "The files are stored in the cloud.",
+   "fr": "Les fichiers sont stockés dans le cloud."
+  },
+  {
+   "type": "ex",
+   "en": "The email was sent yesterday.",
+   "fr": "Le mail a été envoyé hier."
+  },
+  {
+   "type": "ex",
+   "en": "The system has been updated.",
+   "fr": "Le système a été mis à jour."
+  },
+  {
+   "type": "ex",
+   "en": "The meeting will be held on Friday.",
+   "fr": "La réunion aura lieu vendredi."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : le français utilise « on » (*on a volé mon portable*). L'anglais préfère le passif : *My phone was stolen.*"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "The report ___ yesterday.",
+   "options": [
+    "sent",
+    "was sent",
+    "is sent"
+   ],
+   "answer": 1,
+   "explain": "Passif prétérit."
+  },
+  {
+   "type": "qcm",
+   "q": "Passwords ___ every 90 days.",
+   "options": [
+    "change",
+    "are changed",
+    "changing"
+   ],
+   "answer": 1,
+   "explain": "Passif présent."
+  },
+  {
+   "type": "qcm",
+   "q": "The bug ___ already ___.",
+   "options": [
+    "has / fixed",
+    "has / been fixed",
+    "is / been fixed"
+   ],
+   "answer": 1,
+   "explain": "has been fixed."
+  },
+  {
+   "type": "qcm",
+   "q": "The update ___ tonight.",
+   "options": [
+    "will install",
+    "will be installed",
+    "is installing"
+   ],
+   "answer": 1,
+   "explain": "Futur passif."
+  },
+  {
+   "type": "qcm",
+   "q": "Active → passive: 'They built the bridge.'",
+   "options": [
+    "The bridge was built.",
+    "The bridge built.",
+    "The bridge is built."
+   ],
+   "answer": 0,
+   "explain": "Prétérit passif."
+  },
+  {
+   "type": "qcm",
+   "q": "My phone ___ in the taxi.",
+   "options": [
+    "stole",
+    "was stolen",
+    "is stolen"
+   ],
+   "answer": 1,
+   "explain": "On vole le téléphone : passif."
+  },
+  {
+   "type": "qcm",
+   "q": "This must ___ today.",
+   "options": [
+    "be done",
+    "do",
+    "done"
+   ],
+   "answer": 0,
+   "explain": "Modal passif : must be done."
+  },
+  {
+   "type": "fill",
+   "q": "English ___ (speak) in many countries.",
+   "answers": [
+    "is spoken"
+   ],
+   "explain": "Passif présent."
+  },
+  {
+   "type": "fill",
+   "q": "The file ___ (delete) last night.",
+   "answers": [
+    "was deleted"
+   ],
+   "explain": "Passif prétérit."
+  },
+  {
+   "type": "fill",
+   "q": "The servers ___ (maintain) by the IT team.",
+   "answers": [
+    "are maintained"
+   ],
+   "explain": "Passif présent."
+  },
+  {
+   "type": "fill",
+   "q": "The patch ___ (release) next week. (will)",
+   "answers": [
+    "will be released"
+   ],
+   "explain": "Futur passif."
+  },
+  {
+   "type": "fill",
+   "q": "The problem has ___ (solve).",
+   "answers": [
+    "been solved"
+   ],
+   "explain": "Present perfect passif."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "email",
+    "was",
+    "sent",
+    "yesterday"
+   ],
+   "answers": [
+    "The email was sent yesterday"
+   ],
+   "explain": "Passif prétérit."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "system",
+    "has",
+    "been",
+    "updated"
+   ],
+   "answers": [
+    "The system has been updated"
+   ],
+   "explain": "Passif present perfect."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "files",
+    "are",
+    "stored",
+    "in",
+    "the",
+    "cloud"
+   ],
+   "answers": [
+    "The files are stored in the cloud"
+   ],
+   "explain": "Passif présent."
+  }
+ ]
+}

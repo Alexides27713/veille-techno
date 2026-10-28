@@ -1,0 +1,300 @@
+{
+ "id": "collocations-daily",
+ "title": "Vocabulaire du quotidien et collocations",
+ "level": "A2",
+ "topic": "Vocabulaire",
+ "summary": "make ou do ? have, take, get, give : les verbes de base et les expressions toutes faites à apprendre par cœur.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "make ou do ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**make** : créer, produire, fabriquer → *make a mistake, make a decision, make a call, make money, make progress*.",
+    "**do** : activité, tâche → *do homework, do the dishes, do a job, do research, do your best*."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "have, take, get"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Verbe",
+    "Expressions"
+   ],
+   "rows": [
+    [
+     "have",
+     "have breakfast, have a shower, have a meeting, have a look, have fun"
+    ],
+    [
+     "take",
+     "take a break, take a photo, take a taxi, take notes, take care"
+    ],
+    [
+     "get",
+     "get up, get a job, get ready, get lost, get better"
+    ],
+    [
+     "give",
+     "give advice, give a presentation, give someone a hand"
+    ],
+    [
+     "keep",
+     "keep a secret, keep in touch, keep calm"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Au bureau"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Expression",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "meet a deadline",
+     "respecter une échéance"
+    ],
+    [
+     "run a meeting",
+     "animer une réunion"
+    ],
+    [
+     "take minutes",
+     "faire le compte rendu"
+    ],
+    [
+     "book a room",
+     "réserver une salle"
+    ],
+    [
+     "raise a point",
+     "soulever une question"
+    ],
+    [
+     "reach an agreement",
+     "parvenir à un accord"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Adjectif + nom qui sonnent juste"
+  },
+  {
+   "type": "list",
+   "items": [
+    "*heavy rain, strong coffee, fast food, deep sleep, high risk, tight deadline*.",
+    "*a bad cold*, *a big mistake*, *a great idea*."
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "Let's take a short break.",
+   "fr": "Faisons une courte pause."
+  },
+  {
+   "type": "ex",
+   "en": "I made a mistake.",
+   "fr": "J'ai fait une erreur."
+  },
+  {
+   "type": "ex",
+   "en": "Can you do me a favour?",
+   "fr": "Peux-tu me rendre un service ?"
+  },
+  {
+   "type": "ex",
+   "en": "We need to meet the deadline.",
+   "fr": "Nous devons respecter l'échéance."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : « faire une erreur » → *make a mistake*, mais « faire ses devoirs » → *do homework*."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "I ___ a mistake in the report.",
+   "options": [
+    "did",
+    "made",
+    "took"
+   ],
+   "answer": 1,
+   "explain": "make a mistake."
+  },
+  {
+   "type": "qcm",
+   "q": "Can you ___ me a favour?",
+   "options": [
+    "make",
+    "do",
+    "give"
+   ],
+   "answer": 1,
+   "explain": "do someone a favour."
+  },
+  {
+   "type": "qcm",
+   "q": "Let's ___ a break.",
+   "options": [
+    "do",
+    "take",
+    "make"
+   ],
+   "answer": 1,
+   "explain": "take a break."
+  },
+  {
+   "type": "qcm",
+   "q": "She ___ a presentation yesterday.",
+   "options": [
+    "gave",
+    "did",
+    "had"
+   ],
+   "answer": 0,
+   "explain": "give a presentation."
+  },
+  {
+   "type": "qcm",
+   "q": "We must ___ the deadline.",
+   "options": [
+    "meet",
+    "touch",
+    "do"
+   ],
+   "answer": 0,
+   "explain": "meet a deadline."
+  },
+  {
+   "type": "qcm",
+   "q": "I need to ___ my homework.",
+   "options": [
+    "make",
+    "do",
+    "take"
+   ],
+   "answer": 1,
+   "explain": "do homework."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "heavy rain",
+    "strong rain",
+    "big rain"
+   ],
+   "answer": 0,
+   "explain": "collocation: heavy rain."
+  },
+  {
+   "type": "fill",
+   "q": "Let's ___ a decision. (take / make)",
+   "answers": [
+    "make"
+   ],
+   "explain": "make a decision."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ a shower every morning. (have)",
+   "answers": [
+    "has"
+   ],
+   "explain": "have a shower."
+  },
+  {
+   "type": "fill",
+   "q": "Please ___ notes during the meeting.",
+   "answers": [
+    "take"
+   ],
+   "explain": "take notes."
+  },
+  {
+   "type": "fill",
+   "q": "We need to keep in ___ . (contact)",
+   "answers": [
+    "touch"
+   ],
+   "explain": "keep in touch."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ lost in Paris. (get)",
+   "answers": [
+    "got"
+   ],
+   "explain": "get lost."
+  },
+  {
+   "type": "fill",
+   "q": "Could you ___ me a hand? (give)",
+   "answers": [
+    "give"
+   ],
+   "explain": "give someone a hand."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Let",
+    "us",
+    "take",
+    "a",
+    "short",
+    "break"
+   ],
+   "answers": [
+    "Let us take a short break",
+    "Let's take a short break"
+   ],
+   "explain": "take a break."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "made",
+    "a",
+    "big",
+    "mistake"
+   ],
+   "answers": [
+    "I made a big mistake"
+   ],
+   "explain": "make a mistake."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "We",
+    "need",
+    "to",
+    "meet",
+    "the",
+    "deadline"
+   ],
+   "answers": [
+    "We need to meet the deadline"
+   ],
+   "explain": "meet a deadline."
+  }
+ ]
+}

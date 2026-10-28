@@ -1,0 +1,283 @@
+{
+ "id": "present-continuous",
+ "title": "Présent simple ou présent continu ?",
+ "level": "A2",
+ "topic": "Temps verbaux",
+ "summary": "Ce qui se passe en ce moment (be + -ing) versus ce qui se passe d'habitude. Les verbes qui n'aiment pas le -ing.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Formation du présent continu"
+  },
+  {
+   "type": "p",
+   "text": "**to be** au présent + **verbe en -ing** : *I am working*, *she is reading*, *they are waiting*."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Règle",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "la plupart : + ing",
+     "work → working"
+    ],
+    [
+     "-e muet : on enlève e",
+     "make → making"
+    ],
+    [
+     "consonne-voyelle-consonne : on double",
+     "run → running, sit → sitting"
+    ],
+    [
+     "-ie → -ying",
+     "lie → lying"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Quand l'utiliser ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une action **en ce moment** : *I'm writing a mail.*",
+    "Une situation **temporaire** : *I'm staying at a hotel this week.*",
+    "Un **projet arrangé** pour bientôt : *We're meeting the client tomorrow.*",
+    "Un **changement en cours** : *Prices are rising.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Présent simple ou présent continu ?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Présent simple",
+    "Présent continu"
+   ],
+   "rows": [
+    [
+     "habitude, routine",
+     "action en cours"
+    ],
+    [
+     "I work in Paris.",
+     "I'm working from home today."
+    ],
+    [
+     "always, every day, usually",
+     "now, at the moment, today, this week"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Les verbes d'état : pas de -ing"
+  },
+  {
+   "type": "p",
+   "text": "Certains verbes décrivent un **état** et non une action. On ne les met presque jamais au continu : *know, understand, want, need, like, love, hate, prefer, believe, see (comprendre), hear, belong*."
+  },
+  {
+   "type": "ex",
+   "en": "I understand the problem.",
+   "fr": "Je comprends le problème. (jamais « I'm understanding »)"
+  },
+  {
+   "type": "ex",
+   "en": "She wants a new phone.",
+   "fr": "Elle veut un nouveau téléphone."
+  },
+  {
+   "type": "ex",
+   "en": "Why are you laughing?",
+   "fr": "Pourquoi ris-tu ?"
+  },
+  {
+   "type": "ex",
+   "en": "We're not using this server anymore.",
+   "fr": "Nous n'utilisons plus ce serveur."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *I'm loving it* existe dans la pub, mais en anglais standard on dit *I love it*."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "Look! It ___ .",
+   "options": [
+    "rains",
+    "is raining",
+    "rain"
+   ],
+   "answer": 1,
+   "explain": "Action visible maintenant → présent continu."
+  },
+  {
+   "type": "qcm",
+   "q": "I ___ coffee every morning.",
+   "options": [
+    "am drinking",
+    "drink",
+    "drinks"
+   ],
+   "answer": 1,
+   "explain": "Habitude → présent simple."
+  },
+  {
+   "type": "qcm",
+   "q": "Right now, he ___ a report.",
+   "options": [
+    "writes",
+    "is writing",
+    "write"
+   ],
+   "answer": 1,
+   "explain": "En ce moment → is writing."
+  },
+  {
+   "type": "qcm",
+   "q": "She ___ the answer.",
+   "options": [
+    "is knowing",
+    "knows",
+    "know"
+   ],
+   "answer": 1,
+   "explain": "know est un verbe d'état, pas de -ing."
+  },
+  {
+   "type": "qcm",
+   "q": "They ___ (sit) in the meeting room.",
+   "options": [
+    "are sitting",
+    "are siting",
+    "sits"
+   ],
+   "answer": 0,
+   "explain": "sit → sitting (consonne doublée)."
+  },
+  {
+   "type": "qcm",
+   "q": "Which is correct?",
+   "options": [
+    "I'm wanting a coffee.",
+    "I want a coffee.",
+    "I wants a coffee."
+   ],
+   "answer": 1,
+   "explain": "want = état → présent simple."
+  },
+  {
+   "type": "qcm",
+   "q": "We ___ to the client tomorrow. (projet arrangé)",
+   "options": [
+    "go",
+    "are going",
+    "went"
+   ],
+   "answer": 1,
+   "explain": "Futur arrangé → présent continu."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (run) in the park now.",
+   "answers": [
+    "is running"
+   ],
+   "explain": "run → running."
+  },
+  {
+   "type": "fill",
+   "q": "Why ___ you ___ (laugh)? (is/are + -ing)",
+   "answers": [
+    "are you laughing"
+   ],
+   "explain": "Question : are you laughing ?"
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (not / work) today.",
+   "answers": [
+    "'m not working",
+    "am not working",
+    "m not working"
+   ],
+   "explain": "Négation : am not working."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (make) dinner at the moment.",
+   "answers": [
+    "is making"
+   ],
+   "explain": "make → making."
+  },
+  {
+   "type": "fill",
+   "q": "The servers ___ (not / respond).",
+   "answers": [
+    "aren't responding",
+    "are not responding"
+   ],
+   "explain": "Négation du continu."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "am",
+    "working",
+    "from",
+    "home",
+    "today"
+   ],
+   "answers": [
+    "I am working from home today",
+    "I'm working from home today"
+   ],
+   "explain": "be + -ing + complément."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "They",
+    "are",
+    "not",
+    "using",
+    "this",
+    "server"
+   ],
+   "answers": [
+    "They are not using this server",
+    "They aren't using this server"
+   ],
+   "explain": "Négation : are not + -ing."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "What",
+    "are",
+    "you",
+    "doing",
+    "now"
+   ],
+   "answers": [
+    "What are you doing now"
+   ],
+   "explain": "Question : What + are + sujet + -ing."
+  }
+ ]
+}

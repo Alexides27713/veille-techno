@@ -1,0 +1,315 @@
+{
+ "id": "false-friends",
+ "title": "Faux amis",
+ "level": "A2",
+ "topic": "Vocabulaire",
+ "summary": "Les mots qui ressemblent au français mais veulent dire autre chose. Les pièges les plus fréquents.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Pourquoi sont-ils dangereux ?"
+  },
+  {
+   "type": "p",
+   "text": "Ils se ressemblent mais ont un **sens différent**. L'erreur passe inaperçue à l'écrit comme à l'oral."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Anglais",
+    "Veut dire",
+    "Ce n'est PAS",
+    "Pour dire l'autre mot"
+   ],
+   "rows": [
+    [
+     "actually",
+     "en fait",
+     "actuellement",
+     "currently / at the moment"
+    ],
+    [
+     "eventually",
+     "finalement",
+     "éventuellement",
+     "possibly / perhaps"
+    ],
+    [
+     "library",
+     "bibliothèque",
+     "librairie",
+     "bookshop / bookstore"
+    ],
+    [
+     "sensible",
+     "raisonnable",
+     "sensible",
+     "sensitive"
+    ],
+    [
+     "attend",
+     "assister à",
+     "attendre",
+     "wait for"
+    ],
+    [
+     "college",
+     "université (US) / lycée (UK)",
+     "collège",
+     "middle school"
+    ],
+    [
+     "data",
+     "données",
+     "date",
+     "date"
+    ],
+    [
+     "deceive",
+     "tromper",
+     "décevoir",
+     "disappoint"
+    ],
+    [
+     "resume",
+     "reprendre",
+     "résumer",
+     "summarise"
+    ],
+    [
+     "lecture",
+     "cours magistral",
+     "lecture",
+     "reading"
+    ],
+    [
+     "location",
+     "emplacement",
+     "location",
+     "rental, hire"
+    ],
+    [
+     "pretend",
+     "faire semblant",
+     "prétendre",
+     "claim"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Tout un vocabulaire à relier"
+  },
+  {
+   "type": "list",
+   "items": [
+    "*Journey* = trajet (et non « journée » qui se dit *day*).",
+    "*Large* = grand (pas « large » qui se dit *wide*).",
+    "*Demand* = exiger, *ask for* = demander.",
+    "*Rest* = repos / le reste, *to rest* = se reposer.",
+    "*Control* = maîtriser / contrôler (pas « vérifier » : *check*)."
+   ]
+  },
+  {
+   "type": "ex",
+   "en": "Actually, I prefer tea.",
+   "fr": "En fait, je préfère le thé."
+  },
+  {
+   "type": "ex",
+   "en": "We are currently working on it.",
+   "fr": "Nous y travaillons actuellement."
+  },
+  {
+   "type": "ex",
+   "en": "I'm going to attend the conference.",
+   "fr": "Je vais assister à la conférence."
+  },
+  {
+   "type": "ex",
+   "en": "I wait for the bus.",
+   "fr": "J'attends le bus."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *I'm waiting for you* (pas *attending you*). Et *Actually* ne marque jamais le présent !"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "'Actuellement' se dit…",
+   "options": [
+    "actually",
+    "currently",
+    "eventually"
+   ],
+   "answer": 1,
+   "explain": "currently."
+  },
+  {
+   "type": "qcm",
+   "q": "'Bibliothèque' se dit…",
+   "options": [
+    "library",
+    "bookshop",
+    "librarian"
+   ],
+   "answer": 0,
+   "explain": "library."
+  },
+  {
+   "type": "qcm",
+   "q": "'Librairie' se dit…",
+   "options": [
+    "library",
+    "bookshop",
+    "lecture"
+   ],
+   "answer": 1,
+   "explain": "bookshop."
+  },
+  {
+   "type": "qcm",
+   "q": "'Éventuellement' se dit…",
+   "options": [
+    "eventually",
+    "possibly",
+    "actually"
+   ],
+   "answer": 1,
+   "explain": "possibly."
+  },
+  {
+   "type": "qcm",
+   "q": "'J'attends le bus' →",
+   "options": [
+    "I attend the bus.",
+    "I wait for the bus.",
+    "I wait the bus."
+   ],
+   "answer": 1,
+   "explain": "wait for."
+  },
+  {
+   "type": "qcm",
+   "q": "'Eventually' signifie…",
+   "options": [
+    "éventuellement",
+    "finalement",
+    "actuellement"
+   ],
+   "answer": 1,
+   "explain": "finalement."
+  },
+  {
+   "type": "qcm",
+   "q": "'Sensible' en anglais signifie…",
+   "options": [
+    "sensible",
+    "raisonnable",
+    "sensitif"
+   ],
+   "answer": 1,
+   "explain": "raisonnable."
+  },
+  {
+   "type": "fill",
+   "q": "'Currently' = ___ en français (un mot)",
+   "answers": [
+    "actuellement"
+   ],
+   "explain": "currently = actuellement."
+  },
+  {
+   "type": "fill",
+   "q": "'Data' = ___ en français (un mot)",
+   "answers": [
+    "données",
+    "donnees"
+   ],
+   "explain": "data = données."
+  },
+  {
+   "type": "fill",
+   "q": "'Résumer' = to ___",
+   "answers": [
+    "summarize",
+    "summarise"
+   ],
+   "explain": "summarize / summarise."
+  },
+  {
+   "type": "fill",
+   "q": "'Se tromper' (soi-même) ≠ 'deceive'. 'Décevoir' = to ___",
+   "answers": [
+    "disappoint"
+   ],
+   "explain": "disappoint."
+  },
+  {
+   "type": "fill",
+   "q": "'Location' (voiture) → car ___",
+   "answers": [
+    "rental",
+    "hire"
+   ],
+   "explain": "car rental / car hire."
+  },
+  {
+   "type": "fill",
+   "q": "'Assister à' → to ___ a meeting",
+   "answers": [
+    "attend"
+   ],
+   "explain": "attend."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "We",
+    "are",
+    "currently",
+    "working",
+    "on",
+    "it"
+   ],
+   "answers": [
+    "We are currently working on it"
+   ],
+   "explain": "currently = actuellement."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "am",
+    "waiting",
+    "for",
+    "the",
+    "bus"
+   ],
+   "answers": [
+    "I am waiting for the bus",
+    "I'm waiting for the bus"
+   ],
+   "explain": "wait for."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Actually",
+    "I",
+    "prefer",
+    "tea"
+   ],
+   "answers": [
+    "Actually I prefer tea"
+   ],
+   "explain": "actually = en fait."
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "id": "numbers-dates-time",
+ "title": "Nombres, dates et heure",
+ "level": "A1",
+ "topic": "Bases",
+ "summary": "Compter, dire le prix, la date, l'heure et un numéro de téléphone sans hésiter.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "Les nombres"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Chiffre",
+    "Anglais",
+    "Chiffre",
+    "Anglais"
+   ],
+   "rows": [
+    [
+     "13",
+     "thirteen",
+     "30",
+     "thirty"
+    ],
+    [
+     "14",
+     "fourteen",
+     "40",
+     "forty"
+    ],
+    [
+     "15",
+     "fifteen",
+     "50",
+     "fifty"
+    ],
+    [
+     "16",
+     "sixteen",
+     "60",
+     "sixty"
+    ],
+    [
+     "17",
+     "seventeen",
+     "70",
+     "seventy"
+    ],
+    [
+     "18",
+     "eighteen",
+     "80",
+     "eighty"
+    ],
+    [
+     "19",
+     "nineteen",
+     "90",
+     "ninety"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Attention à la **prononciation** : *thirTEEN* (accent sur -teen) mais *THIRty* (accent au début). C'est la différence entre 13 et 30."
+  },
+  {
+   "type": "p",
+   "text": "Les nombres composés s'écrivent avec un trait d'union : *twenty-one*, *ninety-nine*. Au-delà de 100 : *one hundred and five* (UK) / *one hundred five* (US)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "1 000 = *one thousand* (sans -s ; on dit *three thousand*, jamais « thousands » avec un chiffre).",
+    "1 000 000 = *one million*. 1 000 000 000 = *one billion*.",
+    "Les milliers se séparent par une **virgule** : 1,500 = *one thousand five hundred*. Les décimales par un **point** : 3.14 = *three point one four*."
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Les dates"
+  },
+  {
+   "type": "p",
+   "text": "On utilise les **nombres ordinaux** : first, second, third, fourth… twenty-first. Le mois est souvent écrit en toutes lettres."
+  },
+  {
+   "type": "ex",
+   "en": "My birthday is on the 3rd of May. / May 3rd.",
+   "fr": "Mon anniversaire est le 3 mai."
+  },
+  {
+   "type": "ex",
+   "en": "The meeting is on Monday, the 14th.",
+   "fr": "La réunion est lundi 14."
+  },
+  {
+   "type": "ex",
+   "en": "I was born in 1990 (nineteen ninety).",
+   "fr": "Je suis né en 1990."
+  },
+  {
+   "type": "ex",
+   "en": "In 2026 (twenty twenty-six)…",
+   "fr": "En 2026…"
+  },
+  {
+   "type": "tip",
+   "text": "Les **jours** et les **mois** prennent toujours une **majuscule** en anglais : *Monday*, *September*."
+  },
+  {
+   "type": "h",
+   "text": "L'heure"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Heure",
+    "Anglais"
+   ],
+   "rows": [
+    [
+     "3:00",
+     "three o'clock"
+    ],
+    [
+     "3:15",
+     "a quarter past three"
+    ],
+    [
+     "3:30",
+     "half past three"
+    ],
+    [
+     "3:45",
+     "a quarter to four"
+    ],
+    [
+     "3:10",
+     "ten past three"
+    ],
+    [
+     "3:50",
+     "ten to four"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "On utilise **at** pour l'heure : *at 8 a.m.*. On distingue le matin (a.m.) et l'après-midi (p.m.) au lieu du format 24 h."
+  },
+  {
+   "type": "h",
+   "text": "Le téléphone"
+  },
+  {
+   "type": "p",
+   "text": "On lit les chiffres un par un. Le 0 se dit *oh* ou *zero*. Un double chiffre peut se dire *double* en anglais britannique : 77 = *double seven*."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "How do you say 15 ?",
+   "options": [
+    "fiveteen",
+    "fifteen",
+    "fifty"
+   ],
+   "answer": 1,
+   "explain": "15 = fifteen ; 50 = fifty."
+  },
+  {
+   "type": "qcm",
+   "q": "Which number is 40 ?",
+   "options": [
+    "fourty",
+    "forty",
+    "fourteen"
+   ],
+   "answer": 1,
+   "explain": "40 = forty (sans u). 14 = fourteen."
+  },
+  {
+   "type": "qcm",
+   "q": "2,000 in English is…",
+   "options": [
+    "two thousands",
+    "two thousand",
+    "two of thousand"
+   ],
+   "answer": 1,
+   "explain": "thousand ne prend pas de -s après un chiffre."
+  },
+  {
+   "type": "qcm",
+   "q": "How do you say 3.14 ?",
+   "options": [
+    "three comma fourteen",
+    "three point one four",
+    "three dot fourteen"
+   ],
+   "answer": 1,
+   "explain": "La décimale se lit « point », chiffre par chiffre."
+  },
+  {
+   "type": "qcm",
+   "q": "The 21st is…",
+   "options": [
+    "twenty-one",
+    "twenty-first",
+    "the twenty one"
+   ],
+   "answer": 1,
+   "explain": "Date → nombre ordinal : twenty-first."
+  },
+  {
+   "type": "qcm",
+   "q": "3:30 is…",
+   "options": [
+    "half past three",
+    "three and half",
+    "half to three"
+   ],
+   "answer": 0,
+   "explain": "30 minutes après l'heure → half past."
+  },
+  {
+   "type": "qcm",
+   "q": "3:45 is…",
+   "options": [
+    "a quarter to four",
+    "a quarter past four",
+    "three forty-five hours"
+   ],
+   "answer": 0,
+   "explain": "Il manque un quart pour 4 h → a quarter to four."
+  },
+  {
+   "type": "fill",
+   "q": "The third month is ___. (mars, en anglais)",
+   "answers": [
+    "March",
+    "march"
+   ],
+   "explain": "March : le mois prend une majuscule."
+  },
+  {
+   "type": "fill",
+   "q": "The meeting is ___ 9 a.m. (préposition)",
+   "answers": [
+    "at"
+   ],
+   "explain": "On utilise at pour l'heure."
+  },
+  {
+   "type": "fill",
+   "q": "Écris en lettres : 12 = ___",
+   "answers": [
+    "twelve"
+   ],
+   "explain": "12 = twelve."
+  },
+  {
+   "type": "fill",
+   "q": "Écris en lettres : 70 = ___",
+   "answers": [
+    "seventy"
+   ],
+   "explain": "70 = seventy."
+  },
+  {
+   "type": "fill",
+   "q": "Ordinal de 2 : the ___ floor",
+   "answers": [
+    "second"
+   ],
+   "explain": "2 → second (pas twoth)."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "The",
+    "meeting",
+    "is",
+    "at",
+    "nine",
+    "o'clock"
+   ],
+   "answers": [
+    "The meeting is at nine o'clock"
+   ],
+   "explain": "at + heure."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "It",
+    "is",
+    "half",
+    "past",
+    "three"
+   ],
+   "answers": [
+    "It is half past three",
+    "It's half past three"
+   ],
+   "explain": "half past = et demie."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "My",
+    "birthday",
+    "is",
+    "on",
+    "the",
+    "third",
+    "of",
+    "May"
+   ],
+   "answers": [
+    "My birthday is on the third of May"
+   ],
+   "explain": "Date avec ordinal."
+  }
+ ]
+}

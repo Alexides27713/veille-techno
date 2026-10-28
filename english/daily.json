@@ -1,0 +1,890 @@
+{
+ "questions": [
+  {
+   "q": "She ___ to work every day.",
+   "options": [
+    "go",
+    "goes",
+    "going"
+   ],
+   "answer": 1,
+   "explain": "Présent simple, 3e personne du singulier : on ajoute -s (goes).",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I ___ this film already.",
+   "options": [
+    "saw",
+    "have seen",
+    "see"
+   ],
+   "answer": 1,
+   "explain": "« already » sans moment précis → present perfect : have seen.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Quelle phrase est correcte ?",
+   "options": [
+    "I am agree.",
+    "I agree.",
+    "I am agreeing."
+   ],
+   "answer": 1,
+   "explain": "To agree est un verbe en soi : on ne dit pas « am agree ».",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Le pluriel courant de « person » est…",
+   "options": [
+    "persons",
+    "people",
+    "peoples"
+   ],
+   "answer": 1,
+   "explain": "People est déjà un pluriel : the people are…",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "He ___ his keys. He can't find them.",
+   "options": [
+    "lost",
+    "has lost",
+    "loses"
+   ],
+   "answer": 1,
+   "explain": "Résultat visible maintenant (il ne les a toujours pas) → present perfect.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Quelle orthographe est correcte ?",
+   "options": [
+    "recieve",
+    "receive",
+    "receeve"
+   ],
+   "answer": 1,
+   "explain": "I before E, except after C : receive.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Quelle orthographe est correcte ?",
+   "options": [
+    "definately",
+    "definitely",
+    "definitly"
+   ],
+   "answer": 1,
+   "explain": "Definitely : de-fi-ni-te-ly. Une des fautes les plus courantes, même chez les anglophones.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Quelle orthographe est correcte ?",
+   "options": [
+    "occured",
+    "occurred",
+    "ocurred"
+   ],
+   "answer": 1,
+   "explain": "Occurred : on double le r (occur → occurred) et il y a deux c.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Le past simple de « teach » est…",
+   "options": [
+    "teached",
+    "taught",
+    "tought"
+   ],
+   "answer": 1,
+   "explain": "Teach → taught → taught.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Le participe passé de « break » est…",
+   "options": [
+    "broke",
+    "broken",
+    "breaked"
+   ],
+   "answer": 1,
+   "explain": "Break → broke → broken.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "There ___ two servers in the room.",
+   "options": [
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": 1,
+   "explain": "Deux serveurs = pluriel → there are.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I've lived here ___ 2020.",
+   "options": [
+    "for",
+    "since",
+    "from"
+   ],
+   "answer": 1,
+   "explain": "Since + point de départ (2020). For + durée.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I've lived here ___ six years.",
+   "options": [
+    "for",
+    "since",
+    "during"
+   ],
+   "answer": 0,
+   "explain": "For + durée (six years).",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "To borrow = emprunter. Et « prêter » se dit…",
+   "options": [
+    "to lend",
+    "to rent",
+    "to give back"
+   ],
+   "answer": 0,
+   "explain": "To lend = prêter. To rent = louer.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Sarah forgot ___ password.",
+   "options": [
+    "she",
+    "her",
+    "hers"
+   ],
+   "answer": 1,
+   "explain": "Adjectif possessif devant un nom : her password.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Quelle phrase est correcte ?",
+   "options": [
+    "He don't like coffee.",
+    "He doesn't like coffee.",
+    "He doesn't likes coffee."
+   ],
+   "answer": 1,
+   "explain": "Avec « doesn't », le verbe reste à la forme de base (like).",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "How ___ people came to the meeting?",
+   "options": [
+    "much",
+    "many"
+   ],
+   "answer": 1,
+   "explain": "People se compte → many.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "How ___ water do you drink?",
+   "options": [
+    "many",
+    "much"
+   ],
+   "answer": 1,
+   "explain": "Water ne se compte pas → much.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Comment dit-on « J'ai 25 ans » ?",
+   "options": [
+    "I have 25 years.",
+    "I am 25 years old.",
+    "I have 25 years old."
+   ],
+   "answer": 1,
+   "explain": "L'âge se dit avec to be : I am 25 years old.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "« Actually » veut dire…",
+   "options": [
+    "actuellement",
+    "en fait",
+    "aujourd'hui"
+   ],
+   "answer": 1,
+   "explain": "Actually = en fait. Actuellement = currently.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I ___ TV when you called.",
+   "options": [
+    "watched",
+    "was watching",
+    "am watching"
+   ],
+   "answer": 1,
+   "explain": "Action en cours dans le passé : was / were + verbe-ing.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "If it rains, we ___ at home.",
+   "options": [
+    "stay",
+    "will stay",
+    "stayed"
+   ],
+   "answer": 1,
+   "explain": "Condition réelle : if + présent, will + verbe de base.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "She is taller ___ me.",
+   "options": [
+    "that",
+    "than",
+    "then"
+   ],
+   "answer": 1,
+   "explain": "Than sert à comparer. Then = ensuite, alors.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "___ a nice day today.",
+   "options": [
+    "Its",
+    "It's"
+   ],
+   "answer": 1,
+   "explain": "It's = it is. Its (sans apostrophe) = son / sa.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "___ welcome!",
+   "options": [
+    "Your",
+    "You're"
+   ],
+   "answer": 1,
+   "explain": "You're = you are. Your = ton / ta / tes.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "___ going to the office.",
+   "options": [
+    "Their",
+    "There",
+    "They're"
+   ],
+   "answer": 2,
+   "explain": "They're = they are. Their = leur. There = là, il y a.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I look forward to ___ you.",
+   "options": [
+    "meet",
+    "meeting",
+    "to meet"
+   ],
+   "answer": 1,
+   "explain": "Ici « to » est une préposition, donc le verbe qui suit prend -ing.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Le past simple de « bring » est…",
+   "options": [
+    "braught",
+    "brought",
+    "bringed"
+   ],
+   "answer": 1,
+   "explain": "Bring → brought → brought.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "The meeting starts ___ 9 o'clock.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": 2,
+   "explain": "Une heure précise → at.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "The man ___ called is my boss.",
+   "options": [
+    "which",
+    "who",
+    "whose"
+   ],
+   "answer": 1,
+   "explain": "Who pour une personne, which pour une chose.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Le participe passé de « send » est…",
+   "options": [
+    "sended",
+    "sent",
+    "sente"
+   ],
+   "answer": 1,
+   "explain": "Send → sent → sent.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "He's ___ engineer.",
+   "options": [
+    "a",
+    "an"
+   ],
+   "answer": 1,
+   "explain": "Engineer commence par un son voyelle → an.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Comment dit-on « Je m'ennuie » ?",
+   "options": [
+    "I'm bored.",
+    "I'm boring.",
+    "I boring."
+   ],
+   "answer": 0,
+   "explain": "Bored = qui s'ennuie. Boring = ennuyeux (I'm boring = je suis ennuyeux).",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I have ___ homework to do.",
+   "options": [
+    "a",
+    "an",
+    "some"
+   ],
+   "answer": 2,
+   "explain": "Homework est indénombrable : some homework (jamais « a homework »).",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "Le past simple de « read » s'écrit…",
+   "options": [
+    "red",
+    "read",
+    "readed"
+   ],
+   "answer": 1,
+   "explain": "Read → read → read : même écriture, mais prononcé /red/ au passé.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I'm looking ___ my keys.",
+   "options": [
+    "at",
+    "for",
+    "after"
+   ],
+   "answer": 1,
+   "explain": "look for = chercher.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "'Library' means…",
+   "options": [
+    "librairie",
+    "bibliothèque",
+    "livre"
+   ],
+   "answer": 1,
+   "explain": "library = bibliothèque (faux ami).",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "The opposite of 'increase' is…",
+   "options": [
+    "decrease",
+    "improve",
+    "expand"
+   ],
+   "answer": 0,
+   "explain": "increase ≠ decrease.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "A 'deadline' is…",
+   "options": [
+    "une ligne morte",
+    "une date limite",
+    "un avion"
+   ],
+   "answer": 1,
+   "explain": "deadline = date limite.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "'Make' or 'do': ___ a decision",
+   "options": [
+    "make",
+    "do",
+    "take"
+   ],
+   "answer": 0,
+   "explain": "make a decision.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "'Sensible' means…",
+   "options": [
+    "sensible",
+    "raisonnable",
+    "sensuel"
+   ],
+   "answer": 1,
+   "explain": "sensible = raisonnable.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "'To pass an exam' means…",
+   "options": [
+    "passer un examen",
+    "réussir un examen",
+    "rater un examen"
+   ],
+   "answer": 1,
+   "explain": "to pass = réussir.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "Which word means 'bientôt' ?",
+   "options": [
+    "soon",
+    "late",
+    "still"
+   ],
+   "answer": 0,
+   "explain": "soon = bientôt.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "'Rarely' means…",
+   "options": [
+    "souvent",
+    "rarement",
+    "toujours"
+   ],
+   "answer": 1,
+   "explain": "rarely = rarement.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "A 'colleague' is…",
+   "options": [
+    "un collègue",
+    "un camarade",
+    "un cousin"
+   ],
+   "answer": 0,
+   "explain": "colleague = collègue.",
+   "topic": "Vocabulaire"
+  },
+  {
+   "q": "He ___ been here since Monday.",
+   "options": [
+    "have",
+    "has",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "has been + since.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I'm interested ___ photography.",
+   "options": [
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": 1,
+   "explain": "interested in.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "She is good ___ maths.",
+   "options": [
+    "in",
+    "at",
+    "on"
+   ],
+   "answer": 1,
+   "explain": "good at.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "He is afraid ___ spiders.",
+   "options": [
+    "from",
+    "of",
+    "with"
+   ],
+   "answer": 1,
+   "explain": "afraid of.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I ___ my keys. I can't find them.",
+   "options": [
+    "lose",
+    "have lost",
+    "am losing"
+   ],
+   "answer": 1,
+   "explain": "Résultat présent : present perfect.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "There ___ some milk in the fridge.",
+   "options": [
+    "is",
+    "are",
+    "have"
+   ],
+   "answer": 0,
+   "explain": "milk indénombrable : is.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "She's the girl ___ works here.",
+   "options": [
+    "who",
+    "which",
+    "whose"
+   ],
+   "answer": 0,
+   "explain": "who pour une personne.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "This is the book ___ I told you about.",
+   "options": [
+    "who",
+    "which",
+    "whose"
+   ],
+   "answer": 1,
+   "explain": "which pour une chose.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I don't have ___ money.",
+   "options": [
+    "some",
+    "any",
+    "a few"
+   ],
+   "answer": 1,
+   "explain": "Négation → any.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I'd like ___ coffee, please.",
+   "options": [
+    "a",
+    "some",
+    "many"
+   ],
+   "answer": 1,
+   "explain": "Offre/demande → some.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "He suggested ___ a break.",
+   "options": [
+    "to take",
+    "taking",
+    "take"
+   ],
+   "answer": 1,
+   "explain": "suggest + -ing.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I enjoy ___ to music.",
+   "options": [
+    "listen",
+    "listening",
+    "to listen"
+   ],
+   "answer": 1,
+   "explain": "enjoy + -ing.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I want ___ you a question.",
+   "options": [
+    "ask",
+    "to ask",
+    "asking"
+   ],
+   "answer": 1,
+   "explain": "want + to + verbe.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "She asked me ___ the door.",
+   "options": [
+    "to open",
+    "opening",
+    "open"
+   ],
+   "answer": 0,
+   "explain": "ask someone to + verbe.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "You ___ come if you don't want to.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "can't"
+   ],
+   "answer": 1,
+   "explain": "don't have to = pas obligé.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I've never ___ sushi.",
+   "options": [
+    "eat",
+    "ate",
+    "eaten"
+   ],
+   "answer": 2,
+   "explain": "participe passé : eaten.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "He's tired because he ___ all night.",
+   "options": [
+    "worked",
+    "has been working",
+    "works"
+   ],
+   "answer": 1,
+   "explain": "Action en cours avec résultat présent.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I ___ TV when you called.",
+   "options": [
+    "watched",
+    "was watching",
+    "watch"
+   ],
+   "answer": 1,
+   "explain": "Action en cours au passé : past continuous.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "By next year, I ___ here for 10 years.",
+   "options": [
+    "will have worked",
+    "work",
+    "worked"
+   ],
+   "answer": 0,
+   "explain": "Future perfect.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "I wish I ___ more time.",
+   "options": [
+    "have",
+    "had",
+    "will have"
+   ],
+   "answer": 1,
+   "explain": "wish + prétérit.",
+   "topic": "Grammaire"
+  },
+  {
+   "q": "'Break a leg!' means…",
+   "options": [
+    "Casse-toi une jambe",
+    "Bonne chance",
+    "Fais attention"
+   ],
+   "answer": 1,
+   "explain": "Bonne chance au théâtre.",
+   "topic": "Expressions"
+  },
+  {
+   "q": "'It's raining cats and dogs' means…",
+   "options": [
+    "Il pleut des chats",
+    "Il pleut très fort",
+    "Il pleut peu"
+   ],
+   "answer": 1,
+   "explain": "Il pleut des cordes.",
+   "topic": "Expressions"
+  },
+  {
+   "q": "'Piece of cake' means…",
+   "options": [
+    "Un morceau de gâteau",
+    "Très facile",
+    "Délicieux"
+   ],
+   "answer": 1,
+   "explain": "C'est du gâteau.",
+   "topic": "Expressions"
+  },
+  {
+   "q": "'Once in a blue moon' means…",
+   "options": [
+    "Tous les jours",
+    "Très rarement",
+    "Souvent"
+   ],
+   "answer": 1,
+   "explain": "Une fois tous les 36 du mois.",
+   "topic": "Expressions"
+  },
+  {
+   "q": "'To be under the weather' means…",
+   "options": [
+    "Être sous la pluie",
+    "Ne pas se sentir bien",
+    "Être chanceux"
+   ],
+   "answer": 1,
+   "explain": "Être patraque.",
+   "topic": "Expressions"
+  },
+  {
+   "q": "'Let's call it a day' means…",
+   "options": [
+    "Appelons ça un jour",
+    "Arrêtons pour aujourd'hui",
+    "Appelons demain"
+   ],
+   "answer": 1,
+   "explain": "On s'arrête là.",
+   "topic": "Expressions"
+  },
+  {
+   "q": "'ASAP' means…",
+   "options": [
+    "As soon as possible",
+    "Always say a prayer",
+    "At some average price"
+   ],
+   "answer": 0,
+   "explain": "As soon as possible.",
+   "topic": "Anglais pro"
+  },
+  {
+   "q": "'FYI' means…",
+   "options": [
+    "For your information",
+    "From your idea",
+    "For yesterday's interview"
+   ],
+   "answer": 0,
+   "explain": "For your information.",
+   "topic": "Anglais pro"
+  },
+  {
+   "q": "'Kind regards' is used…",
+   "options": [
+    "à la fin d'un mail",
+    "au début",
+    "jamais"
+   ],
+   "answer": 0,
+   "explain": "Formule finale.",
+   "topic": "Anglais pro"
+  },
+  {
+   "q": "'Best regards' is…",
+   "options": [
+    "familier",
+    "poli",
+    "insultant"
+   ],
+   "answer": 1,
+   "explain": "Poli.",
+   "topic": "Anglais pro"
+  },
+  {
+   "q": "'Please find attached' is used when you…",
+   "options": [
+    "joignez un fichier",
+    "remerciez",
+    "vous excusez"
+   ],
+   "answer": 0,
+   "explain": "pièce jointe.",
+   "topic": "Anglais pro"
+  },
+  {
+   "q": "'To follow up' means…",
+   "options": [
+    "relancer / faire le suivi",
+    "commencer",
+    "annuler"
+   ],
+   "answer": 0,
+   "explain": "follow up.",
+   "topic": "Anglais pro"
+  },
+  {
+   "q": "In 'Wednesday', which letter is silent?",
+   "options": [
+    "d",
+    "W",
+    "y"
+   ],
+   "answer": 0,
+   "explain": "Wednesday /ˈwenzdeɪ/.",
+   "topic": "Prononciation"
+  },
+  {
+   "q": "'Comfortable' has how many syllables (spoken)?",
+   "options": [
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": 0,
+   "explain": "/ˈkʌmftəbl/ : 3.",
+   "topic": "Prononciation"
+  },
+  {
+   "q": "The 'th' in 'think' is…",
+   "options": [
+    "/θ/",
+    "/s/",
+    "/t/"
+   ],
+   "answer": 0,
+   "explain": "/θ/.",
+   "topic": "Prononciation"
+  },
+  {
+   "q": "'Knife' starts with…",
+   "options": [
+    "a k sound",
+    "an n sound",
+    "a v sound"
+   ],
+   "answer": 1,
+   "explain": "k muet.",
+   "topic": "Prononciation"
+  }
+ ]
+}

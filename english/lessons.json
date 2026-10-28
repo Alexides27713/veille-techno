@@ -1,0 +1,343 @@
+{
+  "lessons": [
+    {
+      "id": "be-have",
+      "title": "Être et avoir : to be / to have",
+      "level": "A1",
+      "topic": "Grammaire",
+      "summary": "Les deux verbes de base, leurs formes courtes, la négation et la question. Et un piège : l'âge se dit avec « être ».",
+      "blocks": [
+        {"type": "h", "text": "Le verbe to be (être)"},
+        {"type": "table", "head": ["Sujet", "Forme", "Forme courte", "Négatif court"], "rows": [
+          ["I", "am", "I'm", "I'm not"],
+          ["you", "are", "you're", "you aren't"],
+          ["he / she / it", "is", "he's / she's / it's", "he isn't"],
+          ["we", "are", "we're", "we aren't"],
+          ["they", "are", "they're", "they aren't"]
+        ]},
+        {"type": "p", "text": "Pour poser une question, on **inverse** le sujet et le verbe : **Are you** ready ? **Is she** at work ?"},
+        {"type": "h", "text": "Le verbe to have (avoir)"},
+        {"type": "table", "head": ["Sujet", "Forme"], "rows": [
+          ["I / you / we / they", "have"],
+          ["he / she / it", "has"]
+        ]},
+        {"type": "h", "text": "Exemples"},
+        {"type": "ex", "en": "I'm a system administrator.", "fr": "Je suis administrateur système."},
+        {"type": "ex", "en": "She has two brothers.", "fr": "Elle a deux frères."},
+        {"type": "ex", "en": "Are you at the hospital today?", "fr": "Es-tu à l'hôpital aujourd'hui ?"},
+        {"type": "ex", "en": "He isn't in the office.", "fr": "Il n'est pas au bureau."},
+        {"type": "tip", "text": "**Piège** : en anglais l'âge se dit avec **to be**, pas avec « avoir ». *I'm 25 years old* (et non *I have 25 years*)."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "She ___ a new laptop.", "options": ["have", "has", "is"], "answer": 1, "explain": "À la 3e personne du singulier, to have devient « has »."},
+        {"type": "qcm", "q": "They ___ at work.", "options": ["is", "are", "am"], "answer": 1, "explain": "« They » va avec « are »."},
+        {"type": "fill", "q": "I ___ 24 years old. (to be)", "answers": ["am"], "explain": "I am (I'm) : l'âge se dit avec to be."},
+        {"type": "fill", "q": "___ you ready? (to be)", "answers": ["are"], "explain": "Question : on inverse sujet et verbe → Are you ready?"},
+        {"type": "qcm", "q": "Comment dit-on « J'ai 30 ans » ?", "options": ["I have 30 years.", "I am 30 years old.", "I have 30 years old."], "answer": 1, "explain": "On utilise to be : I am 30 years old."},
+        {"type": "fill", "q": "He is not at home today. Écris la forme courte du négatif : He ___ at home today.", "answers": ["isn't", "is not"], "explain": "is not → isn't."}
+      ]
+    },
+    {
+      "id": "present-simple-continuous",
+      "title": "Présent simple et présent continu",
+      "level": "A1-A2",
+      "topic": "Grammaire",
+      "summary": "Habitudes ou action en cours ? Savoir choisir entre « I work » et « I am working ».",
+      "blocks": [
+        {"type": "h", "text": "Le présent simple : habitudes et vérités générales"},
+        {"type": "p", "text": "On utilise la forme de base du verbe, avec **-s** (ou **-es**) à la 3e personne du singulier."},
+        {"type": "list", "items": [
+          "he work**s**, she play**s**",
+          "go → he go**es**, watch → she watch**es**",
+          "study → he stud**ies** (consonne + y devient ies)"
+        ]},
+        {"type": "ex", "en": "I check the servers every morning.", "fr": "Je vérifie les serveurs chaque matin."},
+        {"type": "ex", "en": "She doesn't work on Fridays.", "fr": "Elle ne travaille pas le vendredi."},
+        {"type": "ex", "en": "Do you use Linux at work?", "fr": "Utilises-tu Linux au travail ?"},
+        {"type": "tip", "text": "Négation et question : **do / does** + verbe **sans -s**. *Does he work here?* (et non *Does he works*)."},
+        {"type": "h", "text": "Le présent continu : ce qui se passe en ce moment"},
+        {"type": "p", "text": "**am / is / are + verbe-ing**."},
+        {"type": "ex", "en": "I'm updating the server right now.", "fr": "Je mets à jour le serveur en ce moment."},
+        {"type": "ex", "en": "They aren't working today.", "fr": "Ils ne travaillent pas aujourd'hui."},
+        {"type": "ex", "en": "Is she using the printer?", "fr": "Est-ce qu'elle utilise l'imprimante ?"},
+        {"type": "h", "text": "Les mots-signaux"},
+        {"type": "list", "items": [
+          "Présent simple : always, usually, often, every day, never",
+          "Présent continu : now, at the moment, today, currently, right now"
+        ]},
+        {"type": "tip", "text": "Les verbes d'état (**know, like, want, need, understand, believe**) ne s'emploient pas au continu : *I know the answer* (et non *I'm knowing*)."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "She ___ coffee every morning.", "options": ["drink", "drinks", "is drinking"], "answer": 1, "explain": "« every morning » = habitude → présent simple, avec -s à la 3e personne."},
+        {"type": "qcm", "q": "Look! It ___ outside.", "options": ["rains", "is raining", "rain"], "answer": 1, "explain": "« Look! » : ça se passe maintenant → présent continu."},
+        {"type": "fill", "q": "He ___ (work) in a hospital.", "answers": ["works"], "explain": "Habitude / situation permanente → présent simple, 3e personne : works."},
+        {"type": "fill", "q": "Do you ___ (know) this user?", "answers": ["know"], "explain": "Après « do », le verbe reste à la forme de base : know."},
+        {"type": "qcm", "q": "Quelle phrase est correcte ?", "options": ["Does she works here?", "Does she work here?", "Do she work here?"], "answer": 1, "explain": "Avec « does », on enlève le -s du verbe : Does she work here?"},
+        {"type": "fill", "q": "Right now, I ___ (install) an update. (écris am + verbe-ing)", "answers": ["am installing"], "explain": "Action en cours → am + installing."}
+      ]
+    },
+    {
+      "id": "past-simple",
+      "title": "Le prétérit (past simple)",
+      "level": "A2",
+      "topic": "Grammaire",
+      "summary": "Raconter une action terminée : verbes réguliers (-ed), irréguliers, négation et question avec did.",
+      "blocks": [
+        {"type": "h", "text": "Quand l'utiliser ?"},
+        {"type": "p", "text": "Pour une action **terminée**, située à un **moment précis** du passé : *yesterday, last week, two days ago, in 2020*."},
+        {"type": "h", "text": "Verbes réguliers : + ed"},
+        {"type": "list", "items": [
+          "work → work**ed**, install → install**ed**",
+          "stop → sto**pped** (on double la consonne), study → stud**ied**"
+        ]},
+        {"type": "h", "text": "Verbes irréguliers à connaître"},
+        {"type": "table", "head": ["Base", "Past simple", "Sens"], "rows": [
+          ["go", "went", "aller"],
+          ["have", "had", "avoir"],
+          ["see", "saw", "voir"],
+          ["do", "did", "faire"],
+          ["make", "made", "fabriquer, faire"],
+          ["buy", "bought", "acheter"],
+          ["take", "took", "prendre"],
+          ["get", "got", "obtenir"],
+          ["write", "wrote", "écrire"],
+          ["come", "came", "venir"],
+          ["find", "found", "trouver"],
+          ["send", "sent", "envoyer"]
+        ]},
+        {"type": "h", "text": "Négation et question"},
+        {"type": "ex", "en": "I installed the update yesterday.", "fr": "J'ai installé la mise à jour hier."},
+        {"type": "ex", "en": "We didn't find the error.", "fr": "Nous n'avons pas trouvé l'erreur."},
+        {"type": "ex", "en": "Did she send the email?", "fr": "A-t-elle envoyé l'e-mail ?"},
+        {"type": "tip", "text": "Après **did / didn't**, le verbe revient à la forme de base : *Did he **go**?* (et non *Did he went*)."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "Yesterday I ___ to the office.", "options": ["go", "went", "gone"], "answer": 1, "explain": "Go → went (past simple)."},
+        {"type": "fill", "q": "She ___ (buy) a new camera last week.", "answers": ["bought"], "explain": "Buy → bought."},
+        {"type": "fill", "q": "We ___ (not / see) the message. (forme complète avec did)", "answers": ["didn't see", "did not see"], "explain": "Négation : didn't + forme de base (see)."},
+        {"type": "qcm", "q": "Did you ___ the file?", "options": ["send", "sent", "sended"], "answer": 0, "explain": "Après did, forme de base : send."},
+        {"type": "qcm", "q": "Le past simple de « write » est…", "options": ["writed", "wrote", "written"], "answer": 1, "explain": "Write → wrote (written est le participe passé)."},
+        {"type": "fill", "q": "They ___ (stop) the server two hours ago.", "answers": ["stopped"], "explain": "On double le p : stopped."}
+      ]
+    },
+    {
+      "id": "present-perfect-vs-past-simple",
+      "title": "Present perfect ou past simple ?",
+      "level": "A2-B1",
+      "topic": "Grammaire",
+      "summary": "La grande difficulté des francophones. Une règle simple pour choisir, et les pièges for / since.",
+      "blocks": [
+        {"type": "h", "text": "Construction du present perfect"},
+        {"type": "p", "text": "**have / has + participe passé**. Pour les verbes réguliers, le participe passé est identique au past simple (-ed). Pour les irréguliers, il faut l'apprendre :"},
+        {"type": "table", "head": ["Base", "Past simple", "Participe passé"], "rows": [
+          ["be", "was / were", "been"],
+          ["go", "went", "gone"],
+          ["see", "saw", "seen"],
+          ["do", "did", "done"],
+          ["write", "wrote", "written"],
+          ["take", "took", "taken"],
+          ["make", "made", "made"],
+          ["have", "had", "had"]
+        ]},
+        {"type": "h", "text": "Les 3 emplois du present perfect"},
+        {"type": "list", "items": [
+          "**Une expérience de vie**, sans date : *I have been to London.*",
+          "**Un résultat visible maintenant** : *I've lost my badge.* (je ne l'ai toujours pas)",
+          "**Une situation qui continue jusqu'à maintenant**, avec for / since : *I have worked here since 2024.*"
+        ]},
+        {"type": "h", "text": "La règle d'or"},
+        {"type": "p", "text": "Si tu peux donner un **moment précis du passé** (yesterday, last week, in 2020, two days ago, when…?), utilise le **past simple**. Sans moment précis, ou avec un lien avec le présent, utilise le **present perfect**."},
+        {"type": "ex", "en": "I saw him yesterday.", "fr": "Je l'ai vu hier. (moment précis → past simple)"},
+        {"type": "ex", "en": "I've seen this movie.", "fr": "J'ai déjà vu ce film. (sans date → present perfect)"},
+        {"type": "ex", "en": "I lived in Paris in 2019.", "fr": "J'ai vécu à Paris en 2019. (date → past simple)"},
+        {"type": "ex", "en": "Have you ever used Wireshark?", "fr": "As-tu déjà utilisé Wireshark ?"},
+        {"type": "ex", "en": "She has worked here for two years.", "fr": "Elle travaille ici depuis deux ans."},
+        {"type": "tip", "text": "**Piège n°1** : « je travaille ici depuis 2 ans » → *I have worked here for two years*. Le français utilise le présent, l'anglais le present perfect."},
+        {"type": "tip", "text": "**Piège n°2** : **for** = une durée (*for two years*), **since** = un point de départ (*since 2024, since Monday*)."},
+        {"type": "h", "text": "Mots-signaux"},
+        {"type": "list", "items": [
+          "Present perfect : ever, never, already, yet, just, recently, so far, for, since",
+          "Past simple : yesterday, last week, ago, in + année, when"
+        ]}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "I ___ him yesterday.", "options": ["have seen", "saw", "see"], "answer": 1, "explain": "« yesterday » est un moment précis → past simple : saw."},
+        {"type": "qcm", "q": "She ___ here since 2022.", "options": ["works", "worked", "has worked"], "answer": 2, "explain": "« since » indique un état qui dure jusqu'à maintenant → present perfect."},
+        {"type": "fill", "q": "I ___ (never / be) to Canada. (écris : have + never + participe)", "answers": ["have never been"], "explain": "have never been (be → been)."},
+        {"type": "qcm", "q": "___ you ever used Docker?", "options": ["Did", "Have", "Do"], "answer": 1, "explain": "« ever » sans date → Have you ever used…?"},
+        {"type": "fill", "q": "We ___ (live) in Caen for five years. (have + participe)", "answers": ["have lived"], "explain": "« for five years » + toujours vrai maintenant → have lived."},
+        {"type": "qcm", "q": "Quelle phrase est correcte ?", "options": ["I have finished the report last night.", "I finished the report last night.", "I finish the report last night."], "answer": 1, "explain": "« last night » est un moment précis → past simple."},
+        {"type": "fill", "q": "He ___ (just / send) the email. (has + just + participe)", "answers": ["has just sent"], "explain": "has just sent : « just » va avec le present perfect."},
+        {"type": "qcm", "q": "« ___ Monday » : for ou since ?", "options": ["for", "since"], "answer": 1, "explain": "Monday est un point de départ → since Monday."}
+      ]
+    },
+    {
+      "id": "articles-plurals",
+      "title": "A, an, the et les pluriels",
+      "level": "A1",
+      "topic": "Grammaire",
+      "summary": "Choisir le bon article, former le pluriel (même irrégulier) et éviter les pièges comme « information ».",
+      "blocks": [
+        {"type": "h", "text": "a ou an ?"},
+        {"type": "p", "text": "Ce qui compte, c'est le **son**, pas la lettre : **an** devant un son voyelle, **a** devant un son consonne."},
+        {"type": "ex", "en": "a server, a user, a hospital", "fr": "« user » commence par le son /you/ → a"},
+        {"type": "ex", "en": "an email, an hour, an engineer", "fr": "« hour » : le h est muet → an"},
+        {"type": "h", "text": "the"},
+        {"type": "p", "text": "On l'utilise quand on sait de quoi on parle (*The server is down*) ou quand il n'y a qu'un seul élément. On **n'utilise pas** d'article pour une généralité : *I like music.*"},
+        {"type": "h", "text": "Le pluriel"},
+        {"type": "list", "items": [
+          "Règle de base : + **s** (server → servers)",
+          "Après s, x, ch, sh : + **es** (box → boxes, watch → watches)",
+          "Consonne + y : **ies** (city → cities)"
+        ]},
+        {"type": "table", "head": ["Singulier", "Pluriel irrégulier"], "rows": [
+          ["man", "men"], ["woman", "women"], ["child", "children"],
+          ["person", "people"], ["foot", "feet"], ["tooth", "teeth"]
+        ]},
+        {"type": "tip", "text": "**Indénombrables** : *information, advice, equipment, news* n'ont pas de pluriel et ne prennent pas « a ». On dit *some information*, *a piece of advice*."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "I need ___ email address.", "options": ["a", "an", "the"], "answer": 1, "explain": "« email » commence par un son voyelle → an."},
+        {"type": "qcm", "q": "She is ___ user of this application.", "options": ["a", "an"], "answer": 0, "explain": "« user » commence par le son /you/, donc a."},
+        {"type": "fill", "q": "One child, two ___.", "answers": ["children"], "explain": "Pluriel irrégulier : children."},
+        {"type": "fill", "q": "One city, two ___.", "answers": ["cities"], "explain": "Consonne + y → ies."},
+        {"type": "qcm", "q": "Choisis la bonne phrase :", "options": ["I need some informations.", "I need some information.", "I need an information."], "answer": 1, "explain": "« information » est indénombrable : pas de -s, pas de « an »."},
+        {"type": "qcm", "q": "One box, two ___.", "options": ["boxs", "boxes", "boxies"], "answer": 1, "explain": "Après x : + es."}
+      ]
+    },
+    {
+      "id": "in-on-at",
+      "title": "Les prépositions in / on / at",
+      "level": "A2",
+      "topic": "Grammaire",
+      "summary": "Le temps et le lieu : savoir quand utiliser in, on et at, avec des repères faciles à retenir.",
+      "blocks": [
+        {"type": "h", "text": "Le temps"},
+        {"type": "table", "head": ["Préposition", "Utilisation", "Exemples"], "rows": [
+          ["at", "heure, moment précis", "at 9 a.m., at noon, at night"],
+          ["on", "jour, date", "on Monday, on 5 May, on Friday morning"],
+          ["in", "mois, année, saison, partie de journée", "in March, in 2026, in winter, in the morning"]
+        ]},
+        {"type": "tip", "text": "On dit **in** the morning / afternoon / evening, mais **at** night."},
+        {"type": "h", "text": "Le lieu"},
+        {"type": "table", "head": ["Préposition", "Utilisation", "Exemples"], "rows": [
+          ["at", "un point précis", "at the hospital, at the door, at home, at work"],
+          ["in", "dans un espace", "in Paris, in France, in the room"],
+          ["on", "sur une surface ou une ligne", "on the table, on the screen, on the second floor"]
+        ]},
+        {"type": "ex", "en": "The meeting is on Monday at 10 a.m.", "fr": "La réunion est lundi à 10 h."},
+        {"type": "ex", "en": "She lives in Caen.", "fr": "Elle habite à Caen."},
+        {"type": "ex", "en": "I'm at work.", "fr": "Je suis au travail."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "The meeting is ___ Monday.", "options": ["in", "on", "at"], "answer": 1, "explain": "Un jour de la semaine → on."},
+        {"type": "qcm", "q": "I start work ___ 8 a.m.", "options": ["at", "on", "in"], "answer": 0, "explain": "Une heure → at."},
+        {"type": "fill", "q": "My birthday is ___ June. (in / on / at)", "answers": ["in"], "explain": "Un mois → in."},
+        {"type": "fill", "q": "She lives ___ Caen. (in / on / at)", "answers": ["in"], "explain": "Une ville → in."},
+        {"type": "qcm", "q": "I usually sleep ___ night.", "options": ["in", "on", "at"], "answer": 2, "explain": "Exception à retenir : at night."},
+        {"type": "qcm", "q": "The file is ___ the desktop.", "options": ["in", "on", "at"], "answer": 1, "explain": "Une surface (le bureau) → on."},
+        {"type": "fill", "q": "See you ___ Friday morning. (in / on / at)", "answers": ["on"], "explain": "Friday morning : on s'appuie sur le jour → on."}
+      ]
+    },
+    {
+      "id": "false-friends",
+      "title": "Les faux amis anglais-français",
+      "level": "A2-B1",
+      "topic": "Vocabulaire",
+      "summary": "Les mots qui ressemblent au français mais veulent dire autre chose. Les erreurs les plus fréquentes au travail.",
+      "blocks": [
+        {"type": "p", "text": "Ces mots ressemblent à un mot français, mais leur sens est **différent**. Ce sont des pièges classiques."},
+        {"type": "table", "head": ["Mot anglais", "Sens réel", "Pour le mot français ressemblant"], "rows": [
+          ["actually", "en fait", "currently"],
+          ["eventually", "finalement", "possibly / maybe"],
+          ["library", "bibliothèque", "bookshop (= librairie)"],
+          ["sensible", "raisonnable", "sensitive (= sensible)"],
+          ["to attend", "assister à", "to wait for (= attendre)"],
+          ["to demand", "exiger", "to ask (= demander)"],
+          ["location", "emplacement", "rental (= location)"],
+          ["to pretend", "faire semblant", "to claim (= prétendre)"]
+        ]},
+        {"type": "ex", "en": "Actually, the server was already down.", "fr": "En fait, le serveur était déjà en panne."},
+        {"type": "ex", "en": "I'm currently working on a migration.", "fr": "Je travaille actuellement sur une migration."},
+        {"type": "ex", "en": "She attended the training on Monday.", "fr": "Elle a assisté à la formation lundi."},
+        {"type": "tip", "text": "**Le plus fréquent** : *actually* ne veut jamais dire « actuellement ». Pour « actuellement », dis **currently** ou **at the moment**."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "« Actuellement » se dit…", "options": ["actually", "currently", "actual"], "answer": 1, "explain": "Actuellement = currently. « actually » veut dire « en fait »."},
+        {"type": "qcm", "q": "« I attended the meeting » veut dire…", "options": ["J'ai attendu la réunion", "J'ai assisté à la réunion", "J'ai organisé la réunion"], "answer": 1, "explain": "To attend = assister à."},
+        {"type": "qcm", "q": "Pour parler d'une bibliothèque, on dit…", "options": ["library", "bookshop", "librairie"], "answer": 0, "explain": "Library = bibliothèque. Une librairie = a bookshop."},
+        {"type": "fill", "q": "« En fait » se dit ___ en anglais.", "answers": ["actually"], "explain": "Actually = en fait."},
+        {"type": "qcm", "q": "« He's a sensible person » signifie…", "options": ["Il est très sensible", "Il est raisonnable", "Il est sensationnel"], "answer": 1, "explain": "Sensible = raisonnable. « Sensible » en français se dit sensitive."},
+        {"type": "fill", "q": "« Un emplacement » se dit ___ en anglais.", "answers": ["location"], "explain": "Location = emplacement. Pour « location » (louer), on dit rental."}
+      ]
+    },
+    {
+      "id": "modal-verbs",
+      "title": "Les verbes modaux : can, must, should…",
+      "level": "A2",
+      "topic": "Grammaire",
+      "summary": "Pouvoir, devoir, conseiller : les verbes modaux et la différence entre mustn't et don't have to.",
+      "blocks": [
+        {"type": "p", "text": "Les verbes modaux sont suivis du **verbe à la forme de base, sans « to »**, et ne prennent **jamais de -s** à la 3e personne : *She can swim* (et non *She cans* ni *She can to swim*)."},
+        {"type": "table", "head": ["Modal", "Sens", "Exemple"], "rows": [
+          ["can / can't", "capacité, possibilité", "I can't access the server."],
+          ["could", "demande polie, passé de can", "Could you send me the report?"],
+          ["must", "obligation forte", "You must wear a badge."],
+          ["have to", "obligation externe", "We have to finish before Friday."],
+          ["should", "conseil", "You should restart the router."],
+          ["may / might", "possibilité", "It might be a network issue."]
+        ]},
+        {"type": "tip", "text": "**mustn't** = c'est **interdit** (*You mustn't open this door*). **don't have to** = ce **n'est pas obligatoire** (*You don't have to come*). Deux sens très différents !"},
+        {"type": "ex", "en": "You should restart the router.", "fr": "Tu devrais redémarrer le routeur."},
+        {"type": "ex", "en": "Could you help me, please?", "fr": "Pourriez-vous m'aider, s'il vous plaît ?"}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "She ___ speak three languages.", "options": ["can", "cans", "can to"], "answer": 0, "explain": "Pas de -s et pas de « to » après un modal."},
+        {"type": "qcm", "q": "You ___ park here. It's forbidden.", "options": ["don't have to", "mustn't", "can"], "answer": 1, "explain": "Interdiction → mustn't."},
+        {"type": "qcm", "q": "Tu n'es pas obligé de venir : You ___ come.", "options": ["mustn't", "don't have to", "can't"], "answer": 1, "explain": "Pas d'obligation → don't have to."},
+        {"type": "fill", "q": "You ___ see a doctor. (conseil : devrais)", "answers": ["should"], "explain": "Should exprime un conseil."},
+        {"type": "qcm", "q": "Pour demander poliment :", "options": ["Could you help me, please?", "Do you can help me?", "Can you to help me?"], "answer": 0, "explain": "Could you + verbe de base. « Do you can » et « can to » sont incorrects."},
+        {"type": "fill", "q": "He is busy, so he ___ come tomorrow. (négatif de can, forme courte)", "answers": ["can't", "cannot", "can not"], "explain": "can't (ou cannot) = ne peut pas."}
+      ]
+    },
+    {
+      "id": "it-english",
+      "title": "Anglais pro : IT, tickets et e-mails",
+      "level": "B1",
+      "topic": "Vocabulaire pro",
+      "summary": "Le vocabulaire informatique du quotidien et les phrases toutes faites pour écrire des e-mails et des tickets.",
+      "blocks": [
+        {"type": "h", "text": "Vocabulaire IT"},
+        {"type": "table", "head": ["Anglais", "Français"], "rows": [
+          ["backup", "sauvegarde"],
+          ["outage / downtime", "panne, indisponibilité"],
+          ["patch", "correctif"],
+          ["to troubleshoot", "dépanner, diagnostiquer"],
+          ["to roll back", "revenir en arrière"],
+          ["permissions / access rights", "droits d'accès"],
+          ["workaround", "solution de contournement"],
+          ["issue", "problème (plus neutre que « problem »)"],
+          ["deadline", "échéance"],
+          ["to escalate", "faire remonter à un niveau supérieur"]
+        ]},
+        {"type": "h", "text": "Phrases utiles pour un e-mail ou un ticket"},
+        {"type": "ex", "en": "I'm writing to let you know that the update is complete.", "fr": "Je vous écris pour vous informer que la mise à jour est terminée."},
+        {"type": "ex", "en": "Could you please confirm the date?", "fr": "Pourriez-vous confirmer la date, s'il vous plaît ?"},
+        {"type": "ex", "en": "Please find attached the report.", "fr": "Veuillez trouver ci-joint le rapport."},
+        {"type": "ex", "en": "We are currently investigating the issue.", "fr": "Nous analysons actuellement le problème."},
+        {"type": "ex", "en": "The issue has been resolved.", "fr": "Le problème a été résolu."},
+        {"type": "ex", "en": "I'll get back to you by Friday.", "fr": "Je reviens vers vous d'ici vendredi."},
+        {"type": "ex", "en": "Thanks in advance. Best regards,", "fr": "Merci d'avance. Cordialement,"},
+        {"type": "tip", "text": "Pour dire qu'un problème est réglé, on utilise souvent la voix passive : **has been resolved / has been fixed**."}
+      ],
+      "exercises": [
+        {"type": "qcm", "q": "Une sauvegarde se dit…", "options": ["backup", "safe", "save-guard"], "answer": 0, "explain": "Backup = sauvegarde."},
+        {"type": "qcm", "q": "« Please find attached the report » signifie…", "options": ["Veuillez trouver le rapport en pièce jointe", "Veuillez attacher le rapport", "Veuillez retrouver le rapport"], "answer": 0, "explain": "Formule classique pour introduire une pièce jointe."},
+        {"type": "fill", "q": "« Dépanner » (un problème technique) se dit to ___.", "answers": ["troubleshoot"], "explain": "To troubleshoot = diagnostiquer et dépanner."},
+        {"type": "qcm", "q": "« We are currently investigating » signifie…", "options": ["Nous analysons actuellement le problème", "Nous avons réglé le problème", "Nous avons annulé le ticket"], "answer": 0, "explain": "To investigate = analyser, enquêter."},
+        {"type": "fill", "q": "« Solution de contournement » se dit ___.", "answers": ["workaround"], "explain": "Workaround = solution de contournement."},
+        {"type": "qcm", "q": "Pour finir un e-mail poliment :", "options": ["Best regards,", "Greetings from me,", "Respectfully yours of,"], "answer": 0, "explain": "Best regards est la formule standard."}
+      ]
+    }
+  ]
+}

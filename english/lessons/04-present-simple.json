@@ -1,0 +1,304 @@
+{
+ "id": "present-simple",
+ "title": "Le présent simple",
+ "level": "A1",
+ "topic": "Temps verbaux",
+ "summary": "Habitudes, vérités générales et horaires : règle du -s, do/does et adverbes de fréquence.",
+ "blocks": [
+  {
+   "type": "h",
+   "text": "À quoi sert-il ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une **habitude** : *I check my mails every morning.*",
+    "Une **vérité générale** : *Water boils at 100 °C.*",
+    "Un **horaire** : *The train leaves at 8.*",
+    "Un état (*know, like, need, want*) : *I need help.*"
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Affirmative : la règle du -s"
+  },
+  {
+   "type": "p",
+   "text": "À toutes les personnes, c'est le **verbe de base**, sauf à **he / she / it** où l'on ajoute **-s** : *she works*."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Fin du verbe",
+    "Règle",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "la plupart",
+     "+ s",
+     "work → works"
+    ],
+    [
+     "-s, -sh, -ch, -x, -o",
+     "+ es",
+     "watch → watches, go → goes"
+    ],
+    [
+     "consonne + y",
+     "y → ies",
+     "study → studies"
+    ],
+    [
+     "voyelle + y",
+     "+ s",
+     "play → plays"
+    ],
+    [
+     "have",
+     "irrégulier",
+     "have → has"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Négation et question"
+  },
+  {
+   "type": "p",
+   "text": "On utilise l'auxiliaire **do** (ou **does** à la 3e personne). Le verbe reste alors **à l'infinitif sans -s** : le -s est déjà porté par *does*."
+  },
+  {
+   "type": "table",
+   "head": [
+    "",
+    "Négation",
+    "Question"
+   ],
+   "rows": [
+    [
+     "I / you / we / they",
+     "I don't work",
+     "Do you work?"
+    ],
+    [
+     "he / she / it",
+     "She doesn't work",
+     "Does she work?"
+    ]
+   ]
+  },
+  {
+   "type": "h",
+   "text": "Adverbes de fréquence"
+  },
+  {
+   "type": "p",
+   "text": "*always, usually, often, sometimes, rarely, never* se placent **avant le verbe principal** mais **après to be** : *I **always** check logs.* / *He **is never** late.*"
+  },
+  {
+   "type": "h",
+   "text": "Exemples"
+  },
+  {
+   "type": "ex",
+   "en": "She works as a developer.",
+   "fr": "Elle travaille comme développeuse."
+  },
+  {
+   "type": "ex",
+   "en": "Does your team use Linux?",
+   "fr": "Ton équipe utilise-t-elle Linux ?"
+  },
+  {
+   "type": "ex",
+   "en": "He doesn't like meetings.",
+   "fr": "Il n'aime pas les réunions."
+  },
+  {
+   "type": "ex",
+   "en": "I usually take the train.",
+   "fr": "Je prends généralement le train."
+  },
+  {
+   "type": "tip",
+   "text": "**Piège** : *Does she **works**?* est faux. Après does, le verbe est nu : *Does she work?*"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "qcm",
+   "q": "She ___ to work every day.",
+   "options": [
+    "go",
+    "goes",
+    "going"
+   ],
+   "answer": 1,
+   "explain": "3e personne, verbe en -o → goes."
+  },
+  {
+   "type": "qcm",
+   "q": "He ___ like coffee.",
+   "options": [
+    "don't",
+    "doesn't",
+    "isn't"
+   ],
+   "answer": 1,
+   "explain": "Négation à la 3e personne : doesn't."
+  },
+  {
+   "type": "qcm",
+   "q": "___ they speak English?",
+   "options": [
+    "Does",
+    "Do",
+    "Are"
+   ],
+   "answer": 1,
+   "explain": "They → Do."
+  },
+  {
+   "type": "qcm",
+   "q": "My brother ___ in Lyon.",
+   "options": [
+    "live",
+    "lives",
+    "living"
+   ],
+   "answer": 1,
+   "explain": "3e personne → lives."
+  },
+  {
+   "type": "qcm",
+   "q": "Quelle phrase est correcte ?",
+   "options": [
+    "I always drink tea.",
+    "I drink always tea.",
+    "Always I drink tea."
+   ],
+   "answer": 0,
+   "explain": "L'adverbe de fréquence se place avant le verbe principal."
+  },
+  {
+   "type": "qcm",
+   "q": "She ___ English. (étudier)",
+   "options": [
+    "studys",
+    "studies",
+    "study"
+   ],
+   "answer": 1,
+   "explain": "Consonne + y → ies : studies."
+  },
+  {
+   "type": "qcm",
+   "q": "Which one is correct?",
+   "options": [
+    "Does he works here?",
+    "Does he work here?",
+    "Do he work here?"
+   ],
+   "answer": 1,
+   "explain": "Après does, le verbe est à l'infinitif."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (watch) TV every evening.",
+   "answers": [
+    "watches"
+   ],
+   "explain": "-ch → +es : watches."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (not / know) the answer.",
+   "answers": [
+    "don't know",
+    "do not know"
+   ],
+   "explain": "Négation avec we : don't know."
+  },
+  {
+   "type": "fill",
+   "q": "___ she work in IT? (do / does)",
+   "answers": [
+    "does",
+    "Does"
+   ],
+   "explain": "Question à la 3e personne : Does she work ?"
+  },
+  {
+   "type": "fill",
+   "q": "My computer ___ (have) 16 GB of RAM.",
+   "answers": [
+    "has"
+   ],
+   "explain": "have → has."
+  },
+  {
+   "type": "fill",
+   "q": "He is ___ late. (jamais)",
+   "answers": [
+    "never"
+   ],
+   "explain": "Après to be : He is never late."
+  },
+  {
+   "type": "fill",
+   "q": "The bus ___ (leave) at 7.",
+   "answers": [
+    "leaves"
+   ],
+   "explain": "Horaire, 3e personne : leaves."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "She",
+    "does",
+    "not",
+    "like",
+    "meetings"
+   ],
+   "answers": [
+    "She does not like meetings",
+    "She doesn't like meetings"
+   ],
+   "explain": "Sujet + does not + verbe de base."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "Does",
+    "he",
+    "work",
+    "in",
+    "London"
+   ],
+   "answers": [
+    "Does he work in London"
+   ],
+   "explain": "Does + sujet + verbe nu."
+  },
+  {
+   "type": "order",
+   "q": "Remets les mots dans le bon ordre.",
+   "words": [
+    "I",
+    "always",
+    "check",
+    "my",
+    "mails"
+   ],
+   "answers": [
+    "I always check my mails"
+   ],
+   "explain": "Adverbe avant le verbe principal."
+  }
+ ]
+}
